@@ -75310,6 +75310,71 @@ let currentArticle = BLOG_POSTS_DATABASE[0];
 let currentPhotoIndex = 0;
 let homepageFilterCategory = "All Blogs";
 let homepageSearchQuery = "";
+let homepageCurrentPage = 1;
+let categoryCurrentPage = 1;
+const ITEMS_PER_PAGE = 12;
+
+function renderPaginationControls(container, currentPage, totalPages, totalItems, onPageChange) {
+  if (!container) return;
+  if (totalPages <= 1) {
+    container.innerHTML = "";
+    return;
+  }
+
+  let pages = [];
+  if (totalPages <= 7) {
+    for (let i = 1; i <= totalPages; i++) pages.push(i);
+  } else {
+    pages.push(1);
+    if (currentPage > 3) pages.push('...');
+    
+    let start = Math.max(2, currentPage - 1);
+    let end = Math.min(totalPages - 1, currentPage + 1);
+    
+    if (currentPage <= 3) {
+      start = 2;
+      end = 4;
+    } else if (currentPage >= totalPages - 2) {
+      start = totalPages - 3;
+      end = totalPages - 1;
+    }
+
+    for (let i = start; i <= end; i++) pages.push(i);
+
+    if (currentPage < totalPages - 2) pages.push('...');
+    pages.push(totalPages);
+  }
+
+  const buttonsHTML = pages.map(p => {
+    if (p === '...') {
+      return `<span class="page-ellipsis">...</span>`;
+    }
+    return `<button class="page-btn ${p === currentPage ? 'active' : ''}" data-page="${p}">${p}</button>`;
+  }).join("");
+
+  const prevBtn = `<button class="page-btn" data-page="${currentPage - 1}" ${currentPage === 1 ? 'disabled' : ''}><i class="fas fa-chevron-left"></i> Prev</button>`;
+  const nextBtn = `<button class="page-btn" data-page="${currentPage + 1}" ${currentPage === totalPages ? 'disabled' : ''}>Next <i class="fas fa-chevron-right"></i></button>`;
+
+  container.innerHTML = `
+    <div class="pagination-wrapper">
+      <div class="pagination-controls">
+        ${prevBtn}
+        ${buttonsHTML}
+        ${nextBtn}
+      </div>
+      <div class="pagination-info">Page ${currentPage} of ${totalPages} (${totalItems} total articles)</div>
+    </div>
+  `;
+
+  container.querySelectorAll(".page-btn[data-page]").forEach(btn => {
+    btn.addEventListener("click", () => {
+      const targetPage = parseInt(btn.getAttribute("data-page"), 10);
+      if (targetPage >= 1 && targetPage <= totalPages && targetPage !== currentPage) {
+        onPageChange(targetPage);
+      }
+    });
+  });
+}
 
 document.addEventListener("DOMContentLoaded", () => {
   const isArticlePage = document.getElementById("articleHeroTitle") !== null;
@@ -75332,6 +75397,7 @@ document.addEventListener("DOMContentLoaded", () => {
    CATEGORY PAGE ARCHIVE LOGIC
    ========================================================================== */
 function initCategoryPage() {
+  categoryCurrentPage = 1;
   const urlParams = new URLSearchParams(window.location.search);
   const catNameParam = urlParams.get('cat') || 'Haircuts';
 
@@ -75387,6 +75453,10 @@ function initCategoryPage() {
       return isCatMatch && isSearchMatch;
     });
 
+    const totalPages = Math.ceil(matchedPosts.length / ITEMS_PER_PAGE) || 1;
+    if (categoryCurrentPage > totalPages) categoryCurrentPage = totalPages;
+    if (categoryCurrentPage < 1) categoryCurrentPage = 1;
+
     if (badgeEl) {
       badgeEl.innerHTML = `<i class="fas fa-layer-group"></i> Showing ${matchedPosts.length} article${matchedPosts.length === 1 ? '' : 's'}`;
     }
@@ -75399,16 +75469,38 @@ function initCategoryPage() {
             <p style="color: var(--text-muted);">Try adjusting your search query or view all guides.</p>
           </div>
         `;
+        let pagEl = document.getElementById("categoryPagination");
+        if (pagEl) pagEl.innerHTML = "";
         return;
       }
-      gridEl.innerHTML = matchedPosts.map(createBlogCardHTML).join("");
+
+      const startIdx = (categoryCurrentPage - 1) * ITEMS_PER_PAGE;
+      const pagePosts = matchedPosts.slice(startIdx, startIdx + ITEMS_PER_PAGE);
+
+      gridEl.innerHTML = pagePosts.map(createBlogCardHTML).join("");
     }
+
+    let pagContainer = document.getElementById("categoryPagination");
+    if (!pagContainer) {
+      pagContainer = document.createElement("div");
+      pagContainer.id = "categoryPagination";
+      pagContainer.style.gridColumn = "1 / -1";
+      gridEl.parentNode.appendChild(pagContainer);
+    }
+
+    renderPaginationControls(pagContainer, categoryCurrentPage, totalPages, matchedPosts.length, (newPage) => {
+      categoryCurrentPage = newPage;
+      renderGrid(searchInput ? searchInput.value : '');
+      const gridSection = document.getElementById("categoryPostsGrid");
+      if (gridSection) gridSection.scrollIntoView({ behavior: "smooth" });
+    });
   }
 
   renderGrid();
 
   if (searchInput) {
     searchInput.addEventListener("input", (e) => {
+      categoryCurrentPage = 1;
       renderGrid(e.target.value);
     });
   }
@@ -75450,6 +75542,7 @@ function initMobileMenu() {
    HOMEPAGE LOGIC (CLEAN COVER IMAGES WITHOUT PIN BUTTONS)
    ========================================================================== */
 function initHomepage() {
+  homepageCurrentPage = 1;
   renderHomepageFeed();
 
   // Search Bar
@@ -75457,6 +75550,7 @@ function initHomepage() {
   if (searchInput) {
     searchInput.addEventListener("input", (e) => {
       homepageSearchQuery = e.target.value.toLowerCase().trim();
+      homepageCurrentPage = 1;
       renderHomepageFeed();
     });
   }
@@ -75468,6 +75562,7 @@ function initHomepage() {
       catBtns.forEach(b => b.classList.remove("active"));
       btn.classList.add("active");
       homepageFilterCategory = btn.getAttribute("data-category");
+      homepageCurrentPage = 1;
       renderHomepageFeed();
     });
   });
@@ -75488,6 +75583,7 @@ function initHaircutQuiz() {
     } else {
       homepageSearchQuery = "";
     }
+    homepageCurrentPage = 1;
     renderHomepageFeed();
 
     const gridSection = document.getElementById("homepagePostsGrid");
@@ -75511,6 +75607,10 @@ function renderHomepageFeed() {
     return matchesCat && matchesSearch;
   });
 
+  const totalPages = Math.ceil(filtered.length / ITEMS_PER_PAGE) || 1;
+  if (homepageCurrentPage > totalPages) homepageCurrentPage = totalPages;
+  if (homepageCurrentPage < 1) homepageCurrentPage = 1;
+
   if (filtered.length === 0) {
     grid.innerHTML = `
       <div style="grid-column: 1 / -1; text-align: center; padding: 4rem 1rem;">
@@ -75518,10 +75618,30 @@ function renderHomepageFeed() {
         <p style="color: var(--text-muted);">Try selecting 'All Blogs' or clearing your search input.</p>
       </div>
     `;
+    let pagContainer = document.getElementById("homepagePagination");
+    if (pagContainer) pagContainer.innerHTML = "";
     return;
   }
 
-  grid.innerHTML = filtered.map(createBlogCardHTML).join("");
+  const startIdx = (homepageCurrentPage - 1) * ITEMS_PER_PAGE;
+  const pagePosts = filtered.slice(startIdx, startIdx + ITEMS_PER_PAGE);
+
+  grid.innerHTML = pagePosts.map(createBlogCardHTML).join("");
+
+  let pagContainer = document.getElementById("homepagePagination");
+  if (!pagContainer) {
+    pagContainer = document.createElement("div");
+    pagContainer.id = "homepagePagination";
+    pagContainer.style.gridColumn = "1 / -1";
+    grid.parentNode.appendChild(pagContainer);
+  }
+
+  renderPaginationControls(pagContainer, homepageCurrentPage, totalPages, filtered.length, (newPage) => {
+    homepageCurrentPage = newPage;
+    renderHomepageFeed();
+    const gridSection = document.getElementById("homepagePostsGrid");
+    if (gridSection) gridSection.scrollIntoView({ behavior: "smooth" });
+  });
 }
 
 function openBlogArticle(id) {
@@ -75811,7 +75931,22 @@ function renderRelatedArticlesFeed() {
   const feedList = document.getElementById("relatedFeedList");
   if (!feedList) return;
 
-  feedList.innerHTML = BLOG_POSTS_DATABASE.map(post => `
+  const currentId = currentArticle ? currentArticle.id : '';
+  const currentCat = currentArticle ? currentArticle.category : '';
+
+  let candidatePosts = BLOG_POSTS_DATABASE.filter(p => p.id !== currentId);
+
+  // Sort candidates so articles in the same category are prioritized
+  candidatePosts.sort((a, b) => {
+    const aSame = (a.category === currentCat) ? -1 : 1;
+    const bSame = (b.category === currentCat) ? -1 : 1;
+    return aSame - bSame;
+  });
+
+  // Limit to maximum 6 recommended articles
+  const recommended = candidatePosts.slice(0, 6);
+
+  feedList.innerHTML = recommended.map(post => `
     <div class="related-feed-item" onclick="openBlogArticle('${post.id}')">
       <img src="${post.thumbnail}" alt="${post.heroTitle}" class="feed-thumb-img">
       <div>
