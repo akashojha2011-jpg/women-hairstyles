@@ -84046,9 +84046,23 @@ function renderArticlePage() {
   renderActiveGalleryPhoto();
 }
 
+function preloadArticleImages() {
+  if (currentArticle && currentArticle.photos && Array.isArray(currentArticle.photos)) {
+    currentArticle.photos.forEach(p => {
+      const src = p.image || p.imageUrl;
+      if (src) {
+        const img = new Image();
+        img.src = src;
+      }
+    });
+  }
+}
+
 function renderActiveGalleryPhoto() {
   const photo = currentArticle.photos[currentPhotoIndex];
   if (!photo) return;
+
+  preloadArticleImages();
 
   // Counter Indicator
   const counterEl = document.getElementById("galleryCounter");
@@ -84056,9 +84070,18 @@ function renderActiveGalleryPhoto() {
     counterEl.textContent = `${currentPhotoIndex + 1} OF ${currentArticle.photos.length} PHOTOS`;
   }
 
-  // Photo
+  // Photo with instant cache swap & smooth transition
   const photoEl = document.getElementById("galleryPhoto");
-  if (photoEl) photoEl.src = photo.image;
+  if (photoEl) {
+    const newSrc = photo.image || photo.imageUrl;
+    if (photoEl.src !== newSrc) {
+      photoEl.style.opacity = "0.5";
+      setTimeout(() => {
+        photoEl.src = newSrc;
+        photoEl.style.opacity = "1";
+      }, 50);
+    }
+  }
 
   // Content Below Slider
   const numberTitleEl = document.getElementById("itemNumberTitle");

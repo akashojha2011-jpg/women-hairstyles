@@ -890,13 +890,27 @@ img {
   align-items: center;
   justify-content: center;
   font-size: 1.35rem;
-  transition: all var(--transition);
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
   z-index: 10;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
 }
 
 .slider-arrow:hover {
   background: #FFFFFF;
-  transform: translateY(-50%) scale(1.12);
+  transform: translateY(-50%) scale(1.1);
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.3);
+}
+
+.slider-arrow:active {
+  transform: translateY(-50%) scale(0.92);
+}
+
+.gallery-photo-frame img {
+  transition: opacity 0.2s ease-in-out;
 }
 
 .arrow-left { left: 1rem; }
