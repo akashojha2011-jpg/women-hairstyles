@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Women Hairstyles | Inspiring Hair Trends Since 2013</title>
+  <meta name="description" content="Inspiring hair trends since 2013. Discover top trending women's haircuts, choppy layers, bobs, balayage, and hairstyle lookbooks.">
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="assets/favicon.png">
+  <link rel="shortcut icon" href="favicon.ico">
+  <link rel="apple-touch-icon" href="assets/favicon.png">
+
+  <!-- Font Awesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  
+  <!-- Custom Stylesheet -->
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Google E-E-A-T & Pinterest Rich Pin Structured Data (JSON-LD) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "WomenHairstyles",
+    "url": "https://womenhairstyles.com/",
+    "description": "Inspiring hair trends, haircuts, and color guides curated by licensed stylists since 2013.",
+    "publisher": {
+      "@type": "Organization",
+      "name": "WomenHairstyles Magazine",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://womenhairstyles.com/assets/butterfly.jpg"
+      }
+    }
+  }
+  </script>
+</head>
+<body>
+
+  <!-- ==========================================
+       1. HEADER
+       ========================================== -->
+  <header class="blog-header">
+    <div class="container header-inner">
+      <div class="brand-wrapper">
+        <button class="mobile-menu-btn" id="mobileMenuBtn" title="Toggle Navigation Menu"><i class="fas fa-bars"></i></button>
+        <a href="index.html" class="logo-text">
+          Women<span class="logo-script">Hairstyles</span>
+        </a>
+      </div>
+
+      <!-- Desktop Nav Links -->
+      <ul class="desktop-nav">
+        <li><a href="category.html?cat=Haircuts">Haircuts</a></li>
+        <li><a href="category.html?cat=Hairstyles">Hairstyles</a></li>
+        <li><a href="category.html?cat=Hair%20Color">Hair Color</a></li>
+        <li><a href="category.html?cat=Guides">Guides</a></li>
+        <li><a href="about.html">About</a></li>
+      </ul>
+
+      <div class="header-actions">
+        <div class="header-social-group">
+          <a href="#" aria-label="Pinterest" class="header-social-icon" title="Pinterest"><i class="fab fa-pinterest-p"></i></a>
+          <a href="#" aria-label="Instagram" class="header-social-icon" title="Instagram"><i class="fab fa-instagram"></i></a>
+        </div>
+        <button id="headerSearchBtn" title="Search Blogs"><i class="fas fa-search"></i></button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Mobile Navigation Drawer Overlay -->
+  <div class="mobile-nav-overlay" id="mobileNavOverlay">
+    <button class="mobile-nav-close" id="mobileNavClose"><i class="fas fa-times"></i></button>
+    <ul class="mobile-nav-links">
+      <li><a href="category.html?cat=Haircuts">Haircuts</a></li>
+      <li><a href="category.html?cat=Hairstyles">Hairstyles</a></li>
+      <li><a href="category.html?cat=Hair%20Color">Hair Color</a></li>
+      <li><a href="category.html?cat=Guides">Guides</a></li>
+      <li><a href="about.html">About</a></li>
+    </ul>
+  </div>
+
+  <main>
+    <!-- ==========================================
+         2. HOMEPAGE EDITORIAL TITLE BANNER
+         ========================================== -->
+    <section class="homepage-hero-banner">
+      <div class="container">
+        <div class="banner-inner">
+          <span class="banner-kicker"><i class="fas fa-sparkles"></i> INSPIRING HAIR TRENDS SINCE 2013</span>
+          <h1 class="banner-title font-serif">Inspiring Women's Haircuts, Hairstyles & Hair Color Trends</h1>
+          <p class="banner-subtitle">
+            Explore salon-tested haircut guides, trend forecasts, and color transformations curated by licensed master stylists. High-resolution vertical lookbooks for every face shape.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==========================================
+         3. SEARCH & CATEGORY FILTERS
+         ========================================== -->
+    <section class="filter-search-section">
+      <div class="container">
+        <!-- Real-time Search Input -->
+        <div class="search-bar-wrapper">
+          <i class="fas fa-search search-bar-icon"></i>
+          <input type="text" id="homeSearchInput" class="search-bar-input" placeholder="Search hair blog posts, bobs, layers, curtain bangs...">
+        </div>
+
+        <!-- Category Pills Bar -->
+        <div class="category-pills-bar">
+          <button class="cat-pill-btn active" data-category="All Blogs">All Blogs</button>
+          <button class="cat-pill-btn" data-category="Haircuts">Haircuts</button>
+          <button class="cat-pill-btn" data-category="Hairstyles">Hairstyles</button>
+          <button class="cat-pill-btn" data-category="Hair Color">Hair Color</button>
+          <button class="cat-pill-btn" data-category="Guides">Guides</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==========================================
+         4. BLOG POSTS GRID (VERTICAL COVER IMAGES)
+         ========================================== -->
+    <section class="container">
+      <div class="blog-posts-grid" id="homepagePostsGrid">
+        <!-- JS Dynamic Injection -->
+      </div>
+    </section>
+  </main>
+
+  <!-- ==========================================
+       BYRDIE-STYLE LUXURY MAGAZINE FOOTER
+       ========================================== -->
+  <footer class="byrdie-footer">
+    <div class="container">
+      <div class="byrdie-footer-grid">
+
+        <!-- Left Brand & Newsletter Column -->
+        <div class="byrdie-brand-col" id="aboutUs">
+          <a href="index.html" class="logo-text" style="color: #FFFFFF; font-size: 2.2rem; display: inline-block; margin-bottom: 0.8rem;">
+            Women<span class="logo-script" style="font-size: 2.5rem; color: #E879F9;">Hairstyles</span>
+          </a>
+
+          <p class="byrdie-tagline">
+            Our purpose is to help you find your next haircut, hairstyle, color or product that you'll love.
+          </p>
+
+          <!-- Newsletter Input Form -->
+          <form class="byrdie-newsletter-form" onsubmit="event.preventDefault(); alert('Subscribed to WomenHairstyles Newsletter!');">
+            <div class="byrdie-input-wrapper">
+              <i class="far fa-envelope"></i>
+              <input type="email" placeholder="you@example.com" required>
+            </div>
+            <button type="submit" class="byrdie-subscribe-btn">SUBSCRIBE</button>
+          </form>
+
+          <!-- Minimal Byrdie Social Icons (Pinterest & Instagram Only) -->
+          <div class="byrdie-social-row">
+            <a href="#" aria-label="Pinterest" title="Pinterest"><i class="fab fa-pinterest-p"></i></a>
+            <a href="#" aria-label="Instagram" title="Instagram"><i class="fab fa-instagram"></i></a>
+          </div>
+        </div>
+
+        <!-- Right 3 Link Columns -->
+        <div class="byrdie-links-group">
+          <!-- Column 1: Hair Categories -->
+          <div class="byrdie-link-col">
+            <h4 class="byrdie-col-heading">CATEGORIES</h4>
+            <a href="article.html?id=choppy-haircuts">HAIRCUTS</a>
+            <a href="article.html?id=round-face-haircuts">HAIRSTYLES</a>
+            <a href="article.html?id=silver-highlights-guide">HAIR COLOR</a>
+            <a href="article.html?id=curly-hairstyles-50">GUIDES</a>
+            <a href="index.html">TRENDS</a>
+          </div>
+
+          <!-- Column 2: Company -->
+          <div class="byrdie-link-col">
+            <h4 class="byrdie-col-heading">COMPANY</h4>
+            <a href="about.html">ABOUT US</a>
+            <a href="editorial-policy.html">EDITORIAL STANDARDS</a>
+            <a href="contact.html">CONTACT US</a>
+          </div>
+
+          <!-- Column 3: Legal Policies -->
+          <div class="byrdie-link-col">
+            <h4 class="byrdie-col-heading">LEGAL</h4>
+            <a href="editorial-policy.html">EDITORIAL POLICY</a>
+            <a href="privacy.html">PRIVACY POLICY</a>
+            <a href="privacy.html#cookies">COOKIE POLICY</a>
+            <a href="terms.html">TERMS OF SERVICE</a>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Bottom Copyright Bar & Authority -->
+      <div class="byrdie-bottom-bar">
+        <span>WomenHairstyles.com &copy; 2013–2026. All rights reserved.</span>
+        <span class="authority-badge-dark" style="font-size: 0.72rem; padding: 0.2rem 0.65rem;">
+          <i class="fas fa-certificate"></i> INSPIRING HAIR TRENDS SINCE 2013
+        </span>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Global Interactive Search Modal -->
+  <div class="global-search-modal" id="globalSearchModal">
+    <div class="search-modal-content">
+      <button class="search-modal-close" id="closeSearchModal" title="Close Search">&times;</button>
+      <div class="search-modal-input-wrapper">
+        <i class="fas fa-search"></i>
+        <input type="text" id="globalSearchInput" class="search-modal-input" placeholder="Search haircuts, bobs, layers, color guides...">
+      </div>
+      <div class="search-modal-results" id="globalSearchResults">
+        <!-- Live search results rendered by JS -->
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
