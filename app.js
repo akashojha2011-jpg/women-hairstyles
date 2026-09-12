@@ -97460,7 +97460,7 @@ document.addEventListener("DOMContentLoaded", () => {
 function initCategoryPage() {
   categoryCurrentPage = 1;
   const urlParams = new URLSearchParams(window.location.search);
-  const catNameParam = urlParams.get('cat') || 'Haircuts';
+  const catNameParam = document.body.getAttribute('data-category') || urlParams.get('cat') || 'Haircuts';
 
   const categoryDescriptions = {
     "Haircuts": "Discover salon-tested haircut guides, choppy layers, bobs, and fringe styles curated by licensed stylists.",
