@@ -16,8 +16,8 @@
   
   --accent-pink: #E879F9;
   --accent-pink-dark: #D946EF;
-  --accent-red-pin: #E60023;
-  --accent-red-hover: #AD001A;
+  --accent-red-pin: #111111;
+  --accent-red-hover: #000000;
   --accent-gold-authority: #D99B6A;
   
   --border-color: #EFEFEF;
@@ -906,47 +906,54 @@ img {
   position: absolute;
   top: 1.25rem;
   right: 1.25rem;
-  background: var(--accent-red-pin);
+  background: rgba(10, 10, 10, 0.82);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
   color: #FFFFFF;
-  padding: 0.6rem 1.25rem;
+  padding: 0.55rem 1.15rem;
   border-radius: 30px;
-  font-size: 0.88rem;
-  font-weight: 800;
+  font-size: 0.82rem;
+  font-weight: 700;
   display: flex;
   align-items: center;
-  gap: 0.5rem;
-  box-shadow: 0 4px 18px rgba(230, 0, 35, 0.45);
+  gap: 0.45rem;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
   transition: all var(--transition);
   z-index: 10;
 }
 
 .pin-this-badge:hover {
-  background: var(--accent-red-hover);
-  transform: scale(1.06);
+  background: #000000;
+  border-color: var(--accent-pink);
+  color: var(--accent-pink);
+  transform: scale(1.04);
 }
 
 .save-idea-bar {
-  background: #000000;
+  background: #111111;
   color: #FFFFFF;
-  padding: 0.95rem 1rem;
+  padding: 0.85rem 1rem;
   text-align: center;
-  font-size: 1.1rem;
-  font-weight: 800;
-  letter-spacing: 1px;
+  font-size: 0.95rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
   text-transform: uppercase;
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 0.6rem;
-  border-bottom: 4px solid var(--accent-red-pin);
-  border-radius: 0 0 8px 8px;
+  gap: 0.5rem;
+  border: 1px solid #222222;
+  border-radius: 8px;
   margin-bottom: 2.25rem;
   cursor: pointer;
-  transition: background var(--transition);
+  transition: all var(--transition);
 }
 
 .save-idea-bar:hover {
-  background: var(--accent-red-pin);
+  background: #000000;
+  border-color: var(--accent-pink-dark);
+  color: var(--accent-pink);
 }
 
 /* Dynamic Content Below Slider */
@@ -1103,22 +1110,23 @@ img {
   line-height: 1.35;
 }
 
-/* Mobile Sticky Pinterest Pin Button Bar */
+/* Mobile Sticky Save Button Bar */
 .mobile-sticky-pin-bar {
   display: none;
   position: fixed;
   bottom: 0;
   left: 0;
   right: 0;
-  background: var(--accent-red-pin);
+  background: #111111;
   color: #FFFFFF;
-  padding: 0.85rem 1rem;
+  padding: 0.75rem 1rem;
   text-align: center;
-  font-size: 1rem;
-  font-weight: 800;
+  font-size: 0.88rem;
+  font-weight: 700;
   letter-spacing: 0.5px;
   z-index: 90;
-  box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.25);
+  border-top: 1px solid #222222;
+  box-shadow: 0 -4px 15px rgba(0, 0, 0, 0.3);
   align-items: center;
   justify-content: center;
   gap: 0.5rem;
@@ -1394,7 +1402,7 @@ img {
 
 /* Pinterest Banner Callout */
 .pinterest-banner-box {
-  background: linear-gradient(135deg, #E60023 0%, #AD001A 100%);
+  background: linear-gradient(135deg, #111111 0%, #1C1C1C 100%);
   color: #FFFFFF;
   padding: 3rem 2rem;
   border-radius: 16px;
@@ -1403,7 +1411,8 @@ img {
   justify-content: space-between;
   gap: 2rem;
   margin: 4rem 0;
-  box-shadow: 0 10px 30px rgba(230, 0, 35, 0.25);
+  border: 1px solid #222222;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
 }
 
 .pinterest-banner-title {
@@ -1415,11 +1424,11 @@ img {
 
 .btn-pinterest-callout {
   background: #FFFFFF;
-  color: #E60023;
+  color: #111111;
   padding: 0.9rem 2rem;
   border-radius: 30px;
-  font-weight: 800;
-  font-size: 1rem;
+  font-weight: 700;
+  font-size: 0.95rem;
   display: inline-flex;
   align-items: center;
   gap: 0.6rem;
@@ -1429,7 +1438,9 @@ img {
 }
 
 .btn-pinterest-callout:hover {
-  transform: scale(1.06);
+  transform: scale(1.04);
+  background: var(--bg-surface);
+  color: var(--accent-pink-dark);
 }
 
 @media (max-width: 1024px) {
@@ -1954,16 +1965,28 @@ img {
 
 @media (max-width: 768px) {
   .desktop-nav { display: none; }
+  .header-social-group { display: none !important; }
+  .logo-text { font-size: 1.35rem; }
+  .logo-script { font-size: 1.65rem; }
+  .brand-wrapper { gap: 0.5rem; }
+  .header-inner { height: 60px; padding: 0 0.5rem; }
   .mobile-menu-btn { display: block; }
   .mobile-sticky-pin-bar { display: flex; }
   .blog-posts-grid { grid-template-columns: 1fr; }
   .specs-grid { grid-template-columns: 1fr; }
-  .slider-arrow { width: 44px; height: 44px; font-size: 1.15rem; }
-  .arrow-left { left: 0.5rem; }
-  .arrow-right { right: 0.5rem; }
+  .slider-arrow { width: 40px; height: 40px; font-size: 1.05rem; }
+  .arrow-left { left: 0.4rem; }
+  .arrow-right { right: 0.4rem; }
   .footer-top-grid { grid-template-columns: 1fr; gap: 2rem; }
   .footer-bottom-bar { flex-direction: column; gap: 0.8rem; text-align: center; }
   body { padding-bottom: 50px; }
+}
+
+@media (max-width: 480px) {
+  .logo-text { font-size: 1.18rem; }
+  .logo-script { font-size: 1.45rem; }
+  .pin-this-badge { padding: 0.45rem 0.85rem; font-size: 0.76rem; top: 0.75rem; right: 0.75rem; }
+  .save-idea-bar { font-size: 0.85rem; padding: 0.75rem 0.8rem; }
 }
 
 /* ==========================================================================
