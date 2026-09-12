@@ -97718,11 +97718,26 @@ function initArticlePage() {
 
   if (!articleId) {
     const path = window.location.pathname;
-    const filename = path.substring(path.lastIndexOf('/') + 1);
+    let filename = path.substring(path.lastIndexOf('/') + 1);
+    try {
+      filename = decodeURIComponent(filename);
+    } catch(e) {}
     articleId = filename.replace('.html', '').replace('.htm', '');
   }
 
-  currentArticle = BLOG_POSTS_DATABASE.find(a => a.id === articleId) || BLOG_POSTS_DATABASE[0];
+  if (articleId) {
+    articleId = articleId.toLowerCase().trim();
+  }
+
+  currentArticle = BLOG_POSTS_DATABASE.find(a => a.id.toLowerCase() === articleId);
+
+  if (!currentArticle) {
+    // If not found in JS database, preserve pre-rendered static HTML content!
+    initTouchSwipe();
+    window.addEventListener("scroll", updateReadingProgressBar);
+    return;
+  }
+
   currentPhotoIndex = 0;
 
   renderArticlePage();
