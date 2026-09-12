@@ -69,7 +69,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "4. V-Shaped Cut For Long Curls",
-        "image": "assets/curly_hairstyles_289_15.jpg",
+        "image": "assets/doc_b_58_14.jpg",
         "description": "Have you ever noticed how long curly hair can look straggly at the bottom? A V-shaped cut for long curls solves this issue by trimming the hair into a distinct\n\nV at the back. This clever technique removes damaged, thinning ends while preserving maximum length in the center. For 3a curls, this creates a beautiful cascading effect where the ringlets at the front frame the face and the back forms a stunning, thick point. It is a highly romantic and dramatic look that maintains the integrity of your long hair. You get to keep all the length you love while ensuring your curls look thick and healthy from every angle.",
         "paragraphs": [
           "Have you ever noticed how long curly hair can look straggly at the bottom? A V-shaped cut for long curls solves this issue by trimming the hair into a distinct",
@@ -430,7 +430,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "9. Pull Through Braid",
-        "image": "assets/curly_hairstyles_290_17.jpg",
+        "image": "assets/layered_hairstyles_161_9.jpg",
         "description": "The pull-through braid is a modern favorite that looks like a complex braid but is actually a series of connected ponytails. This is an ideal “cheat” for hikers who struggle with traditional braiding techniques but want a high-security style.\n\nBecause each section is held by its own elastic, the style is nearly impossible to mess up, even during a long day of physical exertion. For curly hair, this style creates a voluminous, faux-hawk effect that looks stunning in photos.\n\nIt provides excellent protection by keeping the hair in small, controlled segments, which prevents the individual curls from expanding and matting together in the wind or rain.",
         "paragraphs": [
           "The pull-through braid is a modern favorite that looks like a complex braid but is actually a series of connected ponytails. This is an ideal “cheat” for hikers who struggle with traditional braiding techniques but want a high-security style.",
@@ -912,7 +912,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "3. Side Swept Hollywood Curls With Modern Face Framing",
-        "image": "assets/curly_hairstyles_292_16.jpg",
+        "image": "assets/blunt_bob_243_22.jpg",
         "description": "Modern face-framing around Old Hollywood side-swept curls helps the look feel current and flattering for a range of face shapes. This hairstyle features soft, slightly shorter pieces around the front that blend into the larger curls cascading to one side.\n\nAsk your stylist for gentle face-framing layers that start around the cheekbones or jawline, depending on your features. When styling, create your deep side part and curl the front pieces slightly away from your face to open it up, while still curling the rest of the hair in the same direction for that classic wave pattern.\n\nAfter brushing everything into smooth waves, let the face-framing pieces sit softly over your brow and cheek on the heavier side, adding softness and dimension. Use a light-hold hairspray around the face so those shorter pieces stay in place without looking stiff, and add a touch of shine spray through the lengths for an overall glossy, camera-ready finish.",
         "paragraphs": [
           "Modern face-framing around Old Hollywood side-swept curls helps the look feel current and flattering for a range of face shapes. This hairstyle features soft, slightly shorter pieces around the front that blend into the larger curls cascading to one side.",
@@ -1075,7 +1075,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "14. Side Swept Hollywood Curls For Natural Wavy Hair",
-        "image": "assets/curly_hairstyles_292_17.jpg",
+        "image": "assets/doc_b_29_9.jpg",
         "description": "Natural wavy hair can create beautiful Old Hollywood side-swept curls with less effort, because it already has some bend and texture built in. This version focuses on refining and directing your natural pattern rather than completely reshaping it.\n\nStart with a smoothing cream or curl cream on damp hair and blow-dry using a diffuser or air dry until almost complete, leaving some natural wave visible. Create a deep side part, then use a curling iron only on sections that need more definition, especially around the face and on the heavier side where the waves will be most visible.\n\nOnce everything is cool, lightly brush or rake through the hair to blend your natural waves with the styled curls, guiding everything over one shoulder. Finish with a lightweight anti-frizz spray and flexible hairspray so the texture stays touchable and soft, keeping that romantic Old Hollywood feel without fighting your hair’s natural movement.",
         "paragraphs": [
           "Natural wavy hair can create beautiful Old Hollywood side-swept curls with less effort, because it already has some bend and texture built in. This version focuses on refining and directing your natural pattern rather than completely reshaping it.",
@@ -1801,7 +1801,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "5. Picture Day Curls With Bow",
-        "image": "assets/curly_hairstyles_295_17.jpg",
+        "image": "assets/bob_haircuts_259_8.jpg",
         "description": "Adding a bow to school picture day curls is a simple way to create a memorable, cute look without extra styling time. Bows work especially well with down curls, half up looks, or low ponytails.\n\nStart by styling the curls as usual, making sure they are defined and dry. Choose a bow that is proportional to your child’s head and matches the outfit without stealing the spotlight. Place the bow at the back of a half up section, above a low ponytail, or slightly off to the side for a playful touch. Make sure it is secured well so it stays in place until photos are done.\n\nThe bow draws attention upward in the frame and adds a cheerful, finished feel to the overall curly hairstyle.",
         "paragraphs": [
           "Adding a bow to school picture day curls is a simple way to create a memorable, cute look without extra styling time. Bows work especially well with down curls, half up looks, or low ponytails.",
@@ -1935,7 +1935,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "14. Long Curly Hair For Picture Day",
-        "image": "assets/curly_hairstyles_295_15.jpg",
+        "image": "assets/layered_hairstyles_172_3.jpg",
         "description": "Long curly hair can look stunning in school pictures when it is shaped and defined instead of left to frizz. The main goal is to encourage organized curls and prevent the hair from swallowing your child’s face in the frame.\n\nOn damp hair, apply a generous amount of leave-in conditioner for slip, followed by curl cream or gel using a raking and scrunching motion. Consider parting the hair slightly off-center to help curls fall more evenly. Allow the hair to dry completely before touching it, then gently fluff at the roots and separate a few curls for balanced volume. You can tuck one side behind the ear or secure it with a small clip to open up the face. This keeps the natural length and texture visible while still looking tidy for picture day.",
         "paragraphs": [
           "Long curly hair can look stunning in school pictures when it is shaped and defined instead of left to frizz. The main goal is to encourage organized curls and prevent the hair from swallowing your child’s face in the frame.",
@@ -2535,7 +2535,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "17. Curly Haircut With Side Part",
-        "image": "assets/curly_hairstyles_297_17.jpg",
+        "image": "assets/doc_b_81_13.jpg",
         "description": "A curly haircut with side part focuses on creating a shape that looks best when your curls fall to one side. This often means adding more layering on the heavier side of your part and slightly less on the other, so the volume looks balanced and intentional.\n\nIt can flatter round, square, or heart‑shaped faces by shifting the weight of curls and opening up one side of the face. Ask your stylist to cut your hair with your natural, preferred side part already in place, rather than centering it, so the layers and length sit correctly when you style at home.\n\nFor daily styling, apply your usual curl products, then gently push more hair toward the chosen side while diffusing, creating extra lift at the roots on top to keep the side‑parted shape dynamic.",
         "paragraphs": [
           "A curly haircut with side part focuses on creating a shape that looks best when your curls fall to one side. This often means adding more layering on the heavier side of your part and slightly less on the other, so the volume looks balanced and intentional.",
@@ -2674,7 +2674,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "8. Curled Under Layered Bob",
-        "image": "assets/curly_hairstyles_298_9.jpg",
+        "image": "assets/blunt_bob_244_17.jpg",
         "description": "A curled under layered bob is ideal if your hair is thick or you want more movement without losing that curved hem. Layers are cut throughout the interior or mainly through the midlengths so the bob feels lighter and more textured, while the perimeter still reads as a bob when you curl the ends under.\n\nThis gives you volume and bounce without the heavy, solid line some blunt bobs can have on dense hair. Styling works best if you prep with a lightweight volumizing mousse, blow-dry lifting the roots with your fingers or a round brush, then use either a round brush or curling iron to turn the ends under in small sections.\n\nA light texturizing spray or dry shampoo at the crown afterward helps emphasize the layers and keeps the bob from falling flat through the day.",
         "paragraphs": [
           "A curled under layered bob is ideal if your hair is thick or you want more movement without losing that curved hem. Layers are cut throughout the interior or mainly through the midlengths so the bob feels lighter and more textured, while the perimeter still reads as a bob when you curl the ends under.",
@@ -2719,7 +2719,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "11. Curled Under Rounded Bob",
-        "image": "assets/curly_hairstyles_298_11.jpg",
+        "image": "assets/curly_over50_271_1.jpg",
         "description": "A curled under rounded bob gives you a soft, bubble like silhouette that still feels modern when cut and styled correctly. The shape is gently rounded from crown to ends, with carefully blended layers or an undercut that helps the hair fold under instead of flaring.\n\nThis can be great if you want a very feminine, soft look that hugs the head and emphasizes a delicate neck or jaw. To style, blow-dry with a round brush in vertical sections, rolling the brush almost all the way to the roots before pulling through to create a consistent curve that ends in a tucked-under hem. Use smoothing cream on the midlengths and a light hairspray to keep the shape in place without making it rigid, which is what usually dates rounded bobs., Edgy Style, Chic Look, Chic Look",
         "paragraphs": [
           "A curled under rounded bob gives you a soft, bubble like silhouette that still feels modern when cut and styled correctly. The shape is gently rounded from crown to ends, with carefully blended layers or an undercut that helps the hair fold under instead of flaring.",
@@ -2734,7 +2734,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "12. Curled Under Stacked Bob",
-        "image": "assets/curly_hairstyles_298_10.jpg",
+        "image": "assets/modern_haircuts_183_5.jpg",
         "description": "For serious back volume, a curled under stacked bob is hard to beat. The cut features shorter, stacked layers at the back of the head, which build a rounded shape and naturally encourage the hair to curve under, while the front stays a little longer to frame the face.\n\nWhen styled with curled under ends, the shape becomes very full and rounded in a way that can be incredibly flattering, especially on finer hair that needs more lift at the crown. Blow-dry by lifting the back sections up and over a round brush, then tuck the ends under along the stacked layers so the volume stays at the occipital bone.\n\nKeep products light and focus on root lifts or mousses rather than heavy creams so the stack stays airy and does not collapse.",
         "paragraphs": [
           "For serious back volume, a curled under stacked bob is hard to beat. The cut features shorter, stacked layers at the back of the head, which build a rounded shape and naturally encourage the hair to curve under, while the front stays a little longer to frame the face.",
@@ -2749,7 +2749,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "13. Curled Under Bob With Full Fringe",
-        "image": "assets/curly_hairstyles_298_8.jpg",
+        "image": "assets/warm_blonde_234_7.jpg",
         "description": "A curled under bob with full fringe is great if you like a stronger statement around your eyes. This version pairs a one length or lightly layered bob with a dense, lash-grazing fringe that runs straight across or slightly curved to match the rounded line of the cut.\n\nCurling the ends of both the bang and the bob under creates a cohesive, rounded shape that almost feels like a modern nod to classic mod cuts. Use a small round brush on the bangs, working in small sections so they sit smoothly without bumps, then switch to a medium brush for the rest of the bob, keeping the curve subtle so the shape does not turn into a “bubble.” A shine spray or smoothing serum focused on the fringe and ends will help the line of the cut look sharp and polished.",
         "paragraphs": [
           "A curled under bob with full fringe is great if you like a stronger statement around your eyes. This version pairs a one length or lightly layered bob with a dense, lash-grazing fringe that runs straight across or slightly curved to match the rounded line of the cut.",
@@ -3109,7 +3109,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "18. French Curly Chin Length Bob",
-        "image": "assets/curly_hairstyles_299_16.jpg",
+        "image": "assets/doc_b_56_11.jpg",
         "description": "Craving a style that looks effortlessly sophisticated? The French curly chin length bob pairs a precise chin-grazing length with soft, brow-skimming bangs.\n\nThis iconic pairing creates a striking frame that highlights the eyes and cheekbones beautifully. The secret to making this work for thick curls is keeping the ends blunt while allowing the natural texture to do its thing. The bluntness controls the bulk, while the bangs add a touch of classic Parisian charm. It is chic, timeless, and surprisingly easy to manage.\n\nYou can wear your curls tighter or stretch them out slightly with a diffuser for a more relaxed feel. This cut oozes confidence and gives you a refined look every single day.",
         "paragraphs": [
           "Craving a style that looks effortlessly sophisticated? The French curly chin length bob pairs a precise chin-grazing length with soft, brow-skimming bangs.",
@@ -3159,7 +3159,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "2. Rounded Curly Cut",
-        "image": "assets/curly_hairstyles_300_16.jpg",
+        "image": "assets/ponytail_hairstyles_212_9.jpg",
         "description": "Can a specific shape help your curls look more uniform while you wear glasses? A rounded curly cut is designed to follow the natural curve of the head, creating a soft, halo-like silhouette.\n\nThis shape is achieved through interior layering that removes weight from the ends to prevent a “bell” shape. For those with glasses, the rounded edges provide a gentle frame that doesn’t compete with the sharp lines of the eyewear.\n\nIt is a classic choice for women with coily or very curly hair, as it celebrates the natural volume and spring of the hair. This look is timeless and sophisticated, ensuring that your curls look well-groomed and balanced against any style of glasses you choose to wear.",
         "paragraphs": [
           "Can a specific shape help your curls look more uniform while you wear glasses? A rounded curly cut is designed to follow the natural curve of the head, creating a soft, halo-like silhouette.",
@@ -3294,7 +3294,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "11. Curly Bixie Cut",
-        "image": "assets/curly_hairstyles_300_15.jpg",
+        "image": "assets/bob_haircuts_257_7.jpg",
         "description": "Is there a middle ground between a pixie and a bob that suits your eyewear? The curly bixie cut combines the shorn back of a pixie with the face-framing lengths of a bob.\n\nThis hybrid style is excellent for women with glasses because it offers the ease of a short cut while retaining enough length to frame the face softly. The longer pieces at the front can be tucked behind the ears or left to graze the tops of the frames, providing versatility in how you style your look. This cut is perfect for showcasing natural texture and volume without the maintenance of long hair. It provides a youthful, energetic vibe that pairs perfectly with bold or colorful glasses frames.",
         "paragraphs": [
           "Is there a middle ground between a pixie and a bob that suits your eyewear? The curly bixie cut combines the shorn back of a pixie with the face-framing lengths of a bob.",
@@ -3351,7 +3351,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "15. Waterfall Curly Layers",
-        "image": "assets/curly_hairstyles_300_14.jpg",
+        "image": "assets/doc_b_79_19.jpg",
         "description": "Do you want a soft, cascading look that keeps your curls from looking too dense around your frames? Waterfall curly layers involve cutting hair in varying lengths that overlap smoothly, creating a fluid and light appearance.\n\nThis technique is particularly helpful for glasses wearers because it prevents the hair from clumping together in a way that might overwhelm the face or hide the eyewear. The layers start higher up, which adds lift to the roots and keeps the hair from drooping over the top of the frames.\n\nThis style creates a romantic and airy aesthetic that works well with delicate metal frames or transparent plastic styles, ensuring your natural curls look intentional and beautifully managed every single day.",
         "paragraphs": [
           "Do you want a soft, cascading look that keeps your curls from looking too dense around your frames? Waterfall curly layers involve cutting hair in varying lengths that overlap smoothly, creating a fluid and light appearance.",
@@ -3366,7 +3366,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "16. Curly Undercut Pixie",
-        "image": "assets/curly_hairstyles_300_17.jpg",
+        "image": "assets/doc_ash_bob_21.jpg",
         "description": "Are you looking for the ultimate low-maintenance hairstyle that keeps hair completely away from your glasses? A curly undercut pixie features shaved or very short sides with a longer, curly section on the top of the head.\n\nThis style is incredibly functional for glasses wearers because there is absolutely no hair to interfere with the frames or get caught in the hinges. The contrast between the short sides and the curly top creates a modern, edgy look that highlights the cheekbones and eyes.\n\nThis cut allows you to play with height and texture, making it a great choice for women who want to make a statement with both their hair and their bold, stylish eyewear choices.",
         "paragraphs": [
           "Are you looking for the ultimate low-maintenance hairstyle that keeps hair completely away from your glasses? A curly undercut pixie features shaved or very short sides with a longer, curly section on the top of the head.",
@@ -3445,7 +3445,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "2. Curly Refresh With Colorful Accent Curls",
-        "image": "assets/curly_hairstyles_301_17.jpg",
+        "image": "assets/doc_b_44_5.jpg",
         "description": "Even if your curls are a bit tired, refreshing accent sections with color or temporary tints can make your whole look feel new. Lightly mist selected front pieces or face-framing curls to reactivate definition.\n\nApply a temporary curl-safe color product or tinted gel to these sections, smoothing from root to tip for even coverage. Scrunch gently to maintain curl shape, then let air-dry or diffuse on low heat.\n\nKeep the rest of your hair simple, just lightly refreshed with water and leave-in to avoid product overload. This refreshed look draws attention to the colored curls, making your style feel bold and intentional while still being gentle on your hair and easy to reset on your next wash day.",
         "paragraphs": [
           "Even if your curls are a bit tired, refreshing accent sections with color or temporary tints can make your whole look feel new. Lightly mist selected front pieces or face-framing curls to reactivate definition.",
@@ -3593,7 +3593,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "12. Curly Refresh Protective Two Strand Twists",
-        "image": "assets/curly_hairstyles_301_16.jpg",
+        "image": "assets/doc_b_25_14.jpg",
         "description": "Two strand twists are a great refresh choice when your curls need a break but you still want a defined, wearable look. Begin by lightly misting your hair, then apply a nourishing leave-in plus a curl cream or gel for hold.\n\nPart your hair into small to medium sections depending on how full you want the final look to be. Split each section into two equal pieces and twist them around each other from root to tip, smoothing product through as you go.\n\nLet the twists air-dry fully before separating or styling further so you lock in definition. This refreshed protective look reduces daily manipulation, helps preserve moisture, and can later be unraveled into a twist-out for another defined curly refresh day.",
         "paragraphs": [
           "Two strand twists are a great refresh choice when your curls need a break but you still want a defined, wearable look. Begin by lightly misting your hair, then apply a nourishing leave-in plus a curl cream or gel for hold.",
@@ -3894,7 +3894,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "13. Flexi Rod Curls on Natural Hair Updo",
-        "image": "assets/curly_hairstyles_302_16.jpg",
+        "image": "assets/layered_fine_hair_156_14.jpg",
         "description": "Once your flexi rod curls are fully dried and separated, they can be swept up into a stunning curly updo. Gather the curls loosely at the nape or crown and pin them in place while allowing some spirals to fall free around the face and nape for a soft, romantic finish.\n\nA loose curly bun, a high puff-updo with curls, or a pinned half-twisted style all work beautifully with this texture. Bobby pins and hair-friendly pins keep the style in place without disturbing the curl pattern.\n\nThis updo option is perfect for formal events, warm-weather days, or any occasion where you want your natural curls elevated into something more structured and styled without losing any of their gorgeous definition.",
         "paragraphs": [
           "Once your flexi rod curls are fully dried and separated, they can be swept up into a stunning curly updo. Gather the curls loosely at the nape or crown and pin them in place while allowing some spirals to fall free around the face and nape for a soft, romantic finish.",
@@ -4181,7 +4181,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "13. Curly Shag For Thick Hair Over 50",
-        "image": "assets/curly_over50_270_17.jpg",
+        "image": "assets/curly_hairstyles_301_4.jpg",
         "description": "Thick curls can feel overwhelming, especially as you get older and want less daily maintenance, which is where a curly shag for thick hair over 50 really shines. This cut focuses on strong interior layering that quietly removes bulk while leaving the perimeter soft and flattering.\n\nBy carving out weight from inside the haircut, your stylist helps the curls stack and separate instead of forming one big block at the bottom. The length can range from just below the ears to past the shoulders depending on your preference, but the key is keeping the ends textured and the crown lifted.\n\nThis makes thick hair feel lighter on the neck and scalp and can reduce drying time. Paired with a good curl cream and maybe a gel, you can air-dry without the hair drooping, getting a youthful, full-bodied shape that still feels easy to wear day to day.",
         "paragraphs": [
           "Thick curls can feel overwhelming, especially as you get older and want less daily maintenance, which is where a curly shag for thick hair over 50 really shines. This cut focuses on strong interior layering that quietly removes bulk while leaving the perimeter soft and flattering.",
@@ -4480,7 +4480,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "15. The Curly Bouffant",
-        "image": "assets/curly_over50_271_15.jpg",
+        "image": "assets/doc_b_27_6.jpg",
         "description": "For women over 60, the curly bouffant is synonymous with volume and elegance.\n\nIt lifts the hair to create a fuller look at the crown, exuding confidence and grace. This vintage-inspired hairstyle is perfect for adding a touch of glamour.",
         "paragraphs": [
           "For women over 60, the curly bouffant is synonymous with volume and elegance.",
@@ -4738,7 +4738,7 @@ const BLOG_POSTS_DATABASE = [
     "authorAvatar": "assets/cindy_marcus_headshot.jpg",
     "updatedDate": "September 12, 2026",
     "readTime": "8 min read",
-    "thumbnail": "assets/curly_over50_273_17.jpg",
+    "thumbnail": "assets/bob_haircuts_258_15.jpg",
     "introText": "Embracing natural waves and curls over 60 provides flattering softness, optical crown height, and elegant daily styling ease. Tailored layering highlights facial features while celebrating natural hair texture.\n\nUsing hydrating leave-in conditioners and gentle diffuser drying maintains curl elasticity and radiant shine.\n\nBelow, explore 18+ beautiful curly and wavy hairstyles for women over 60.",
     "introParagraphs": [
       "Embracing natural waves and curls over 60 provides flattering softness, optical crown height, and elegant daily styling ease. Tailored layering highlights facial features while celebrating natural hair texture.",
@@ -4748,7 +4748,7 @@ const BLOG_POSTS_DATABASE = [
     "photos": [
       {
         "numberTitle": "1. Curly Blunt Cut Bob",
-        "image": "assets/curly_over50_273_17.jpg",
+        "image": "assets/doc_b_77_20.jpg",
         "description": "Forget everything you have heard about curly hair needing layers. The curly blunt cut bob is breaking all the rules and looking amazing doing it.\n\nThis cut features zero layers. The hair is cut straight across at one exact length, usually right below the chin. Without layers to release the weight, the curls clump together to form thick, heavy, defined ringlets. This creates a very bold and dramatic look. It is perfect for women with thick, coarse curly hair that usually gets out of control. The blunt line gives the illusion of very dense, healthy hair.\n\nIt is a striking, modern statement that requires good hydration to keep the ends smooth.",
         "paragraphs": [
           "Forget everything you have heard about curly hair needing layers. The curly blunt cut bob is breaking all the rules and looking amazing doing it.",
@@ -6626,7 +6626,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "3. Rounded Curly Shag Haircut",
-        "image": "assets/curly_over50_279_17.jpg",
+        "image": "assets/doc_b_62_6.jpg",
         "description": "Want a soft, circular silhouette that frames your face perfectly? A rounded curly shag haircut creates a beautiful dome shape that wraps around your head like a cozy cloud.\n\nUnlike shags that are heavily thinned out at the bottom, this variation maintains a solid, curved perimeter. The interior layers provide the lift, while the outer edges are cut to curl under slightly, forming a smooth, round shape. This gives a very polished and neat appearance while still retaining the essential texture of a shag. It is particularly flattering for women over sixty who want to add width to narrow face shapes.\n\nThe result is a gentle, approachable style that feels comforting, tidy, and effortlessly chic for any casual occasion.",
         "paragraphs": [
           "Want a soft, circular silhouette that frames your face perfectly? A rounded curly shag haircut creates a beautiful dome shape that wraps around your head like a cozy cloud.",
@@ -6656,7 +6656,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "5. Curly Shag With Face Framing Layers",
-        "image": "assets/curly_over50_279_19.jpg",
+        "image": "assets/trending_haircuts_218_11.jpg",
         "description": "Looking to highlight your best facial features effortlessly? A curly shag with face framing layers is designed specifically to act like a spotlight on your eyes and cheekbones.\n\nThe layers gradually increase in length as they reach the back, but the front pieces are cut to curl gently around your jawline and temples. This technique creates a beautiful curtain effect that conceals fine lines around the eyes while showcasing your smile. It is an incredibly flattering approach that personalizes the shag haircut to your unique face shape. For women over sixty, this targeted framing brings a bright, awake quality to the complexion.\n\nIt is a highly wearable, gorgeous style that feels custom-tailored and looks spectacular from every single angle you turn.",
         "paragraphs": [
           "Looking to highlight your best facial features effortlessly? A curly shag with face framing layers is designed specifically to act like a spotlight on your eyes and cheekbones.",
@@ -6701,7 +6701,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "8. Tapered Curly Shag Haircut",
-        "image": "assets/curly_over50_279_14.jpg",
+        "image": "assets/ponytail_hairstyles_201_3.jpg",
         "description": "Do you want a neat nape with plenty of volume on top? A tapered curly shag haircut offers the best of both worlds by keeping the back closely cut while leaving the crown full and shaggy.\n\nThe tapering at the neckline ensures your hair sits flat and tidy against your collar, preventing any awkward bulkiness. Meanwhile, the longer layers on top allow your curls to bounce freely and frame your face beautifully.\n\nThis creates a clean, polished silhouette from the side and back, with a fun, textured surprise on top. Women over sixty appreciate this style because it stays out of the way and remains comfortable, yet it still provides the playful volume and character of a full shag.",
         "paragraphs": [
           "Do you want a neat nape with plenty of volume on top? A tapered curly shag haircut offers the best of both worlds by keeping the back closely cut while leaving the crown full and shaggy.",
@@ -6746,7 +6746,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "11. Choppy Curly Shag",
-        "image": "assets/curly_over50_279_18.jpg",
+        "image": "assets/bob_haircuts_256_10.jpg",
         "description": "Do you love a distinctly textured, edgy finish? A choppy curly shag relies on heavily textured cutting techniques to create a strikingly piece-y look.\n\nThe stylist uses a razor or point-cutting method to aggressively remove weight from the ends, resulting in individual curls that stand out on their own rather than clumping together. This gives the haircut a deliberately undone, rebellious spirit that is incredibly modern. It is perfect for showcasing the natural uniqueness of your curl pattern. Women over sixty who want to break away from traditional, neat haircuts will adore the fierce attitude this style delivers.\n\nIt is fun, full of character, and makes a clear statement that you are totally comfortable marching to the beat of your own drum.",
         "paragraphs": [
           "Do you love a distinctly textured, edgy finish? A choppy curly shag relies on heavily textured cutting techniques to create a strikingly piece-y look.",
@@ -6805,7 +6805,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "15. Voluminous Curly Shag",
-        "image": "assets/curly_over50_279_15.jpg",
+        "image": "assets/trending_haircuts_216_14.jpg",
         "description": "Do you want to make a grand entrance wherever you go? A voluminous curly shag is all about embracing maximum body and bounce.\n\nThis version of the shag is cut specifically to enhance the natural width and height of your curls, creating a gorgeous halo effect around your head. The layers are carefully calculated to support the curl structure rather than reduce it, giving you a majestic, full-bodied finish. It is a show-stopping look that radiates confidence and joy. Women over sixty who love big hair will find this style incredibly empowering. It celebrates the natural majesty of curly hair, turning what some might call frizz into a stunning, deliberate display of pure, unadulterated volume that commands the room.",
         "paragraphs": [
           "Do you want to make a grand entrance wherever you go? A voluminous curly shag is all about embracing maximum body and bounce.",
@@ -6864,7 +6864,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "19. Curly Shag With Highlights",
-        "image": "assets/curly_over50_279_13.jpg",
+        "image": "assets/warm_blonde_234_15.jpg",
         "description": "Looking to brighten up your complexion along with your hair? A curly shag with highlights adds stunning depth and dimension to your textured cut.\n\nStrategically placed lighter strands catch the light and emphasize the individual curls, making them look much more defined and lively. Whether you choose subtle sun-kissed ribbons or a brighter contrast, the highlights mimic the natural fading caused by the sun. When paired with the dynamic layers of a shag, this color technique creates a brilliant, multifaceted effect. For women over sixty, highlights are an amazing way to blend any graying hair seamlessly while bringing a warm, radiant glow to the skin.\n\nIt looks incredibly natural and refreshingly vibrant every day.",
         "paragraphs": [
           "Looking to brighten up your complexion along with your hair? A curly shag with highlights adds stunning depth and dimension to your textured cut.",
@@ -9998,7 +9998,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "2. A-line bob haircut",
-        "image": "assets/bob_haircuts_251_16.jpg",
+        "image": "assets/doc_b_82_3.jpg",
         "description": "The A-line bob haircut is a classic silhouette where the hair is shorter at the back and gradually gets longer as it moves toward the front. Unlike the inverted bob, this style usually lacks the heavy stacking at the nape, offering a smoother and more subtle transition.\n\nThis angle creates a beautiful line that follows the jaw, making it an excellent choice for framing the face and adding a bit of sophisticated length. It is a very professional look that works well for women of all ages, providing a controlled and polished shape that is easy to style with a blow dryer and a flat paddle brush for a smooth finish.",
         "paragraphs": [
           "The A-line bob haircut is a classic silhouette where the hair is shorter at the back and gradually gets longer as it moves toward the front. Unlike the inverted bob, this style usually lacks the heavy stacking at the nape, offering a smoother and more subtle transition.",
@@ -10159,7 +10159,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "13. Choppy jaw length bob",
-        "image": "assets/bob_haircuts_251_15.jpg",
+        "image": "assets/pastel_hair_color_197_1.jpg",
         "description": "For a more rebellious and textured feel, the choppy jaw length bob uses point-cutting techniques to create uneven, “shattered” ends. This style is intentionally less uniform, giving it an edgy and lived-in appearance that requires very little daily styling effort.\n\nThe choppy layers add a lot of internal airiness, which makes the hair feel light and allows for plenty of movement. This is a fantastic choice for those who prefer a “rock-and-roll” or grunge-inspired aesthetic. You can easily enhance the texture by using a dry shampoo or a texturizing wax to define the individual pieces, creating a cool, undone look that stays stylish all day long.",
         "paragraphs": [
           "For a more rebellious and textured feel, the choppy jaw length bob uses point-cutting techniques to create uneven, “shattered” ends. This style is intentionally less uniform, giving it an edgy and lived-in appearance that requires very little daily styling effort.",
@@ -10202,7 +10202,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "16. Jaw length bob with curtain bangs",
-        "image": "assets/bob_haircuts_251_17.jpg",
+        "image": "assets/doc_b_22_21.jpg",
         "description": "Pairing a jaw length bob with curtain bangs is one of the most trending ways to soften a short haircut and add a romantic touch. Curtain bangs are longer, wispy fringes that part in the middle and blend seamlessly into the rest of the hair, mimicking the way curtains frame a window.\n\nThey are incredibly flattering because they highlight the eyes and cheekbones while narrowing the forehead. This combination provides a beautiful, face-hugging shape that feels more relaxed than a blunt fringe.\n\nIt is a great option for those growing out their bangs or for anyone who wants a low-commitment way to experiment with face-framing layers.",
         "paragraphs": [
           "Pairing a jaw length bob with curtain bangs is one of the most trending ways to soften a short haircut and add a romantic touch. Curtain bangs are longer, wispy fringes that part in the middle and blend seamlessly into the rest of the hair, mimicking the way curtains frame a window.",
@@ -10398,7 +10398,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "11. Messy Mom Bob With Middle Part",
-        "image": "assets/bob_haircuts_252_16.jpg",
+        "image": "assets/warm_blonde_229_2.jpg",
         "description": "Embracing a little chaos can be incredibly freeing. The messy mom bob with middle part celebrates the beauty of imperfection, offering a style that thrives on natural movement and casual volume.\n\nThis look relies on piece-y layers and textured ends that intentionally look like you just rolled out of bed in the best way possible. The middle part keeps the messy elements grounded, ensuring you look effortlessly stylish rather than disheveled.\n\nA quick application of dry shampoo at the roots and a texturizing spray on the ends are all you need. It is the ideal haircut for moms who want to look fashionable without dedicating a single extra minute to complicated styling routines.",
         "paragraphs": [
           "Embracing a little chaos can be incredibly freeing. The messy mom bob with middle part celebrates the beauty of imperfection, offering a style that thrives on natural movement and casual volume.",
@@ -10443,7 +10443,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "14. Angled Mom Bob With Middle Part",
-        "image": "assets/bob_haircuts_252_17.jpg",
+        "image": "assets/doc_b_70_15.jpg",
         "description": "A slight angle can add incredible visual interest to your look. The angled mom bob with middle part features a gentle slope from the back to the front, offering more length around the face.\n\nThis slight elongation at the front is incredibly flattering, as it highlights the jawline and draws attention downward for a slimming effect. The middle part balances the asymmetry perfectly, ensuring the style looks intentional and chic rather than lopsided.\n\nIt is a fantastic option if you want the lightweight feel of a shorter bob but still need length to tie your hair back occasionally. This versatile cut delivers a modern, dynamic appearance that easily transitions from mom duties to evening outings.",
         "paragraphs": [
           "A slight angle can add incredible visual interest to your look. The angled mom bob with middle part features a gentle slope from the back to the front, offering more length around the face.",
@@ -10701,7 +10701,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "13. Golden Blonde Twist Out Bob",
-        "image": "assets/bob_haircuts_253_16.jpg",
+        "image": "assets/doc_b_91_9.jpg",
         "description": "Adding color to your hair can completely redefine your look, and a golden blonde twist out bob is a perfect example. The bright, warm tones of golden blonde catch the light and emphasize every twist and turn of your curl pattern.\n\nThis color choice adds a sun-kissed and vibrant energy to the bob, making it look much more dimensional and textured. It is a bold move that works beautifully on natural hair when done correctly with moisturizing products to keep the curls healthy.\n\nThe contrast between the light color and the deep shadows of the curls makes the bob look incredibly thick and full. It is a perfect choice for those who want to stand out and bring a bright, cheerful vibe to their overall personal style.",
         "paragraphs": [
           "Adding color to your hair can completely redefine your look, and a golden blonde twist out bob is a perfect example. The bright, warm tones of golden blonde catch the light and emphasize every twist and turn of your curl pattern.",
@@ -11126,7 +11126,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "4. Micro Bangs Grunge Bob",
-        "image": "assets/bob_haircuts_255_18.jpg",
+        "image": "assets/layered_fine_hair_142_5.jpg",
         "description": "A micro bangs grunge bob is a niche but highly stylish choice that involves cutting the fringe very short, well above the eyebrows. This creates a high-fashion, alternative look that instantly draws attention to the forehead and eyes.\n\nWhen paired with a messy, textured bob, the short bangs provide a sharp contrast that feels intentional and artistic. This style is often seen on the runways and in urban street style for its bold and uncompromising nature.\n\nWhile micro bangs require a bit more styling to keep them flat, the rest of the bob can be left to air-dry, maintaining the effortless grunge spirit that makes the look so appealing.",
         "paragraphs": [
           "A micro bangs grunge bob is a niche but highly stylish choice that involves cutting the fringe very short, well above the eyebrows. This creates a high-fashion, alternative look that instantly draws attention to the forehead and eyes.",
@@ -11169,7 +11169,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "7. Dark Aesthetic Grunge Bob",
-        "image": "assets/bob_haircuts_255_14.jpg",
+        "image": "assets/modern_haircuts_183_17.jpg",
         "description": "The dark aesthetic grunge bob is all about the combination of a sharp, textured cut and deep, saturated hair colors like raven black or espresso. This look leans into the “goth-lite” or “dark academia” trends that often intersect with the grunge scene.\n\nThe deep color makes the texture of the cut even more visible, as the light reflects differently off the choppy ends and layers. It provides a striking, mysterious vibe that works well for women who want a look that feels more mature and sophisticated.\n\nUsing a lightweight oil can help keep the dark hair looking healthy and vibrant while still allowing for that signature messy and lived-in volume.",
         "paragraphs": [
           "The dark aesthetic grunge bob is all about the combination of a sharp, textured cut and deep, saturated hair colors like raven black or espresso. This look leans into the “goth-lite” or “dark academia” trends that often intersect with the grunge scene.",
@@ -11244,7 +11244,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "12. Shaved Side Grunge Bob",
-        "image": "assets/bob_haircuts_255_15.jpg",
+        "image": "assets/doc_b_91_16.jpg",
         "description": "A shaved side grunge bob is the ultimate statement piece for someone who wants to fully commit to an alternative and edgy lifestyle. By shaving or buzzing one side of the head, the remaining bob falls over the other side in a dramatic and asymmetrical fashion.\n\nThis undercut element reduces weight and adds an unexpected detail that is both functional and fashion-forward. It is a surprisingly versatile cut, as you can flip the hair over to hide the shaved area or pin it back to show it off completely. This style represents the high-energy, DIY spirit of grunge and is a top choice for those wanting a truly transformative look.",
         "paragraphs": [
           "A shaved side grunge bob is the ultimate statement piece for someone who wants to fully commit to an alternative and edgy lifestyle. By shaving or buzzing one side of the head, the remaining bob falls over the other side in a dramatic and asymmetrical fashion.",
@@ -11273,7 +11273,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "14. Wavy Grunge Bob Haircut",
-        "image": "assets/bob_haircuts_255_13.jpg",
+        "image": "assets/doc_b_48_8.jpg",
         "description": "A wavy grunge bob haircut embraces the natural curves of your hair to create a soft yet rebellious look that is easy to maintain. If you have natural waves, this cut is designed to work with them rather than against them, using layers to enhance the bounce and prevent flatness.\n\nFor those with straight hair, a small curling wand can be used to add irregular bends that mimic a natural wave pattern. The key is to leave the ends straight and avoid uniform curls, as this keeps the look firmly in the grunge territory.\n\nThis style is incredibly popular for its romantic yet slightly disheveled energy that feels effortless.",
         "paragraphs": [
           "A wavy grunge bob haircut embraces the natural curves of your hair to create a soft yet rebellious look that is easy to maintain. If you have natural waves, this cut is designed to work with them rather than against them, using layers to enhance the bounce and prevent flatness.",
@@ -11333,7 +11333,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "18. Platinum Grunge Bob Haircut",
-        "image": "assets/bob_haircuts_255_16.jpg",
+        "image": "assets/doc_b_48_11.jpg",
         "description": "The platinum grunge bob haircut combines a high-maintenance color with a low-maintenance cut, creating a cool and contrasting visual effect. The bleached blonde tone provides a “washed-out” or “grunge-glam” feel that has been popular in the music industry for decades.\n\nBecause the bleaching process naturally adds a bit of stiffness and texture to the hair, it actually makes the grunge styling easier to achieve and maintain. The slightly damaged look of the ends can even work in your favor, enhancing the raw and unpolished aesthetic.\n\nIt is a bold color choice that requires regular root touch-ups but looks absolutely stunning when paired with a choppy, chin-length bob.",
         "paragraphs": [
           "The platinum grunge bob haircut combines a high-maintenance color with a low-maintenance cut, creating a cool and contrasting visual effect. The bleached blonde tone provides a “washed-out” or “grunge-glam” feel that has been popular in the music industry for decades.",
@@ -11487,7 +11487,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "9. Textured Blunt Bob With Side Part",
-        "image": "assets/bob_haircuts_256_17.jpg",
+        "image": "assets/layered_hairstyles_170_1.jpg",
         "description": "Want the best of both worlds? A textured blunt bob with a side part combines the striking edge of a sharp cut with the fluid motion of textured ends.\n\nThe bob is cut to one uniform length, which creates a thick, bold baseline. However, instead of leaving the ends solid, your stylist adds micro-texture to the very tips. This subtle softening prevents the hair from looking like a heavy block. Sweeping the hair into a deep side part instantly creates asymmetrical volume at the crown, allowing the longer side to cascade with a beautiful, heavy swing.\n\nIt is a powerful, modern haircut that maintains a clean outline while ensuring you still get that satisfying, bouncy movement.",
         "paragraphs": [
           "Want the best of both worlds? A textured blunt bob with a side part combines the striking edge of a sharp cut with the fluid motion of textured ends.",
@@ -11532,7 +11532,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "12. Messy Bob With Balayage",
-        "image": "assets/bob_haircuts_256_16.jpg",
+        "image": "assets/curly_hairstyles_294_14.jpg",
         "description": "Want that carefree, sun-kissed aesthetic? A messy bob with balayage perfectly pairs relaxed, tousled texture with dimensional color to amplify every bit of motion.\n\nThe messy element comes from choppy, disconnected layers that are styled with a matte texturizing paste, encouraging the hair to separate and shift. Balayage highlights hand-painted throughout the hair create contrast, making the separated pieces pop visually. The lighter ends catch the sunlight, emphasizing the messy, flowing movement of the cut. This combination ensures that even on your laziest days, your hair looks intentionally undone and highly dynamic.\n\nIt is a brilliant choice for anyone wanting a wash-and-go style that still looks like you spent hours perfecting the bounce and flow.",
         "paragraphs": [
           "Want that carefree, sun-kissed aesthetic? A messy bob with balayage perfectly pairs relaxed, tousled texture with dimensional color to amplify every bit of motion.",
@@ -11745,7 +11745,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "7. Soft A Line Bob For Oval Face",
-        "image": "assets/bob_haircuts_257_11.jpg",
+        "image": "assets/curly_over50_280_15.jpg",
         "description": "Oval faces are versatile and can handle many variations of a soft A line bob.\n\nThis face shape looks great with both chin-length and longer versions, and you can play around with partings and fringe without throwing off your proportions. A classic option is a chin‑to‑shoulder length soft A line bob with either a middle part or a relaxed side part. Ask your stylist to keep the angle soft and the ends gently textured, so the cut enhances your natural bone structure. If you like bangs, you can choose from curtain bangs, light straight fringe, or even a longer, side‑swept bang. For styling, almost anything goes: sleek with a flat iron, soft waves, or a slightly tousled finish. Use products that match the effect you want—smoothing cream for shine, salt spray for texture, or a light mousse for volume—because the face shape itself doesn’t need much correction., Fresh Look, Edgy Style, Chic Look",
         "paragraphs": [
           "Oval faces are versatile and can handle many variations of a soft A line bob.",
@@ -11850,7 +11850,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "14. Soft A Line Bob For Square Face",
-        "image": "assets/bob_haircuts_257_12.jpg",
+        "image": "assets/doc_b_38_1.jpg",
         "description": "On a square face, a soft A line bob can help soften a stronger jawline when it’s cut with the right lines and texture.\n\nThe idea is to avoid a blunt horizontal edge right at the jaw, which can emphasize squareness. Instead, ask for a length that hits just below the jaw or slightly longer in front, with the angle of the A line guiding the eye diagonally. Soft, internal layering and slightly feathered ends around the jaw help break up strong lines and create a more rounded, gentle outline. A side part can also add softness by interrupting symmetry.\n\nWhen styling, lean into texture: loose waves or bends that start near the cheeks help diffuse sharp angles. Use a curling iron to create random, mixed‑direction waves, then break them up with your fingers and finish with a touch of lightweight hair oil on the ends to keep everything smooth.",
         "paragraphs": [
           "On a square face, a soft A line bob can help soften a stronger jawline when it’s cut with the right lines and texture.",
@@ -11880,7 +11880,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "16. Soft A Line Bob For Round Face",
-        "image": "assets/bob_haircuts_257_10.jpg",
+        "image": "assets/modern_haircuts_181_7.jpg",
         "description": "A soft A line bob can be very flattering on a round face when the length and angle are chosen thoughtfully.\n\nThe key is to keep the front slightly longer—often grazing the collarbone or just below the chin—so it visually elongates the face. The back can be shorter, but you want the angle to be smooth rather than sharply angled, which could make the face look wider. Ask your stylist for gentle face‑framing pieces that start below the cheekbones and avoid cutting the bob too short at the sides. A center or slightly off‑center part usually works best to balance the face shape.\n\nStyling with soft waves that start below the jaw helps to draw the eye downward. Use a medium‑barrel curling iron to add loose bends, then rake through with your fingers and finish with a soft hold spray to keep everything light and flattering.",
         "paragraphs": [
           "A soft A line bob can be very flattering on a round face when the length and angle are chosen thoughtfully.",
@@ -12349,7 +12349,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "4. Undone Bob Haircut With Bangs",
-        "image": "assets/bob_haircuts_259_16.jpg",
+        "image": "assets/layered_hairstyles_172_12.jpg",
         "description": "An undone bob haircut with bangs softens your features and adds personality while keeping the overall cut casual and easy. Bangs can range from wispy, eyebrow‑grazing fringe to longer curtain bangs that blend into the sides, depending on your face shape and comfort level.\n\nThe bob itself usually sits from cheekbone to collarbone, with soft layering and textured ends so the fringe does not feel disconnected from the rest of the hair. Stylists often recommend cutting bangs slightly longer at first, then chipping into them for that feathered, undone effect that grows out nicely.\n\nStyling focuses on keeping bangs smooth but not stiff: blow‑dry the fringe forward with a small brush, allow the rest of the hair to air‑dry or be loosely waved, then use a bit of lightweight cream or spray wax to blend everything into one relaxed, cohesive look.",
         "paragraphs": [
           "An undone bob haircut with bangs softens your features and adds personality while keeping the overall cut casual and easy. Bangs can range from wispy, eyebrow‑grazing fringe to longer curtain bangs that blend into the sides, depending on your face shape and comfort level.",
@@ -13390,7 +13390,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "7. Peekaboo Highlights Bob Haircut",
-        "image": "assets/bob_haircuts_263_17.jpg",
+        "image": "assets/curly_over50_273_3.jpg",
         "description": "Peekaboo highlights are a fun and creative way to add a pop of unexpected color to your bob without committing to a full head of color. This technique involves placing bold or contrasting color underneath the top layer of hair, so it is hidden when the hair falls naturally but reveals itself with movement or when the hair is tucked behind the ear.\n\nOn a bob, this creates an element of surprise and personality that makes the cut feel special and customized. Popular peekaboo colors include vibrant shades like pink, blue, purple, or even a contrasting blonde on dark hair. The placement can be tailored to your lifestyle, making the hidden color as subtle or as bold as you want. Maintenance depends on the colors chosen, but since the highlights are concentrated in one area, touch-ups are usually quick and affordable.\n\nFor a bob that has a secret, playful side, peekaboo highlights are a brilliant choice.",
         "paragraphs": [
           "Peekaboo highlights are a fun and creative way to add a pop of unexpected color to your bob without committing to a full head of color. This technique involves placing bold or contrasting color underneath the top layer of hair, so it is hidden when the hair falls naturally but reveals itself with movement or when the hair is tucked behind the ear.",
@@ -13603,7 +13603,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "2. French Bob Side Part",
-        "image": "assets/bob_haircuts_264_14.jpg",
+        "image": "assets/doc_cool_ash_10.jpg",
         "description": "The French bob side part is a chic and short version of the classic cut. It typically hits around the cheekbones or just below the ears, giving it a very Parisian feel.\n\nAdding a side part to this short length creates a playful and flirtatious vibe. It often features a slight bit of texture or a natural wave to keep it looking effortless. This style is perfect for highlighting the eyes and cheekbones, making it a great choice for photography. It is a daring length that feels both vintage and incredibly modern at the same time.\n\nMany people choose this look when they want to make a significant and stylish change to their appearance.",
         "paragraphs": [
           "The French bob side part is a chic and short version of the classic cut. It typically hits around the cheekbones or just below the ears, giving it a very Parisian feel.",
@@ -13678,7 +13678,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "7. Layered Side Part Bob",
-        "image": "assets/bob_haircuts_264_13.jpg",
+        "image": "assets/doc_b_46_14.jpg",
         "description": "A layered side part bob adds movement and removes weight from thicker hair types. By incorporating different lengths throughout the cut, the hair gains a lot of bounce and life.\n\nThe side part helps to showcase these layers, as the hair falls at different angles. This is a very forgiving style that works well for those with active lifestyles. You can style it with a round brush for a classic look or use a wand for a more modern finish. The layers help to prevent the bob from looking too bottom-heavy or like a triangle.\n\nIt provides a soft and feminine silhouette that is very easy to maintain and wear comfortably all night.",
         "paragraphs": [
           "A layered side part bob adds movement and removes weight from thicker hair types. By incorporating different lengths throughout the cut, the hair gains a lot of bounce and life.",
@@ -13707,7 +13707,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "9. Flared Out Side Part Bob",
-        "image": "assets/bob_haircuts_264_16.jpg",
+        "image": "assets/curly_over50_287_20.jpg",
         "description": "The flared out side part bob is a fun and retro-inspired style where the ends of the hair are flipped outward. This look was very popular in the sixties and has made a major comeback on modern red carpets.\n\nThe side part adds a touch of sophistication to the playful flicked ends. You can achieve this by using a round brush or a flat iron to curve the hair away from the face. It creates a very cheerful and energetic silhouette that stands out from the usual curled-under bobs. This hairstyle works best on chin-length or shoulder-length cuts.\n\nIt is a great way to add a bit of personality and movement to a standard bob.",
         "paragraphs": [
           "The flared out side part bob is a fun and retro-inspired style where the ends of the hair are flipped outward. This look was very popular in the sixties and has made a major comeback on modern red carpets.",
@@ -13840,7 +13840,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "18. A Line Bob Side Part",
-        "image": "assets/bob_haircuts_264_15.jpg",
+        "image": "assets/bob_haircuts_260_11.jpg",
         "description": "An A line bob side part is characterized by hair that is shorter in the back and gradually gets longer towards the front. This creates a sharp angle that is very flattering for round and square face shapes.\n\nThe side part emphasizes the diagonal line of the cut, making it look even more dramatic. It is a structured style that works best when the hair is kept straight and smooth. This cut provides a lot of natural volume at the back of the head, which is great for profile shots. It is a sophisticated and professional look that transitions perfectly to the red carpet. The sharp lines provide a very modern and clean aesthetic.",
         "paragraphs": [
           "An A line bob side part is characterized by hair that is shorter in the back and gradually gets longer towards the front. This creates a sharp angle that is very flattering for round and square face shapes.",
@@ -14754,7 +14754,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "2. Inverted Glass Hair Bob",
-        "image": "assets/bob_haircuts_268_9.jpg",
+        "image": "assets/trending_haircuts_220_15.jpg",
         "description": "An inverted glass hair bob is shorter in the back and longer in the front, creating a gentle or dramatic forward angle that looks especially striking when styled glassy and straight. The stacked or slightly graduated back lifts the crown while the front pieces skim the jaw or chin, giving both volume and definition in one cut.\n\nThe shiny, reflective finish makes the angle more noticeable, which is why this look is often chosen by people who want their haircut to stand out without relying on color or heavy layers. Inverted bobs tend to suit many face shapes, but they are particularly flattering on round and heart-shaped faces because the longer front lengths visually slim the cheeks.\n\nTo style, blow-dry using a round brush at the back for lift while keeping the front straighter, then smooth everything with a flat iron and finish with a light serum to highlight the angled silhouette.",
         "paragraphs": [
           "An inverted glass hair bob is shorter in the back and longer in the front, creating a gentle or dramatic forward angle that looks especially striking when styled glassy and straight. The stacked or slightly graduated back lifts the crown while the front pieces skim the jaw or chin, giving both volume and definition in one cut.",
@@ -14769,7 +14769,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "3. Curved Under Glass Hair Bob",
-        "image": "assets/bob_haircuts_268_10.jpg",
+        "image": "assets/warm_blonde_236_5.jpg",
         "description": "A curved under glass hair bob combines sleek shine with a subtle inward curve at the ends so the hair gently hugs the jawline instead of hanging stick straight. This small bend softens the look and gives it a touch of classic bob charm while still maintaining the modern, reflective finish associated with glass hair.\n\nIt is especially flattering if you want a refined shape but feel that a pin-straight edge is too harsh for your features or personal style. When styling, the inward curve is usually created with either a round brush and blow-dryer or a flat iron turned slightly inward just at the last inch of hair, not along the entire length.\n\nUsing a shine serum afterward ensures the bend looks intentional and smooth instead of frizzy, which keeps the whole look polished and easy to wear for both casual and dressy settings.",
         "paragraphs": [
           "A curved under glass hair bob combines sleek shine with a subtle inward curve at the ends so the hair gently hugs the jawline instead of hanging stick straight. This small bend softens the look and gives it a touch of classic bob charm while still maintaining the modern, reflective finish associated with glass hair.",
@@ -14799,7 +14799,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "5. Short Glass Hair Bob With Natural Finish",
-        "image": "assets/bob_haircuts_268_14.jpg",
+        "image": "assets/doc_b_46_7.jpg",
         "description": "A short glass hair bob with natural finish combines the high-shine trend with a slightly softer, more lived-in feel so it is easier to wear every day. Instead of looking ultra stiff or overly styled, the hair is smoothed and reflective but still allowed a hint of natural movement and texture, especially near the roots.\n\nThis approach is ideal if you like the aesthetic of glass hair but have hair that resists being pin straight, or you prefer a style that feels more relaxed. Keep the length around the jaw or shorter, and ask your stylist for micro-adjustments rather than heavy layering so the bob holds a simple, clean outline.\n\nUse a smoothing blow-dry routine and a single pass of the flat iron where needed, then finish with a lightweight shine mist so the result looks glossy, soft, and not overly rigid.",
         "paragraphs": [
           "A short glass hair bob with natural finish combines the high-shine trend with a slightly softer, more lived-in feel so it is easier to wear every day. Instead of looking ultra stiff or overly styled, the hair is smoothed and reflective but still allowed a hint of natural movement and texture, especially near the roots.",
@@ -14814,7 +14814,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "6. Glass Hair Bob With Face Framing",
-        "image": "assets/bob_haircuts_268_16.jpg",
+        "image": "assets/bob_haircuts_255_5.jpg",
         "description": "A glass hair bob with face framing adds soft, subtle pieces around the face to create shape and movement while keeping the rest of the cut sleek and reflective. These face-framing sections can be slightly shorter than the main length, skimming the cheekbones or jawline to highlight features without turning into heavy layers that disrupt the glassy surface.\n\nThis approach works well if you want to soften a strong jaw, open up the face, or make a glass bob more adaptable to different partings and styles. When styling, smooth the face-framing pieces carefully with a flat iron, either keeping them straight or giving a tiny inward curve for softness, and be sure to use heat protectant because these front sections experience the most styling.\n\nFinish with a tiny amount of shine product focused on those pieces so they catch the light and subtly draw attention to your eyes and cheekbones.",
         "paragraphs": [
           "A glass hair bob with face framing adds soft, subtle pieces around the face to create shape and movement while keeping the rest of the cut sleek and reflective. These face-framing sections can be slightly shorter than the main length, skimming the cheekbones or jawline to highlight features without turning into heavy layers that disrupt the glassy surface.",
@@ -14829,7 +14829,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "7. Asymmetrical Glass Hair Bob",
-        "image": "assets/bob_haircuts_268_8.jpg",
+        "image": "assets/ponytail_hairstyles_203_1.jpg",
         "description": "An asymmetrical glass hair bob keeps one side longer than the other, creating a diagonal line that adds instant edge while still looking polished and sleek. The glass finish emphasizes that contrast, making the longer side feel fluid and the shorter side sharp, which can subtly contour the face by drawing the eye along the angled hemline.\n\nThis is a great choice if you like the idea of a classic bob but want something less predictable and more individual, since the degree of asymmetry can be customized. Asymmetrical cuts often pair well with side parts, which line up with the longer section, but you can also wear the part closer to the center if you prefer a slightly softer, more wearable version.\n\nKeep styling sleek and simple with smoothing products and a flat iron, because any frizz or bends can make the line look uneven instead of intentionally angled.",
         "paragraphs": [
           "An asymmetrical glass hair bob keeps one side longer than the other, creating a diagonal line that adds instant edge while still looking polished and sleek. The glass finish emphasizes that contrast, making the longer side feel fluid and the shorter side sharp, which can subtly contour the face by drawing the eye along the angled hemline.",
@@ -14859,7 +14859,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "9. Sleek Glass Hair Bob With Tucked Ends",
-        "image": "assets/bob_haircuts_268_11.jpg",
+        "image": "assets/doc_b_60_4.jpg",
         "description": "A sleek glass hair bob with tucked ends flips the tips slightly outward instead of inward, giving a playful, modern twist to an otherwise very polished hairstyle. The glass finish keeps everything smooth and reflective, while the flipped ends add movement and personality without disrupting the clean overall shape.\n\nThis look has been seen on red carpets and fashion events because it photographs beautifully and feels like a small update on a classic straight bob. It works best on chin to jaw length cuts, where the flipped ends sit neatly at the neck and do not interfere with collars or shoulders. Style by straightening the hair from roots to midlengths, then turning the flat iron or a round brush slightly outward at the tips, and finish with a light shine spray so the flip stays sleek, not fluffy.",
         "paragraphs": [
           "A sleek glass hair bob with tucked ends flips the tips slightly outward instead of inward, giving a playful, modern twist to an otherwise very polished hairstyle. The glass finish keeps everything smooth and reflective, while the flipped ends add movement and personality without disrupting the clean overall shape.",
@@ -14873,7 +14873,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "10. Glass Hair Bob For Fine Hair",
-        "image": "assets/bob_haircuts_268_12.jpg",
+        "image": "assets/layered_fine_hair_141_18.jpg",
         "description": "A glass hair bob for fine hair focuses on maximizing fullness while still delivering that smooth, reflective finish. Blunt edges, minimal layering, and carefully chosen length—often between jaw and chin—help the hair look thicker and denser along the perimeter.\n\nThe sleek styling then adds a polished surface that reflects light, which can make fine strands appear healthier and more substantial. Using lightweight volumizing products at the roots and smoothing products through the lengths strikes the balance between lift and gloss, preventing the hair from falling flat or looking oily.\n\nWhen heat styling, work in small sections and avoid repeatedly passing the flat iron over the same piece, since fine hair can be more fragile and prone to damage, which would reduce the glassy shine over time.",
         "paragraphs": [
           "A glass hair bob for fine hair focuses on maximizing fullness while still delivering that smooth, reflective finish. Blunt edges, minimal layering, and carefully chosen length—often between jaw and chin—help the hair look thicker and denser along the perimeter.",
@@ -14946,7 +14946,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "15. Glass Hair Bob For Thick Hair",
-        "image": "assets/bob_haircuts_268_13.jpg",
+        "image": "assets/ponytail_hairstyles_203_11.jpg",
         "description": "A glass hair bob for thick hair harnesses natural density to create a sleek, strong shape that still feels manageable and not overly heavy. The key is removing bulk without adding visible layers that break up the reflective surface, often through internal thinning or very subtle texturizing underneath.\n\nThis allows the top layer to stay smooth and mirror-like while the interior weight is controlled so the cut sits flat and neat against the head. Thick hair can look incredibly striking in a chin or slightly longer bob when styled glassy because the mass of hair becomes a bold, shiny statement rather than something to hide.\n\nUse smoothing creams and heat protectant before blow-drying in sections, then follow with a flat iron and a silicone-free shine serum so the hair looks glossy but not weighed down by heavy silicones or oils.",
         "paragraphs": [
           "A glass hair bob for thick hair harnesses natural density to create a sleek, strong shape that still feels manageable and not overly heavy. The key is removing bulk without adding visible layers that break up the reflective surface, often through internal thinning or very subtle texturizing underneath.",
@@ -14991,7 +14991,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "18. Long Glass Hair Bob",
-        "image": "assets/bob_haircuts_268_15.jpg",
+        "image": "assets/doc_b_35_11.jpg",
         "description": "A long glass hair bob, often called a lob, extends the length to just above the shoulders while still keeping the hallmark sleek, reflective finish. This option is perfect if you want the glass trend without going very short, since it offers more styling versatility like tucking behind the ears, half-up looks, or adding soft bends when you want a change.\n\nThe key is keeping the perimeter relatively blunt and the surface smooth, so even at this longer length, the hair still reads as structured and glossy. Long glass bobs are particularly flattering on oval and heart-shaped faces, and can help narrow wider jawlines by drawing the attention downward along the shiny vertical lines of the hair. Because there is more hair to smooth, use a high-quality flat iron, section clips, and shine products, taking your time to straighten smaller sections for an even, mirror-like result.!",
         "paragraphs": [
           "A long glass hair bob, often called a lob, extends the length to just above the shoulders while still keeping the hallmark sleek, reflective finish. This option is perfect if you want the glass trend without going very short, since it offers more styling versatility like tucking behind the ears, half-up looks, or adding soft bends when you want a change.",
@@ -15234,7 +15234,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "15. Shoulder length silver bob",
-        "image": "assets/bob_haircuts_269_17.jpg",
+        "image": "assets/pastel_hair_color_191_12.jpg",
         "description": "For those who are not quite ready to go very short, the shoulder length silver bob, often called a lob, provides the perfect compromise. This style offers enough length to pull your hair back into a small ponytail while still reaping the benefits of a structured bob.\n\nThe extra length allows for a more gradual transition, which can be less of a shock if you have always worn your hair long. This cut is highly adaptable and looks great with or without bangs, depending on your personal preference and face shape.\n\nThe silver tones look particularly elegant at this length, catching the light as the hair moves across your shoulders. It is a sophisticated and approachable option for the modern silver-haired woman.",
         "paragraphs": [
           "For those who are not quite ready to go very short, the shoulder length silver bob, often called a lob, provides the perfect compromise. This style offers enough length to pull your hair back into a small ponytail while still reaping the benefits of a structured bob.",
@@ -15901,7 +15901,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "2. Shoulder length blunt bob",
-        "image": "assets/blunt_bob_244_9.jpg",
+        "image": "assets/doc_b_25_4.jpg",
         "description": "The shoulder length blunt bob is a practical yet stylish choice that offers a lot of movement and versatility for thick hair. Because the hair grazes the shoulders, it has a tendency to flip slightly, which adds a dynamic element to an otherwise static, blunt cut.\n\nThis length is ideal for anyone who wants to maintain a sense of femininity and length while embracing the modern structure of a bob. The straight texture ensures that the hair remains manageable, even with high density, as the weight keeps the style from becoming too puffy.\n\nIt is a universally flattering look that works well for all ages and remains a consistent favorite in salons for its balance.",
         "paragraphs": [
           "The shoulder length blunt bob is a practical yet stylish choice that offers a lot of movement and versatility for thick hair. Because the hair grazes the shoulders, it has a tendency to flip slightly, which adds a dynamic element to an otherwise static, blunt cut.",
@@ -15931,7 +15931,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "4. Sleek blunt bob",
-        "image": "assets/blunt_bob_244_10.jpg",
+        "image": "assets/layered_fine_hair_146_11.jpg",
         "description": "Achieving a sleek blunt bob is all about emphasizing the “liquid hair” trend, where the strands look incredibly shiny and perfectly straight. For thick hair, this look is particularly striking because the dense surface area creates a massive canvas for light to reflect off, resulting in a mirror-like glow.\n\nThis style requires a high-quality flat iron and a heat protectant to ensure the ends remain sharp and free of frizz. The blunt perimeter serves as the focal point, making the hair appear healthy and well-manicured.\n\nIt is a power-look that works wonders for making a strong first impression and remains a staple for those who enjoy a high-gloss, ultra-modern hair aesthetic.",
         "paragraphs": [
           "Achieving a sleek blunt bob is all about emphasizing the “liquid hair” trend, where the strands look incredibly shiny and perfectly straight. For thick hair, this look is particularly striking because the dense surface area creates a massive canvas for light to reflect off, resulting in a mirror-like glow.",
@@ -16021,7 +16021,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "10. Blunt bob with curtain bangs",
-        "image": "assets/blunt_bob_244_11.jpg",
+        "image": "assets/doc_b_32_18.jpg",
         "description": "A blunt bob with curtain bangs provides a beautiful way to frame the face with a softer touch while keeping the rest of the cut sharp. The bangs are parted down the middle and swept to the sides, blending seamlessly into the lengths of the bob.\n\nFor those with thick straight hair, curtain bangs help to break up the “wall” of hair that can sometimes feel overwhelming around the face. This combination offers a vintage, 1970s-inspired vibe that has been modernized for today’s fashion landscape. It is a versatile choice because the bangs can be easily tucked behind the ears or styled with a round brush to add a bit of romantic, face-framing volume.",
         "paragraphs": [
           "A blunt bob with curtain bangs provides a beautiful way to frame the face with a softer touch while keeping the rest of the cut sharp. The bangs are parted down the middle and swept to the sides, blending seamlessly into the lengths of the bob.",
@@ -16080,7 +16080,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "14. French bob thick hair",
-        "image": "assets/blunt_bob_244_8.jpg",
+        "image": "assets/ponytail_hairstyles_204_18.jpg",
         "description": "The French bob thick hair variation is a slightly shorter, more effortless take on the traditional blunt cut that usually sits at lip level. It often incorporates a light, wispy fringe that contrasts beautifully with the thick, straight texture of the side sections.\n\nWhile “blunt” by nature, the French version often feels a bit more lived-in and less rigid, making it a perfect low-maintenance option for 2026. For those with high hair density, the key to this look is removing enough weight so the hair has a slight “bounce” when you move.\n\nIt is a chic, Parisian-inspired style that looks best when air-dried with a tiny bit of texturizing cream to add a modern, “undone” finish.",
         "paragraphs": [
           "The French bob thick hair variation is a slightly shorter, more effortless take on the traditional blunt cut that usually sits at lip level. It often incorporates a light, wispy fringe that contrasts beautifully with the thick, straight texture of the side sections.",
@@ -16110,7 +16110,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "16. Blunt bob for square face",
-        "image": "assets/blunt_bob_244_12.jpg",
+        "image": "assets/layered_fine_hair_148_14.jpg",
         "description": "The best blunt bob for square face shapes typically features a length that sits just below the jawline to help soften the strong angles of the face. By avoiding a cut that ends exactly at the chin, you prevent the hair from emphasizing the width of the jaw.\n\nInstead, the straight, vertical lines of the bob help to narrow the face visually. For thick hair, it is crucial to ensure the ends are truly blunt and not overly thinned, as the solid line provides a clean, sophisticated frame.\n\nThis style is incredibly elegant and helps to create a more oval appearance, making it a favorite for those who want a modern look that enhances their natural features.",
         "paragraphs": [
           "The best blunt bob for square face shapes typically features a length that sits just below the jawline to help soften the strong angles of the face. By avoiding a cut that ends exactly at the chin, you prevent the hair from emphasizing the width of the jaw.",
@@ -16461,7 +16461,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "6. Blunt bob with highlights",
-        "image": "assets/blunt_bob_246_16.jpg",
+        "image": "assets/doc_b_60_10.jpg",
         "description": "How can you add more depth and dimension to a haircut that is all one single length? A blunt bob with highlights is a wonderful way to bring some life to your new look.\n\nAdding lighter pieces of color helps to show off the texture and movement within the straight cut. It prevents the hair from looking too flat or one-dimensional when seen in the natural sunlight. You can choose subtle balayage or more dramatic foil highlights based on your personal style and preference. This color choice makes your hair look very sun-kissed and incredibly vibrant today.\n\nIt adds a lot of visual interest.",
         "paragraphs": [
           "How can you add more depth and dimension to a haircut that is all one single length? A blunt bob with highlights is a wonderful way to bring some life to your new look.",
@@ -16550,7 +16550,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "12. Choppy blunt bob",
-        "image": "assets/blunt_bob_246_17.jpg",
+        "image": "assets/pastel_hair_color_195_3.jpg",
         "description": "Can you have a blunt cut that still feels very light and has plenty of movement? A choppy blunt bob uses a special cutting technique to add some internal texture to the hair.\n\nWhile the bottom edge remains very straight and blunt, the ends are slightly thinned out for softness. This creates a very lived-in and cool look that is not too stiff or very formal. It is perfect for those who want an effortless hairstyle that they can just wash and go. You can use a bit of texture spray to really enhance the choppy layers.\n\nIt looks great for a casual day.",
         "paragraphs": [
           "Can you have a blunt cut that still feels very light and has plenty of movement? A choppy blunt bob uses a special cutting technique to add some internal texture to the hair.",
@@ -16625,7 +16625,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "17. Asymmetrical blunt bob",
-        "image": "assets/blunt_bob_246_15.jpg",
+        "image": "assets/doc_b_80_1.jpg",
         "description": "Do you want a haircut that is a little bit unexpected and shows off your creative side? An asymmetrical blunt bob features one side that is longer than the other for a unique look.\n\nThis creates a very modern and artistic silhouette that is sure to turn many heads everywhere. The blunt edges ensure that the cut still looks very clean and intentional despite the different lengths. It is a bold choice that works very well for people who have very straight hair naturally. This style is a fun way to experiment with a classic bob shape. It is perfect for those who want something different., Fresh Look, Edgy Style, Chic Look",
         "paragraphs": [
           "Do you want a haircut that is a little bit unexpected and shows off your creative side? An asymmetrical blunt bob features one side that is longer than the other for a unique look.",
@@ -17233,7 +17233,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "16. Blunt Bob With Micro Bangs",
-        "image": "assets/blunt_bob_248_17.jpg",
+        "image": "assets/doc_b_67_19.jpg",
         "description": "How can you make a blunt bob look uniquely artistic? Try a blunt bob with micro bangs.\n\nMicro bangs are very short bangs that sit far above the eyebrows. They instantly give any haircut an avant-garde, creative feel. The sharp, blunt cut of the bob perfectly matches the crisp line of the tiny bangs. This is a fantastic look for art or design students who want to express their individuality. It requires a bit of confidence to pull off. Styling is surprisingly easy. Just trim the bangs regularly to keep them neat. Wear this striking look with a vintage graphic tee.\n\nIt shows off your bold personality perfectly.",
         "paragraphs": [
           "How can you make a blunt bob look uniquely artistic? Try a blunt bob with micro bangs.",
@@ -17326,7 +17326,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "3. Short Blunt Bob With Layered Bangs",
-        "image": "assets/blunt_bob_249_16.jpg",
+        "image": "assets/doc_light_ash_6.jpg",
         "description": "A short blunt bob with layered bangs offers a nice balance for anyone who wants a strong bob but more movement around the face. The ends of the bob stay blunt to maintain fullness, while the bangs are cut with multiple lengths so they have lift at the roots and softness at the tips.\n\nThis combo is helpful if you have thicker hair and worry that a blunt fringe might feel too heavy or blocky. Ask your stylist for a jaw-length bob with a layered fringe that can be worn straight down or swept slightly to the side.\n\nFor styling, apply a light mousse to the bangs and blow-dry them with a round brush for volume, then either smooth or lightly wave the bob to suit your texture, making sure the outline of the cut stays clean.",
         "paragraphs": [
           "A short blunt bob with layered bangs offers a nice balance for anyone who wants a strong bob but more movement around the face. The ends of the bob stay blunt to maintain fullness, while the bangs are cut with multiple lengths so they have lift at the roots and softness at the tips.",
@@ -17356,7 +17356,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "5. Short Blunt Bob With Asymmetrical Bangs",
-        "image": "assets/blunt_bob_249_17.jpg",
+        "image": "assets/curly_over50_271_13.jpg",
         "description": "A short blunt bob with asymmetrical bangs adds a subtle twist to the classic shape by playing with different lengths across the forehead. The bob itself remains even and blunt at the ends, but the fringe is shorter on one side and gradually lengthens to the other, creating a diagonal line that can help soften or balance strong jawlines.\n\nThis look is especially striking on straight hair, where the asymmetry reads very clearly and feels modern and intentional. Ask your stylist to keep layers minimal in the bob and to design a fringe that aligns with your natural part and brow shape so the uneven line looks seamless, not random.\n\nFor styling, smooth both the bob and bangs with a flat iron and use a shine serum to highlight the unique shape, making sure the asymmetry stays crisp.",
         "paragraphs": [
           "A short blunt bob with asymmetrical bangs adds a subtle twist to the classic shape by playing with different lengths across the forehead. The bob itself remains even and blunt at the ends, but the fringe is shorter on one side and gradually lengthens to the other, creating a diagonal line that can help soften or balance strong jawlines.",
@@ -17532,7 +17532,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "17. Short Blunt Bob With Feathered Bangs",
-        "image": "assets/blunt_bob_249_14.jpg",
+        "image": "assets/warm_blonde_224_10.jpg",
         "description": "A short blunt bob with feathered bangs is perfect if you want the fullness of a blunt cut but a soft, airy finish around your face. The bob itself stays dense and structured at the ends, which is great for fine or medium hair that needs a boost, while the bangs are softly layered and thinned at the tips to create a feathered, floating effect.\n\nThis approach suits square and round faces especially well because the light fringe helps soften angles and adds gentle movement. Ask your stylist for a jaw-length blunt bob with feathered bangs that follow your brow line and slightly lengthen toward the temples.\n\nStyling is simple: blow-dry the bangs forward with a round brush for lift, smooth the bob with a flat iron if needed, and finish with a light, flexible hairspray so everything stays soft, not stiff.",
         "paragraphs": [
           "A short blunt bob with feathered bangs is perfect if you want the fullness of a blunt cut but a soft, airy finish around your face. The bob itself stays dense and structured at the ends, which is great for fine or medium hair that needs a boost, while the bangs are softly layered and thinned at the tips to create a feathered, floating effect.",
@@ -17868,7 +17868,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "2. Golden Caramel Blonde",
-        "image": "assets/warm_blonde_223_10.jpg",
+        "image": "assets/doc_b_69_20.jpg",
         "description": "Golden caramel blonde is all about luxury and shine, featuring heavy gold undertones that make the hair look like spun silk. This shade is incredibly vibrant and works best for those who want a high-impact hair color that glows under any light source.\n\nThe mixture of yellow-gold and warm brown creates a rich, syrupy color that feels warm and inviting. It is a fantastic choice for those with tan or olive skin, as the golden hues enhance the natural warmth in the skin.\n\nBecause this color relies heavily on shine, using glossing treatments or hair oils is recommended to keep the hair looking reflective and healthy. It is a timeless, glamorous look that always stays in style.",
         "paragraphs": [
           "Golden caramel blonde is all about luxury and shine, featuring heavy gold undertones that make the hair look like spun silk. This shade is incredibly vibrant and works best for those who want a high-impact hair color that glows under any light source.",
@@ -17883,7 +17883,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "3. Strawberry Caramel Blonde",
-        "image": "assets/warm_blonde_223_12.jpg",
+        "image": "assets/bob_haircuts_268_5.jpg",
         "description": "Strawberry caramel blonde is a delightful fusion of warm reddish-pink tones and classic caramel blonde. This hybrid color is perfect for those who want a hint of copper or strawberry without going fully red.\n\nThe result is a unique, multi-tonal shade that looks incredibly soft and romantic, especially in natural sunlight. It adds a lovely flush of color to the hair and works beautifully for fair skin tones with pink undertones. This shade is often achieved by mixing warm blonde highlights with a light auburn or copper glaze. It is a playful and feminine version of the caramel trend that feels fresh and creative.\n\nRegular color-protecting shampoos are helpful to keep the delicate red pigments from fading.",
         "paragraphs": [
           "Strawberry caramel blonde is a delightful fusion of warm reddish-pink tones and classic caramel blonde. This hybrid color is perfect for those who want a hint of copper or strawberry without going fully red.",
@@ -17943,7 +17943,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "7. Sunkissed Caramel Blonde",
-        "image": "assets/warm_blonde_223_15.jpg",
+        "image": "assets/doc_b_93_13.jpg",
         "description": "Sunkissed caramel blonde is designed to look as if you have just returned from a long tropical vacation. This look focuses on very thin, fine highlights that are concentrated where the sun would naturally hit the hair, such as the crown and the ends.\n\nThe transition between your natural base and the caramel blonde is so soft that it is almost imperceptible. This creates a very natural, youthful appearance that is perfect for those who prefer a no-makeup equivalent for their hair. It is a great way to add a bit of sparkle and brightness to your look without it feeling like a major chemical process. It is the ultimate low-maintenance beauty choice for everyone.",
         "paragraphs": [
           "Sunkissed caramel blonde is designed to look as if you have just returned from a long tropical vacation. This look focuses on very thin, fine highlights that are concentrated where the sun would naturally hit the hair, such as the crown and the ends.",
@@ -17957,7 +17957,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "8. Caramel Blonde For Curly Hair",
-        "image": "assets/warm_blonde_223_14.jpg",
+        "image": "assets/layered_hairstyles_176_7.jpg",
         "description": "Caramel blonde for curly hair is a match made in heaven because the dimensional colors help to define and accentuate each individual curl. When light hits the different shades of caramel throughout the coils, it creates a stunning effect that makes the hair appear full of life and bounce.\n\nThis color choice helps to break up the bulk of thick, curly hair, adding a sense of lightness and movement. Stylists often use a technique called pintura to hand-paint caramel highlights onto specific curls to ensure they pop.\n\nThis approach results in a very personalized look that celebrates the natural texture of your hair while providing a sun-kissed, radiant glow that looks absolutely breathtaking and natural.",
         "paragraphs": [
           "Caramel blonde for curly hair is a match made in heaven because the dimensional colors help to define and accentuate each individual curl. When light hits the different shades of caramel throughout the coils, it creates a stunning effect that makes the hair appear full of life and bounce.",
@@ -17972,7 +17972,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "9. Caramel Blonde Root Smudge",
-        "image": "assets/warm_blonde_223_9.jpg",
+        "image": "assets/modern_haircuts_181_12.jpg",
         "description": "A caramel blonde root smudge is an essential technique for anyone who wants a lived-in hair look that requires very little upkeep. In this process, the stylist applies a darker caramel or light brown shade at the roots and smudges it down into the lighter blonde lengths.\n\nThis eliminates the harsh line of demarcation as your hair grows, allowing you to go longer between salon appointments. It creates a soft, diffused look that feels effortless and natural.\n\nThe root smudge adds a bit of depth and shadow at the top, which can make the rest of the caramel blonde sections appear even more vibrant and dimensional. It is a practical and stylish solution for busy women.",
         "paragraphs": [
           "A caramel blonde root smudge is an essential technique for anyone who wants a lived-in hair look that requires very little upkeep. In this process, the stylist applies a darker caramel or light brown shade at the roots and smudges it down into the lighter blonde lengths.",
@@ -18031,7 +18031,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "13. Ash Caramel Blonde",
-        "image": "assets/warm_blonde_223_8.jpg",
+        "image": "assets/curly_over50_282_10.jpg",
         "description": "Ash caramel blonde is a unique and modern take on the classic warm shade, blending cool smoky tones with traditional caramel warmth. This creates a balanced, neutral look that is perfect for those who want to avoid any orange or brassy reflects in their hair.\n\nIt is a sophisticated choice that works well for people with cool or neutral skin undertones. The ashy elements give the hair a muted, matte finish that feels very high-fashion and editorial.\n\nWhile it still retains the depth of caramel, the cool overlay makes it look more understated and chic. Maintaining this specific shade often requires the use of blue shampoos to ensure the cool tones remain prominent and the warmth stays controlled.",
         "paragraphs": [
           "Ash caramel blonde is a unique and modern take on the classic warm shade, blending cool smoky tones with traditional caramel warmth. This creates a balanced, neutral look that is perfect for those who want to avoid any orange or brassy reflects in their hair.",
@@ -18046,7 +18046,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "14. Caramel Blonde Lob",
-        "image": "assets/warm_blonde_223_11.jpg",
+        "image": "assets/curly_hairstyles_296_11.jpg",
         "description": "The caramel blonde lob, or long bob, is a chic and sophisticated haircut that perfectly showcases the beauty of warm, dimensional tones. This shoulder-skimming length is ideal for highlighting the different shades of caramel, as the layers can be styled to show off the color transitions.\n\nWhether worn straight for a sleek, modern look or in loose waves for a more relaxed vibe, the lob provides a perfect canvas for caramel hues. The combination of a trendy cut and a warm color palette makes this a favorite for professional women and style-conscious individuals alike. It is a manageable length that offers enough versatility for various updos while still being easy to style on a daily basis.",
         "paragraphs": [
           "The caramel blonde lob, or long bob, is a chic and sophisticated haircut that perfectly showcases the beauty of warm, dimensional tones. This shoulder-skimming length is ideal for highlighting the different shades of caramel, as the layers can be styled to show off the color transitions.",
@@ -18060,7 +18060,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "15. Toffee Caramel Blonde",
-        "image": "assets/warm_blonde_223_13.jpg",
+        "image": "assets/bob_haircuts_265_21.jpg",
         "description": "Toffee caramel blonde is a slightly deeper and richer version of the classic shade, reminiscent of the dark, buttery candy. It features a blend of medium brown and warm blonde that creates a very natural and earthy appearance.\n\nThis shade is excellent for someone who wants a hair color that looks understated and classy. It provides a lot of depth to the hair, making it look thicker and more voluminous than it actually is.\n\nToffee tones are particularly flattering during the autumn months, as they mimic the warm colors of the changing season. This color is also very forgiving on the hair health, as it doesn’t always require heavy lightening to achieve the desired level of richness.",
         "paragraphs": [
           "Toffee caramel blonde is a slightly deeper and richer version of the classic shade, reminiscent of the dark, buttery candy. It features a blend of medium brown and warm blonde that creates a very natural and earthy appearance.",
@@ -18456,7 +18456,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "3. Lived In Caramel Blonde With Face Framing Highlights",
-        "image": "assets/warm_blonde_225_15.jpg",
+        "image": "assets/curly_hairstyles_291_18.jpg",
         "description": "Lived in caramel blonde with face framing highlights focuses brightness where it matters most: around your features. The rest of the hair is colored with soft, diffused caramel tones, while a slightly lighter halo of highlights is painted around the face.\n\nThis technique lifts the complexion and gives a fresh, youthful vibe without needing a full head of lightening. It suits many haircuts, from long layers to shoulder-length lobs, and works especially well if you often wear your hair down. When styling, a blowout or loose waves help those face-framing pieces catch the light. Keep them healthy with heat protectant, and apply a lightweight serum to the front sections to avoid dryness or frizz.",
         "paragraphs": [
           "Lived in caramel blonde with face framing highlights focuses brightness where it matters most: around your features. The rest of the hair is colored with soft, diffused caramel tones, while a slightly lighter halo of highlights is painted around the face.",
@@ -18470,7 +18470,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "4. Lived In Caramel Blonde With Beach Waves",
-        "image": "assets/warm_blonde_225_17.jpg",
+        "image": "assets/doc_b_88_8.jpg",
         "description": "Lived in caramel blonde truly comes alive when paired with soft beach waves that show every highlight and lowlight. The waves create peaks and valleys where light hits the caramel tones, making the hair look fuller and more dimensional.\n\nThis styling works on lobs, medium cuts, and long hair and can be achieved with a curling iron, wand, or flat iron bends. For a more undone, beachy finish, alternate curl directions and leave the ends slightly straighter.\n\nProtect the color by always using a heat protectant and keeping tool temperatures moderate, especially on previously lightened pieces. Finish with a lightweight texture spray rather than heavy hairspray so the hair stays touchable and shiny.",
         "paragraphs": [
           "Lived in caramel blonde truly comes alive when paired with soft beach waves that show every highlight and lowlight. The waves create peaks and valleys where light hits the caramel tones, making the hair look fuller and more dimensional.",
@@ -18485,7 +18485,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "5. Caramel Blonde Balayage On Dark Brown Hair",
-        "image": "assets/warm_blonde_225_14.jpg",
+        "image": "assets/doc_b_44_11.jpg",
         "description": "Caramel blonde balayage on dark brown hair creates high contrast yet still feels soft and melted. The colorist hand-paints caramel and golden blonde pieces onto a deep brown base, usually focusing on the mid-lengths, ends, and face-framing sections.\n\nThis brightens the overall look while leaving the root and some interior sections dark for depth. The result is a sun-kissed effect that flatters warm and olive undertones beautifully.\n\nBecause lifting dark hair requires more processing, it is crucial to prioritize bond-building treatments and regular conditioning masks to maintain strength. Ask your stylist to use a bond-protecting lightener and follow up at home with hydrating products and minimal heat styling.",
         "paragraphs": [
           "Caramel blonde balayage on dark brown hair creates high contrast yet still feels soft and melted. The colorist hand-paints caramel and golden blonde pieces onto a deep brown base, usually focusing on the mid-lengths, ends, and face-framing sections.",
@@ -18588,7 +18588,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "12. Lived In Caramel Blonde On Medium Length Hair",
-        "image": "assets/warm_blonde_225_16.jpg",
+        "image": "assets/doc_b_43_18.jpg",
         "description": "Medium length hair, sitting between the shoulders and chest, balances manageability with enough length to show off lived in caramel blonde. Colorists usually keep the root area natural or slightly deepened and build caramel tones from mid-shaft down, with a bit of extra brightness toward the ends.\n\nThis gives the illusion of thickness and movement, which is especially helpful if your strands are fine. Add subtle layers or long face-framing pieces so the different tones do not sit in one heavy block.\n\nFor daily care, rotate a color-safe shampoo with a moisturizing one, and use a leave-in conditioner to reduce tangles and breakage. Air-drying with a light curl cream can create effortless texture that highlights the color.",
         "paragraphs": [
           "Medium length hair, sitting between the shoulders and chest, balances manageability with enough length to show off lived in caramel blonde. Colorists usually keep the root area natural or slightly deepened and build caramel tones from mid-shaft down, with a bit of extra brightness toward the ends.",
@@ -18800,7 +18800,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "8. Honey Blonde Ribbons on Long Brunette Hair",
-        "image": "assets/warm_blonde_226_16.jpg",
+        "image": "assets/curly_hairstyles_298_14.jpg",
         "description": "Long hair gives your colorist the most canvas to work with when creating honey blonde ribbons. On long brunette hair, the ribbons can be placed in a gradient pattern that starts fine at the top and gradually widens toward the ends.\n\nThis creates a beautiful ombré-like fade that looks incredibly natural. The length also allows the ribbons to show their full potential, with each golden streak flowing uninterrupted from mid-shaft to tip.\n\nLong hair with honey ribbons has a luxurious, mermaid-like quality that catches light from every direction. It is the ultimate transformative look for anyone with long brunette hair who wants to add warmth and dimension without sacrificing length or committing to a full blonde color.",
         "paragraphs": [
           "Long hair gives your colorist the most canvas to work with when creating honey blonde ribbons. On long brunette hair, the ribbons can be placed in a gradient pattern that starts fine at the top and gradually widens toward the ends.",
@@ -18829,7 +18829,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "10. Honey Blonde Ribbons on Short Hair",
-        "image": "assets/warm_blonde_226_17.jpg",
+        "image": "assets/warm_blonde_230_3.jpg",
         "description": "Short hair with honey blonde ribbons is bold, modern, and full of personality. Because there is less hair to work with, the ribbon highlights have a more concentrated, impactful presence.\n\nEach golden ribbon stands out clearly against the base, creating a textured, multi-tonal finish that adds serious visual interest to a short cut. Whether your short hair is a pixie, a cropped bob, or a choppy layered style, honey ribbons can be customized to complement the shape perfectly.\n\nThe warm tones also add softness to short haircuts, preventing them from looking too harsh or severe. This combination is perfect for anyone who wants their short hair to feel dynamic, fresh, and full of movement with minimal styling effort.",
         "paragraphs": [
           "Short hair with honey blonde ribbons is bold, modern, and full of personality. Because there is less hair to work with, the ribbon highlights have a more concentrated, impactful presence.",
@@ -18844,7 +18844,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "11. Honey Blonde Ribbons With Blonde Money Piece",
-        "image": "assets/warm_blonde_226_15.jpg",
+        "image": "assets/modern_haircuts_187_1.jpg",
         "description": "A honey blonde money piece combined with ribbon highlights throughout the rest of the hair is one of the most impactful ways to wear this trend. The money piece features brighter, more saturated honey blonde sections painted right around the face for an instant brightening effect.\n\nMeanwhile, softer honey ribbons are scattered through the lengths and ends for consistency and dimension. This combination gives you the best of both worlds: a bold, face-framing statement up front and a subtle, natural-looking blend everywhere else. The money piece draws attention to your facial features while the ribbons add movement and texture to the overall look. It is low maintenance, highly flattering, and guaranteed to make your hair look professionally done.",
         "paragraphs": [
           "A honey blonde money piece combined with ribbon highlights throughout the rest of the hair is one of the most impactful ways to wear this trend. The money piece features brighter, more saturated honey blonde sections painted right around the face for an instant brightening effect.",
@@ -19582,7 +19582,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "5. Honey Blonde Babylights On Fine Hair",
-        "image": "assets/warm_blonde_229_16.jpg",
+        "image": "assets/bob_haircuts_262_14.jpg",
         "description": "Do you want to create the illusion of thicker, more voluminous locks? Spring honey blonde babylights on fine hair are an absolute secret weapon for boosting body and fullness.\n\nFine hair often lacks natural dimension, but the meticulous placement of these tiny, golden highlights adds much-needed depth and contrast. By weaving babylights throughout, the varying tones of honey and blonde create a shadow and light effect that makes the hair look significantly thicker and more textured.\n\nThe delicate nature of babylights ensures the hair is not over-processed, keeping it healthy and bouncy. This subtle color trick gives fine hair a beautiful, lifted appearance, ensuring your style looks full, vibrant, and effortlessly glowing all spring long.",
         "paragraphs": [
           "Do you want to create the illusion of thicker, more voluminous locks? Spring honey blonde babylights on fine hair are an absolute secret weapon for boosting body and fullness.",
@@ -19671,7 +19671,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "11. Honey Blonde Babylights On Thick Hair",
-        "image": "assets/warm_blonde_229_15.jpg",
+        "image": "assets/curly_over50_275_5.jpg",
         "description": "Are you looking to reduce the heavy, solid appearance of your thick mane? Spring honey blonde babylights on thick hair are a game-changer for breaking up dense, solid color.\n\nThick hair can sometimes look like one heavy block, but finely woven babylights strategically place lighter pieces throughout to create stunning visual movement. The warm honey tones act like an eraser, softening the overall weight of the hair and giving it a beautiful, airy feel. Because thick hair can handle a lot of highlights, your stylist can pack in tons of these micro-fine babylights for maximum brightness and dimension. The result is a remarkably bouncy, incredibly luminous style that finally lets your thick hair breathe and shine.",
         "paragraphs": [
           "Are you looking to reduce the heavy, solid appearance of your thick mane? Spring honey blonde babylights on thick hair are a game-changer for breaking up dense, solid color.",
@@ -20475,7 +20475,7 @@ const BLOG_POSTS_DATABASE = [
     "authorAvatar": "assets/team_sophia_chen.jpg",
     "updatedDate": "September 12, 2026",
     "readTime": "8 min read",
-    "thumbnail": "assets/warm_blonde_233_17.jpg",
+    "thumbnail": "assets/curly_hairstyles_299_4.jpg",
     "introText": "Golden warm blonde hair color captures radiant sun-drenched warmth with shimmering honey babylights. This classic warm shade accentuates face shapes and enhances skin undertones.\n\nPrecision balayage painting creates seamless color flow from crown to ends, giving hair touchable volume and brilliant light reflection.\n\nBelow, discover 16+ beautiful golden warm blonde hair color ideas worth trying.",
     "introParagraphs": [
       "Golden warm blonde hair color captures radiant sun-drenched warmth with shimmering honey babylights. This classic warm shade accentuates face shapes and enhances skin undertones.",
@@ -20485,7 +20485,7 @@ const BLOG_POSTS_DATABASE = [
     "photos": [
       {
         "numberTitle": "1. Golden Blonde Color Melt Hair",
-        "image": "assets/warm_blonde_233_17.jpg",
+        "image": "assets/ponytail_hairstyles_205_7.jpg",
         "description": "A golden blonde color melt is the ultimate technique for achieving that seamless, creamy transition between shades. Your colorist blends two or more golden blonde tones together — typically a deeper root shade that melts into a lighter, creamier blonde through the lengths — so there are zero visible lines or harsh transitions.\n\nThe result is hair that looks like one continuous, flowing stream of golden light from root to tip. This technique is ideal for women who want multi-dimensional color with a perfectly polished, high-end finish.\n\nColor melts also extend time between appointments because the blended grow-out looks intentional and beautiful rather than obvious or neglected.",
         "paragraphs": [
           "A golden blonde color melt is the ultimate technique for achieving that seamless, creamy transition between shades. Your colorist blends two or more golden blonde tones together — typically a deeper root shade that melts into a lighter, creamier blonde through the lengths — so there are zero visible lines or harsh transitions.",
@@ -20545,7 +20545,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "5. Butterscotch Blonde Hair",
-        "image": "assets/warm_blonde_233_14.jpg",
+        "image": "assets/doc_b_66_2.jpg",
         "description": "Butterscotch blonde brings a richer, deeper golden tone to the creamy blonde family that feels warm, indulgent, and incredibly chic. This shade sits slightly darker than buttery blonde, offering a more amber-kissed quality that has beautiful depth and dimension.\n\nIt looks especially gorgeous on medium blonde bases and adds a richness that feels luxurious and expensive. The creamy butterscotch tone complements warm and olive skin tones particularly well, enhancing natural warmth without looking brassy or overly golden.\n\nWhen styled with loose, effortless waves, butterscotch blonde creates that coveted “I woke up like this” aesthetic that always looks polished and put-together. It is a standout shade for anyone craving warmth with real substance.",
         "paragraphs": [
           "Butterscotch blonde brings a richer, deeper golden tone to the creamy blonde family that feels warm, indulgent, and incredibly chic. This shade sits slightly darker than buttery blonde, offering a more amber-kissed quality that has beautiful depth and dimension.",
@@ -20737,7 +20737,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "18. Sandy Golden Blonde Hair",
-        "image": "assets/warm_blonde_233_16.jpg",
+        "image": "assets/warm_blonde_228_10.jpg",
         "description": "Sandy golden blonde takes the softness of a beach-inspired palette and adds a creamy golden warmth that elevates the entire look. This shade blends sandy beige tones with golden highlights, creating a muted yet luminous blonde that feels effortless and lived-in.\n\nIt is one of the most natural-looking options in the golden blonde family, making it perfect for women who want color that enhances their natural base without a dramatic transformation. Sandy golden blonde is incredibly low maintenance because the muted tones grow out seamlessly and blend beautifully with most natural hair colors.\n\nIt looks stunning on all hair textures and lengths, from short pixie cuts to long flowing waves, making it a truly universal choice.",
         "paragraphs": [
           "Sandy golden blonde takes the softness of a beach-inspired palette and adds a creamy golden warmth that elevates the entire look. This shade blends sandy beige tones with golden highlights, creating a muted yet luminous blonde that feels effortless and lived-in.",
@@ -21073,7 +21073,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "2. Honey Blonde Medium Length Layers",
-        "image": "assets/warm_blonde_235_17.jpg",
+        "image": "assets/doc_b_65_20.jpg",
         "description": "Medium length layers in honey blonde offer movement and softness that pair well with warm skin tones. The layers add shape and bounce, which helps show off different shades of honey, caramel, or beige woven through the hair.\n\nOn warm undertones, a mid-depth honey with a few slightly lighter pieces near the face gives a bright yet balanced effect. Ask your stylist for layers that start around the cheekbones or collarbone, depending on your face shape, to flatter your features.\n\nThis look works whether you wear your hair straight, curled, or in loose waves, and it feels light without losing fullness. Maintain shine with lightweight oils or serums that keep the color reflective without weighing down your layers.",
         "paragraphs": [
           "Medium length layers in honey blonde offer movement and softness that pair well with warm skin tones. The layers add shape and bounce, which helps show off different shades of honey, caramel, or beige woven through the hair.",
@@ -21133,7 +21133,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "6. Honey Blonde Shadow Root For Warm Skin",
-        "image": "assets/warm_blonde_235_16.jpg",
+        "image": "assets/curly_over50_288_5.jpg",
         "description": "A honey blonde shadow root keeps your roots slightly deeper than your lengths, which is especially flattering and low maintenance on warm skin. The shadow root creates a soft, blurred transition from your natural color into honey blonde mid-lengths and ends.\n\nOn warm undertones, this technique prevents a harsh root line and gives the illusion of naturally grown-out, sun-kissed hair. Ask for a root shade that’s close to your natural tone, then melt it into golden honey lengths for seamless depth.\n\nThis works with straight, wavy, or curly hair and can be adapted for lobs, long layers, or shags. Maintenance usually involves refreshing the honey tone and glossing the root area, rather than frequent full recoloring.",
         "paragraphs": [
           "A honey blonde shadow root keeps your roots slightly deeper than your lengths, which is especially flattering and low maintenance on warm skin. The shadow root creates a soft, blurred transition from your natural color into honey blonde mid-lengths and ends.",
@@ -21266,7 +21266,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "15. Honey Blonde On Natural Curls",
-        "image": "assets/warm_blonde_235_15.jpg",
+        "image": "assets/doc_b_23_2.jpg",
         "description": "Wearing honey blonde on natural curls instantly enhances texture and movement, especially on warm skin tones. The golden shade catches the light on each curl, creating a halo effect that brings out your complexion’s radiance.\n\nFor warm undertones, honey mixed with caramel or light brown lowlights keeps your curls looking dimensional and avoids flattening your features. Ask your colorist to use techniques that respect curl health, like low-volume developers, strategic placement, and bond repair. This works on all curl patterns, from looser waves to tight coils, but the final depth should be tailored to your skin tone. Choose curl-friendly, sulfate-free products and deep conditioners to maintain bounce and prevent dryness after lightening.",
         "paragraphs": [
           "Wearing honey blonde on natural curls instantly enhances texture and movement, especially on warm skin tones. The golden shade catches the light on each curl, creating a halo effect that brings out your complexion’s radiance.",
@@ -21375,7 +21375,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "3. Sun Kissed Caramel Blonde Dimension",
-        "image": "assets/warm_blonde_236_16.jpg",
+        "image": "assets/pastel_hair_color_193_17.jpg",
         "description": "If your main goal is depth and richness, sun kissed caramel blonde dimension is all about layering multiple tones together. Instead of one flat shade, your colorist combines caramel, honey, beige blonde, and sometimes a slightly deeper bronde to create a multi-tonal effect.\n\nThis makes your hair look thicker and more “expensive” because different strands catch the light in slightly different ways. The technique can be done with balayage, foilyage, or a mix of highlights and lowlights, depending on your starting color and maintenance level.\n\nTo keep that dimension visible, avoid overwashing, steer clear of heavy, waxy styling products that can dull the shine, and refresh your color with clear or tinted glosses that enhance reflection without darkening the lighter pieces.",
         "paragraphs": [
           "If your main goal is depth and richness, sun kissed caramel blonde dimension is all about layering multiple tones together. Instead of one flat shade, your colorist combines caramel, honey, beige blonde, and sometimes a slightly deeper bronde to create a multi-tonal effect.",
@@ -21419,7 +21419,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "6. Sun Kissed Caramel Blonde On Olive Skin",
-        "image": "assets/warm_blonde_236_17.jpg",
+        "image": "assets/layered_fine_hair_144_14.jpg",
         "description": "Sun kissed caramel blonde on olive skin can look incredibly flattering when the undertones are chosen carefully. Olive complexions often have green or neutral undertones, so a balanced caramel blonde with both golden and slightly beige hues tends to complement them well.\n\nToo much yellow can make the skin look sallow, while overly ashy shades might leave you looking washed out. When you consult with your stylist, mention that you have olive undertones and ask for a caramel blonde blend that leans warm but not brassy, with dimension close to the mid-lengths and ends.\n\nMaintain the tone with color-safe products, occasional purple or blue shampoo if needed, and regular glosses so your hair color continues to enhance your natural skin tone instead of fighting against it.",
         "paragraphs": [
           "Sun kissed caramel blonde on olive skin can look incredibly flattering when the undertones are chosen carefully. Olive complexions often have green or neutral undertones, so a balanced caramel blonde with both golden and slightly beige hues tends to complement them well.",
@@ -22719,7 +22719,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "11. Toasted Honey Blonde Pixie Cut",
-        "image": "assets/warm_blonde_241_15.jpg",
+        "image": "assets/trending_haircuts_214_3.jpg",
         "description": "A toasted honey blonde pixie cut is bold but still soft and wearable, which makes it a fun option if you like short hair. The cut usually has slightly longer layers on top with closer‑cut sides and back, so the top can be styled forward, tousled, or lifted for volume.\n\nColor placement focuses on keeping the roots a touch deeper for dimension and then saturating the top and fringe with toasted honey highlights. This contrast keeps the pixie from looking flat and draws attention to your eyes and cheekbones. Styling cream or light pomade lets you switch between a smooth, polished look and a more piecey, textured finish while still showing off the warm blonde.",
         "paragraphs": [
           "A toasted honey blonde pixie cut is bold but still soft and wearable, which makes it a fun option if you like short hair. The cut usually has slightly longer layers on top with closer‑cut sides and back, so the top can be styled forward, tousled, or lifted for volume.",
@@ -22748,7 +22748,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "13. Toasted Honey Blonde With Curtain Bangs",
-        "image": "assets/warm_blonde_241_16.jpg",
+        "image": "assets/modern_haircuts_179_18.jpg",
         "description": "Toasted honey blonde with curtain bangs combines a trending fringe shape with a flattering, sunlit color. Curtain bangs are parted in the middle or slightly off‑center and blend into the rest of your layers, sitting around eye to cheekbone level.\n\nColoring them a touch lighter than the rest of your hair in a toasted honey tone helps frame your eyes and brighten your face. The rest of the hair can be a medium honey blonde with subtle dimension throughout, so the bangs feel connected rather than like a separate block of color.\n\nStyle the fringe with a small round brush or flat iron to flip gently away from the face, and finish with a light shine spray to emphasize the warm glow.",
         "paragraphs": [
           "Toasted honey blonde with curtain bangs combines a trending fringe shape with a flattering, sunlit color. Curtain bangs are parted in the middle or slightly off‑center and blend into the rest of your layers, sitting around eye to cheekbone level.",
@@ -22806,7 +22806,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "17. Toasted Honey Blonde For Mature Women",
-        "image": "assets/warm_blonde_241_17.jpg",
+        "image": "assets/doc_b_30_8.jpg",
         "description": "Toasted honey blonde for mature women offers softness, brightness, and a forgiving grow‑out, which is especially helpful if you have some grays. The color usually leans slightly deeper and more golden at the root, with lighter toasted pieces framing the face and scattered through the lengths to blend grays and add lift.\n\nThis avoids the harsh contrast that very light or super cool blondes can create, which sometimes emphasizes fine lines or skin texture. A mid‑length cut with soft layers or a polished bob works beautifully, giving movement without demanding a lot of styling time.\n\nRegular glosses, conditioning treatments, and gentle, color‑safe products will keep the hair looking healthy and shiny, which always makes color read more youthful.",
         "paragraphs": [
           "Toasted honey blonde for mature women offers softness, brightness, and a forgiving grow‑out, which is especially helpful if you have some grays. The color usually leans slightly deeper and more golden at the root, with lighter toasted pieces framing the face and scattered through the lengths to blend grays and add lift.",
@@ -22821,7 +22821,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "18. Toasted Honey Blonde For Cool Skin Tones",
-        "image": "assets/warm_blonde_241_14.jpg",
+        "image": "assets/doc_b_40_1.jpg",
         "description": "Toasted honey blonde for cool skin tones needs a bit of balance so the warmth of the hair does not clash with pink or rosy undertones. Your colorist might build the shade around a slightly neutral or beige honey base, then add mellow toasted pieces that lean more golden than orange.\n\nAvoid extremely yellow or overly coppery shades, as they can emphasize redness in the skin. Instead, think creamy honey with subtle caramel ribbons, ideally placed away from the very root so your natural tone peeks through.\n\nA regular use of a gentle purple or blue‑tinted shampoo can help keep brassiness at bay while preserving the soft warmth that makes this color so flattering.",
         "paragraphs": [
           "Toasted honey blonde for cool skin tones needs a bit of balance so the warmth of the hair does not clash with pink or rosy undertones. Your colorist might build the shade around a slightly neutral or beige honey base, then add mellow toasted pieces that lean more golden than orange.",
@@ -22846,7 +22846,7 @@ const BLOG_POSTS_DATABASE = [
     "authorAvatar": "assets/cindy_marcus_headshot.jpg",
     "updatedDate": "September 12, 2026",
     "readTime": "8 min read",
-    "thumbnail": "assets/trending_haircuts_213_14.jpg",
+    "thumbnail": "assets/doc_b_75_8.jpg",
     "introText": "The gray bixie haircut has emerged as a revolutionary crop that perfectly bridges the gap between a classic bob and a daring pixie cut. As more individuals embrace their natural silver tones, this hybrid style offers volume and texture while maintaining soft face-framing length.\n\nBy combining low-maintenance short layers with strategic graduation around the nape, this chic haircut highlights salt-and-pepper dimensional tones effortlessly.\n\nBelow, explore 15+ inspiring modern gray bixie haircut ideas to refresh your look.",
     "introParagraphs": [
       "The gray bixie haircut has emerged as a revolutionary crop that perfectly bridges the gap between a classic bob and a daring pixie cut. As more individuals embrace their natural silver tones, this hybrid style offers volume and texture while maintaining soft face-framing length.",
@@ -22856,7 +22856,7 @@ const BLOG_POSTS_DATABASE = [
     "photos": [
       {
         "numberTitle": "1. Voluminous gray bixie haircut",
-        "image": "assets/trending_haircuts_213_14.jpg",
+        "image": "assets/doc_b_37_14.jpg",
         "description": "If you love big hair, the voluminous gray bixie haircut is the perfect way to get that lift without the weight of long locks. This style focuses on building height at the crown and fullness at the sides.\n\nIt often involves “stacking” the layers at the back to create a built-in cushion of volume. For women with gray hair, this volume can provide a youthful “lift” to the entire face, acting almost like a non-surgical facelift.\n\nYou will likely need a round brush and some root-lifting spray to get the most out of this look. The silver color adds a bright, airy feel to the volume, making the hair look thick, healthy, and full of life from every single angle.",
         "paragraphs": [
           "If you love big hair, the voluminous gray bixie haircut is the perfect way to get that lift without the weight of long locks. This style focuses on building height at the crown and fullness at the sides.",
@@ -22946,7 +22946,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "7. Feathered silver bixie haircut",
-        "image": "assets/trending_haircuts_213_15.jpg",
+        "image": "assets/ponytail_hairstyles_201_14.jpg",
         "description": "The feathered silver bixie haircut is a nod to the classic styles of the 70s and 80s, but with a modern, sleek update. This look uses fine, overlapping layers that resemble the feathers of a bird, creating a soft and flowing effect.\n\nIt is a very flattering choice because the layers naturally sweep away from the face, opening up your features. Gray hair, which can sometimes feel stiff, benefits greatly from this “feathering” technique as it adds a sense of suppleness and grace. It is a very easy style to wear and maintain, as the layers grow out gracefully over time. Most women find that a simple blow-dry with a paddle brush is all it takes to style this gorgeous silver look., Fresh Look",
         "paragraphs": [
           "The feathered silver bixie haircut is a nod to the classic styles of the 70s and 80s, but with a modern, sleek update. This look uses fine, overlapping layers that resemble the feathers of a bird, creating a soft and flowing effect.",
@@ -23006,7 +23006,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "11. Messy gray bixie haircut",
-        "image": "assets/trending_haircuts_213_16.jpg",
+        "image": "assets/bob_haircuts_253_3.jpg",
         "description": "Embrace a bit of chaos with the messy gray bixie haircut, which is all about texture and a “just rolled out of bed” chic aesthetic. This style is achieved through a combination of choppy layers and the right styling products, like a matte clay or dry shampoo.\n\nIt is a very modern way to wear silver hair, as it breaks away from the idea that gray hair must always be perfectly coiffed. The messy look is actually quite strategic, helping to hide any thinning areas or uneven growth.\n\nIt is an effortless choice for the weekend, but can also be dressed up with some bold earrings for a night out. This cut is perfect for the woman who wants to look stylish without trying too hard.",
         "paragraphs": [
           "Embrace a bit of chaos with the messy gray bixie haircut, which is all about texture and a “just rolled out of bed” chic aesthetic. This style is achieved through a combination of choppy layers and the right styling products, like a matte clay or dry shampoo.",
@@ -23191,7 +23191,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "4. Korean Hime Cut",
-        "image": "assets/trending_haircuts_214_16.jpg",
+        "image": "assets/layered_fine_hair_146_1.jpg",
         "description": "K-drama sleek? Korean hime wisps bangs slightly, sides glossy, back straight.\n\nStraight hair shines. Oval ideal.\n\nArgan oil polishes. Idol fresh.",
         "paragraphs": [
           "K-drama sleek? Korean hime wisps bangs slightly, sides glossy, back straight.",
@@ -23340,7 +23340,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "14. Long Hime with Extensions",
-        "image": "assets/trending_haircuts_214_15.jpg",
+        "image": "assets/doc_b_39_11.jpg",
         "description": "Extra length? Long hime extensions elongate back, frames natural.\n\nThin hair thickens. Round faces suit. Blend seamlessly. Versatile glam.!",
         "paragraphs": [
           "Extra length? Long hime extensions elongate back, frames natural.",
@@ -23448,7 +23448,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "2. Textured Wedge Haircut For Women",
-        "image": "assets/trending_haircuts_215_16.jpg",
+        "image": "assets/ponytail_hairstyles_208_18.jpg",
         "description": "A textured wedge haircut for women is all about movement and undone ease rather than a super-sculpted finish. The base shape is still wedge-like, with a shorter back and longer front, but the ends are heavily texturized and broken up.\n\nThis prevents the cut from looking too stiff and makes it easier to style with minimal effort. Ask your stylist to use techniques like point-cutting or slide-cutting to remove weight through the mid-lengths and ends. The result is a soft silhouette that you can wear sleek one day and tousled the next. This style pairs perfectly with current trends for hair that looks healthy and glossy but not overdone.\n\nStyling typically involves a bit of mousse at the roots and a texturizing spray on dry hair to show off the layered ends.",
         "paragraphs": [
           "A textured wedge haircut for women is all about movement and undone ease rather than a super-sculpted finish. The base shape is still wedge-like, with a shorter back and longer front, but the ends are heavily texturized and broken up.",
@@ -23493,7 +23493,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "5. Wedge Haircut For Straight Hair Women",
-        "image": "assets/trending_haircuts_215_17.jpg",
+        "image": "assets/doc_b_62_15.jpg",
         "description": "A wedge haircut for straight hair women takes full advantage of naturally smooth strands to show off sharp lines and clean graduation. Straight hair can sometimes fall flat, but the stacked layers in a wedge create a rounded shape at the back and a sleek angle toward the front that keeps things interesting.\n\nAsk your stylist for precise, even stacking and a length in front that flatters your face shape—cheekbone-skimming for rounder faces or chin-length for longer faces. Because straight hair shows every detail, it is important that the cut is even and well-blended. Using a smoothing heat protectant and blow-drying with a round brush can enhance shine and curve the ends under slightly for a polished look. If you prefer a more relaxed finish, you can air-dry and just touch up the front sections with a flat iron.\n\nThis style fits perfectly with the move toward sleek, healthy-looking hair.",
         "paragraphs": [
           "A wedge haircut for straight hair women takes full advantage of naturally smooth strands to show off sharp lines and clean graduation. Straight hair can sometimes fall flat, but the stacked layers in a wedge create a rounded shape at the back and a sleek angle toward the front that keeps things interesting.",
@@ -23809,7 +23809,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "7. Feathered Wedge For Glasses",
-        "image": "assets/trending_haircuts_216_16.jpg",
+        "image": "assets/pastel_hair_color_193_5.jpg",
         "description": "A feathered wedge for glasses uses light, wispy layers to create a soft and feminine silhouette that feels very airy. This technique involves cutting the hair at an angle to create feathers that sweep back away from the face.\n\nFor women with glasses, this is a wonderful feature as it keeps the hair from falling forward into the frames or onto the lenses. The feathered layers add a touch of retro charm while still looking completely current.\n\nThis style is especially flattering for those with delicate features or smaller glasses, as it does not overwhelm the face. It is a graceful and timeless option that provides a beautiful sense of movement and can be easily styled with a small amount of light-hold hairspray.",
         "paragraphs": [
           "A feathered wedge for glasses uses light, wispy layers to create a soft and feminine silhouette that feels very airy. This technique involves cutting the hair at an angle to create feathers that sweep back away from the face.",
@@ -23824,7 +23824,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "8. Undercut Wedge Haircut",
-        "image": "assets/trending_haircuts_216_17.jpg",
+        "image": "assets/curly_over50_273_16.jpg",
         "description": "The undercut wedge haircut is a modern and edgy choice that involves shaving or closely clipping the hair at the nape of the neck. This technique emphasizes the stacked layers above, making the wedge shape appear even more prominent and dramatic.\n\nFor glasses wearers, an undercut can be very practical because it removes all the bulk from the lower half of the head, preventing the hair from getting caught in the arms of your eyewear. It also keeps you much cooler in warmer weather.\n\nYou can hide the undercut under the longer top layers or show it off with a shorter styling choice. It is a versatile and bold look that appeals to women who want a unique and contemporary hairstyle.",
         "paragraphs": [
           "The undercut wedge haircut is a modern and edgy choice that involves shaving or closely clipping the hair at the nape of the neck. This technique emphasizes the stacked layers above, making the wedge shape appear even more prominent and dramatic.",
@@ -24679,7 +24679,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "14. Messy Modern Mullet",
-        "image": "assets/trending_haircuts_219_17.jpg",
+        "image": "assets/doc_b_86_7.jpg",
         "description": "The messy modern mullet is all about relaxed texture and easy movement. Straight hair can sometimes look too tidy, so this version uses choppy layering and light styling to create a more undone finish.\n\nIt is a good match for people who want an effortless look that still has shape. The front is usually loose, the crown has some lift, and the back keeps the mullet length without feeling overworked.\n\nA texturizing spray is helpful here, especially if you want a piecey finish. This haircut looks best when it appears natural, not overly constructed.",
         "paragraphs": [
           "The messy modern mullet is all about relaxed texture and easy movement. Straight hair can sometimes look too tidy, so this version uses choppy layering and light styling to create a more undone finish.",
@@ -25024,7 +25024,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "17. Soft Bob",
-        "image": "assets/trending_haircuts_220_17.jpg",
+        "image": "assets/blunt_bob_249_1.jpg",
         "description": "Craving a gentle and romantic aesthetic? The soft bob relies on smooth edges and subtle curves rather than harsh, blunt lines.\n\nThis cut typically falls right below the chin, featuring slightly rounded ends that curl under gracefully. It creates a beautifully approachable and feminine silhouette. This style is perfect for anyone who finds blunt cuts too severe for their features. You can achieve this look with a simple blowout using a large round brush to roll the ends inward.\n\nThe lack of sharp angles makes it incredibly flattering for square or angular face shapes. It delivers a timeless elegance that feels comforting and universally appealing in any professional or casual setting.",
         "paragraphs": [
           "Craving a gentle and romantic aesthetic? The soft bob relies on smooth edges and subtle curves rather than harsh, blunt lines.",
@@ -25389,7 +25389,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "4. Wrapped Base Loc Ponytail",
-        "image": "assets/ponytail_hairstyles_199_12.jpg",
+        "image": "assets/layered_hairstyles_174_5.jpg",
         "description": "The wrapped base is a classic technique where one or two locs are taken from the ponytail and wrapped tightly around the elastic band to hide it completely. This creates a seamless transition that makes the ponytail look like it is being held up by the hair itself, giving it a more “couture” and expensive finish.\n\nIn 2026, many women are taking this a step further by using gold wire or colorful thread to wrap over the hair for added decoration. This small detail elevates a basic ponytail into something suitable for a red carpet or a formal gala, showing off your attention to detail.",
         "paragraphs": [
           "The wrapped base is a classic technique where one or two locs are taken from the ponytail and wrapped tightly around the elastic band to hide it completely. This creates a seamless transition that makes the ponytail look like it is being held up by the hair itself, giving it a more “couture” and expensive finish.",
@@ -25403,7 +25403,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "5. Curly Ended Loc Ponytail",
-        "image": "assets/ponytail_hairstyles_199_13.jpg",
+        "image": "assets/doc_b_79_5.jpg",
         "description": "If you love a mix of textures, the curly ended loc ponytail features smooth, uniform locs that transition into voluminous, bouncy curls at the very tips. When gathered into a ponytail, the curls create a massive cloud of texture at the base of the style, providing a beautiful contrast to the structured look of the locs.\n\nThis style is often achieved using the “goddess” or “boho” loc method, but it can also be done on natural locs using pipe cleaners or rollers for a temporary change. The movement provided by the curls makes this one of the most dynamic and eye-catching ways to wear long locs.",
         "paragraphs": [
           "If you love a mix of textures, the curly ended loc ponytail features smooth, uniform locs that transition into voluminous, bouncy curls at the very tips. When gathered into a ponytail, the curls create a massive cloud of texture at the base of the style, providing a beautiful contrast to the structured look of the locs.",
@@ -25417,7 +25417,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "6. Pineapple Loc Ponytail",
-        "image": "assets/ponytail_hairstyles_199_18.jpg",
+        "image": "assets/doc_b_83_16.jpg",
         "description": "The pineapple ponytail is a classic for natural hair, and it works exceptionally well for women with shorter to medium-long locs who want to pile their hair at the very front of their head. This “pineapple” effect allows the locs to fall forward toward the forehead, creating a voluminous, crown-like appearance.\n\nIt is a fantastic “pineapple” style for sleeping to protect your locs, but it has also become a major fashion trend for daytime wear. Using a wide headband or a large “scrunchie” can help hold the hair in place without squashing the locs, maintaining the height and fullness that makes this style so iconic.",
         "paragraphs": [
           "The pineapple ponytail is a classic for natural hair, and it works exceptionally well for women with shorter to medium-long locs who want to pile their hair at the very front of their head. This “pineapple” effect allows the locs to fall forward toward the forehead, creating a voluminous, crown-like appearance.",
@@ -25445,7 +25445,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "8. Distressed Loc Ponytail",
-        "image": "assets/ponytail_hairstyles_199_17.jpg",
+        "image": "assets/curly_over50_284_8.jpg",
         "description": "The distressed loc ponytail embraces imperfections, featuring locs with frayed edges, loops, and a matte finish for a truly organic look. This style is all about texture and “vibe” rather than precision, making it a popular choice for artists and creative professionals.\n\nWhen pulled into a ponytail, the “messy” nature of the distressed locs creates a voluminous and interesting silhouette that doesn’t require constant maintenance or smoothing. To keep the look intentional, ensure your edges are neatly styled, which creates a beautiful contrast against the rugged and textured locs in the back.\n\nIt’s a bold look that celebrates natural beauty.",
         "paragraphs": [
           "The distressed loc ponytail embraces imperfections, featuring locs with frayed edges, loops, and a matte finish for a truly organic look. This style is all about texture and “vibe” rather than precision, making it a popular choice for artists and creative professionals.",
@@ -25531,7 +25531,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "14. Sisterlocks Ponytail",
-        "image": "assets/ponytail_hairstyles_199_16.jpg",
+        "image": "assets/doc_b_53_21.jpg",
         "description": "Sisterlocks are much thinner than traditional locs, allowing for incredible versatility and a ponytail that looks almost like loose, micro-braided hair. Because of their small diameter, you can easily create very intricate updos and ponytails that appear flat and sleek against the scalp.\n\nA sisterlocks ponytail has a unique, lightweight swing that is very different from the “chunky” look of traditional locs. This style is perfect for women who prefer a more delicate and refined aesthetic.\n\nYou can even braid the ponytail itself into a fishtail or a three-strand braid to take advantage of the hair’s manageable size and texture.",
         "paragraphs": [
           "Sisterlocks are much thinner than traditional locs, allowing for incredible versatility and a ponytail that looks almost like loose, micro-braided hair. Because of their small diameter, you can easily create very intricate updos and ponytails that appear flat and sleek against the scalp.",
@@ -25561,7 +25561,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "16. Loc Ponytail With Bangs",
-        "image": "assets/ponytail_hairstyles_199_11.jpg",
+        "image": "assets/warm_blonde_232_1.jpg",
         "description": "Adding bangs to a loc ponytail can completely transform your facial shape and give the style a more youthful, edgy vibe. These “bangs” are usually created by allowing a few shorter locs to fall forward over the forehead, or by pinning longer locs back to simulate the appearance of a fringe.\n\nWhether you prefer a blunt-cut look or wispy, side-swept loc bangs, the contrast between the forward-facing hair and the pulled-back ponytail creates a sophisticated balance. This is an ideal solution for women who want to hide a high forehead or simply want to add more dimension to their standard updos.",
         "paragraphs": [
           "Adding bangs to a loc ponytail can completely transform your facial shape and give the style a more youthful, edgy vibe. These “bangs” are usually created by allowing a few shorter locs to fall forward over the forehead, or by pinning longer locs back to simulate the appearance of a fringe.",
@@ -25575,7 +25575,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "17. Two Ponytail Loc Style",
-        "image": "assets/ponytail_hairstyles_199_14.jpg",
+        "image": "assets/blunt_bob_246_12.jpg",
         "description": "For a playful and adventurous look, the two ponytail loc style—often referred to as “space buns” or “double ponies”—is a fantastic way to distribute hair weight while looking trendy. You can wear them high on the head for a\n\n90s-inspired aesthetic or low for a more modern, relaxed vibe. This style works exceptionally well for women with very thick locs who find a single ponytail too heavy or cumbersome.\n\nSplitting the hair into two sections allows for more creative parting and the opportunity to use more accessories, like matching scrunchies or beads, on both sides for a symmetrical and fun finish.",
         "paragraphs": [
           "For a playful and adventurous look, the two ponytail loc style—often referred to as “space buns” or “double ponies”—is a fantastic way to distribute hair weight while looking trendy. You can wear them high on the head for a",
@@ -25685,7 +25685,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "5. Wavy Tennis Ponytail With Visor",
-        "image": "assets/ponytail_hairstyles_200_14.jpg",
+        "image": "assets/doc_b_54_14.jpg",
         "description": "Do you love the look of beachy waves but need a functional style for your match? The wavy tennis ponytail with visor brings that relaxed, sun-kissed energy to the court.\n\nYou can use a curling iron the night before or braid your damp hair to create loose, natural waves. Pulling this textured hair into a ponytail adds incredible dimension and bounce that looks stunning as you move. The visor gives you that essential athletic finish while keeping the front tight and controlled. It is the perfect style for summer league matches or playing under bright, open skies.\n\nYou get to show off your beautiful texture while staying completely match-ready and focused.",
         "paragraphs": [
           "Do you love the look of beachy waves but need a functional style for your match? The wavy tennis ponytail with visor brings that relaxed, sun-kissed energy to the court.",
@@ -25730,7 +25730,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "8. Side Swept Tennis Visor Ponytail",
-        "image": "assets/ponytail_hairstyles_200_16.jpg",
+        "image": "assets/curly_over50_277_7.jpg",
         "description": "Looking for a playful twist on the traditional athletic look? The side swept tennis visor ponytail brings a bit of asymmetry and fun to your court outfit.\n\nYou pull your hair to one side, letting the ponytail rest comfortably over your shoulder. The visor keeps the front secure and your vision clear, while the ponytail itself feels much lighter and less intrusive than a central style. It is a charming option that works wonderfully for players who like a slightly softer, more feminine aesthetic. Just make sure to secure it tightly at the side, so it does not swing wildly when you go for an overhead smash.\n\nIt is stylish, sweet, and surprisingly practical.",
         "paragraphs": [
           "Looking for a playful twist on the traditional athletic look? The side swept tennis visor ponytail brings a bit of asymmetry and fun to your court outfit.",
@@ -25942,7 +25942,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "3. Professional Banana Clip Ponytail",
-        "image": "assets/ponytail_hairstyles_201_17.jpg",
+        "image": "assets/modern_haircuts_185_3.jpg",
         "description": "If you need a reliable look for the workplace, the professional banana clip ponytail provides a neat and tidy finish that stays put from your morning meeting to your evening commute. For a professional setting, stick to neutral colors like black, tortoiseshell, or navy to keep the look understated.\n\nEnsure that you brush your hair smooth and use a tiny bit of pomade to tame any flyaways before clipping. The vertical nature of the clip creates a very organized silhouette that looks more sophisticated than a basic messy bun.\n\nIt pairs perfectly with a blazer or a button-down shirt, giving you a sharp and put-together appearance for any business environment.",
         "paragraphs": [
           "If you need a reliable look for the workplace, the professional banana clip ponytail provides a neat and tidy finish that stays put from your morning meeting to your evening commute. For a professional setting, stick to neutral colors like black, tortoiseshell, or navy to keep the look understated.",
@@ -26243,7 +26243,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "3. Low Twisted Ponytail For Classes",
-        "image": "assets/ponytail_hairstyles_202_9.jpg",
+        "image": "assets/layered_fine_hair_154_11.jpg",
         "description": "A low twisted ponytail looks more dressed up than it really is, making it great for presentations, job fairs, or campus dates while still simple. Part your hair in the middle or slightly to the side, then gather it into a low ponytail at the nape and secure with an elastic.\n\nLoosen the elastic slightly, create a small opening above it, and flip the ponytail through that gap to form a twist. Gently tighten and adjust the twist so it sits evenly.\n\nYou can leave the ponytail straight or quickly curl the ends for a softer finish. This hairstyle works nicely on straight and wavy hair and stays comfortable even when you are sitting through long lectures.",
         "paragraphs": [
           "A low twisted ponytail looks more dressed up than it really is, making it great for presentations, job fairs, or campus dates while still simple. Part your hair in the middle or slightly to the side, then gather it into a low ponytail at the nape and secure with an elastic.",
@@ -26258,7 +26258,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "4. Campus Puff Ponytail",
-        "image": "assets/ponytail_hairstyles_202_17.jpg",
+        "image": "assets/doc_b_20_18.jpg",
         "description": "For naturally curly or coily hair, a puff ponytail is a campus essential that highlights your texture. Start by moisturizing your hairline with a leave-in or light cream, then use a soft brush to smooth the sides upward.\n\nInstead of a tight elastic, use a stretchy band or shoelace to gently gather your hair at the crown, pulling it into a puff. Adjust the band until your curls sit upright in a rounded shape, then define some coils at the front with gel or curl cream.\n\nThis look keeps your hair off your neck and face while still looking stylish. It is perfect for long days of classes, group work, and campus activities.",
         "paragraphs": [
           "For naturally curly or coily hair, a puff ponytail is a campus essential that highlights your texture. Start by moisturizing your hairline with a leave-in or light cream, then use a soft brush to smooth the sides upward.",
@@ -26466,7 +26466,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "18. Braided Wrap Ponytail For Campus",
-        "image": "assets/ponytail_hairstyles_202_16.jpg",
+        "image": "assets/modern_haircuts_178_3.jpg",
         "description": "The braided wrap ponytail adds a detailed twist to a simple base and looks great from every angle. Create a high or mid ponytail and secure it with an elastic, leaving out a small section of hair from underneath.\n\nBraid that section into a tight three-strand braid, then wrap it around the base of the ponytail to hide the elastic and add texture. Pin the end of the braid underneath with a bobby pin so it stays hidden.\n\nYou can keep the ponytail straight, wavy, or curly depending on your hair type and schedule. This style looks especially nice for campus events, club photos, or casual nights out near campus.",
         "paragraphs": [
           "The braided wrap ponytail adds a detailed twist to a simple base and looks great from every angle. Create a high or mid ponytail and secure it with an elastic, leaving out a small section of hair from underneath.",
@@ -27062,7 +27062,7 @@ const BLOG_POSTS_DATABASE = [
     "authorAvatar": "assets/cindy_marcus_headshot.jpg",
     "updatedDate": "September 12, 2026",
     "readTime": "8 min read",
-    "thumbnail": "assets/ponytail_hairstyles_205_16.jpg",
+    "thumbnail": "assets/doc_ash_brown_6.jpg",
     "introText": "The ponytail remains the ultimate versatile updo, offering infinite possibilities from high-glam volume to relaxed, sporty chic. Updating your ponytail technique instantly elevates your style.\n\nWhether gathered high at the crown with a sporty visor or styled into a relaxed side sweep, strategic placement transforms this daily favorite.\n\nBelow, explore 17+ versatile ponytail hairstyle inspiration photos to find your next signature look.",
     "introParagraphs": [
       "The ponytail remains the ultimate versatile updo, offering infinite possibilities from high-glam volume to relaxed, sporty chic. Updating your ponytail technique instantly elevates your style.",
@@ -27072,7 +27072,7 @@ const BLOG_POSTS_DATABASE = [
     "photos": [
       {
         "numberTitle": "1. Ponytail With Silk Scrunchie For Road Trips",
-        "image": "assets/ponytail_hairstyles_205_16.jpg",
+        "image": "assets/doc_b_51_9.jpg",
         "description": "Using a silk scrunchie with your ponytail can make a big difference on multi-day road trips. Silk or satin materials create less friction than regular elastics, which helps reduce tangles, frizz, and breakage when your hair is tied up for hours.\n\nTo style, choose any ponytail placement you like—high, mid, or low—and secure it with a soft silk scrunchie instead of a tight rubber band. This keeps your pony comfortable even if you fall asleep in the passenger seat or rest your head against the window.\n\nIt is especially useful if you plan to redo your hair later, since silk leaves fewer dents and makes it easier to switch to a different style at night. Plus, the scrunchie itself becomes a cute accessory that adds color or pattern to simple travel outfits without extra effort.",
         "paragraphs": [
           "Using a silk scrunchie with your ponytail can make a big difference on multi-day road trips. Silk or satin materials create less friction than regular elastics, which helps reduce tangles, frizz, and breakage when your hair is tied up for hours.",
@@ -27206,7 +27206,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "10. Sleek Ponytail For Hot Weather Road Trips",
-        "image": "assets/ponytail_hairstyles_205_14.jpg",
+        "image": "assets/layered_fine_hair_153_18.jpg",
         "description": "When your road trip involves hot, humid weather, a sleek ponytail can actually make life easier. By smoothing your hair close to the scalp and tying it back, you reduce frizz and keep strands from puffing up as temperatures rise.\n\nTo style it, apply a smoothing cream or gel, comb hair back into a mid or low ponytail, and secure it tightly enough to stay but not so tight that it hurts. This look is perfect for disguising hair that is not freshly washed, since the shine and sleekness look purposeful and chic.\n\nIt also helps keep hair from sticking to sunscreen or sweat during long stretches in the car or quick outdoor stops. Paired with simple outfits and sunglasses, this ponytail gives a clean, modern feel in photos while staying practical for hours on the road.",
         "paragraphs": [
           "When your road trip involves hot, humid weather, a sleek ponytail can actually make life easier. By smoothing your hair close to the scalp and tying it back, you reduce frizz and keep strands from puffing up as temperatures rise.",
@@ -27221,7 +27221,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "11. Protective Ponytail For Curly And Coily Hair On Road Trips",
-        "image": "assets/ponytail_hairstyles_205_17.jpg",
+        "image": "assets/doc_soft_ash_14.jpg",
         "description": "For curly and coily hair, a protective ponytail can make road trips much easier on your strands. This usually means gathering stretched curls or extensions into a low or mid ponytail that minimizes friction against car seats and clothing.\n\nYou can smooth the roots with a moisturizing cream and gentle brush, then secure with a wide, snag-free band that will not tug. Tucking the ends into a loose bun at the base of the ponytail or wrapping them lightly with a scarf can help further reduce dryness and tangling.\n\nThis approach keeps your hair neat through long drives and makes it simpler to refresh curls later with water and leave-in conditioner. It is a practical way to protect your texture while still enjoying the convenience and simplicity of a ponytail during your journey.",
         "paragraphs": [
           "For curly and coily hair, a protective ponytail can make road trips much easier on your strands. This usually means gathering stretched curls or extensions into a low or mid ponytail that minimizes friction against car seats and clothing.",
@@ -27661,7 +27661,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "2. Bandana Ponytail With Top Volume",
-        "image": "assets/ponytail_hairstyles_207_15.jpg",
+        "image": "assets/ponytail_hairstyles_211_11.jpg",
         "description": "Adding top volume to a bandana ponytail can help balance longer faces or simply create a more glamorous shape. Section off the front of your hair, backcomb gently underneath, and then smooth the outer layer before directing it all into a mid-height ponytail.\n\nSecure the ponytail and adjust the volume at the front with your fingers until you like the height. Tie a folded bandana around the base, placing the knot slightly to the side so it works with the lifted front section. This hairstyle feels a bit dressier than a flat ponytail and works well with simple outfits, letting your hair be the main **statement** without needing much else.",
         "paragraphs": [
           "Adding top volume to a bandana ponytail can help balance longer faces or simply create a more glamorous shape. Section off the front of your hair, backcomb gently underneath, and then smooth the outer layer before directing it all into a mid-height ponytail.",
@@ -27675,7 +27675,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "3. Bandana Ponytail With Waves",
-        "image": "assets/ponytail_hairstyles_207_14.jpg",
+        "image": "assets/ponytail_hairstyles_207_5.jpg",
         "description": "Soft waves paired with a bandana ponytail give a beachy, carefree vibe that works in almost any casual setting. Curl your hair with a wand or create heatless waves, then brush through to soften them before pulling everything into a mid or low ponytail.\n\nTie a bandana around the base so the ends hang over the waves for a layered texture effect. You can leave a few pieces loose around your face or keep everything swept back depending on your mood.\n\nThis look is perfect for weekends, vacations, or any time you want a little movement and **flow** in your hair without needing a full, complicated style.",
         "paragraphs": [
           "Soft waves paired with a bandana ponytail give a beachy, carefree vibe that works in almost any casual setting. Curl your hair with a wand or create heatless waves, then brush through to soften them before pulling everything into a mid or low ponytail.",
@@ -27763,7 +27763,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "9. Short Hair Bandana Ponytail",
-        "image": "assets/ponytail_hairstyles_207_13.jpg",
+        "image": "assets/doc_light_ash_12.jpg",
         "description": "Even with shorter hair, you can still enjoy a bandana ponytail as long as you work with your length strategically. Gather the longest section at the back into a small low ponytail, leaving shorter layers near your face loose or lightly pinned back.\n\nUse a small elastic so the base is secure, then tie a folded bandana around that tiny ponytail for a cute accent. The fabric becomes the star, making the ponytail itself look fuller and more noticeable than it really is.\n\nThis is a great solution when you are growing out a shorter cut but still want a fun **option** beyond wearing your hair completely down every day.",
         "paragraphs": [
           "Even with shorter hair, you can still enjoy a bandana ponytail as long as you work with your length strategically. Gather the longest section at the back into a small low ponytail, leaving shorter layers near your face loose or lightly pinned back.",
@@ -27793,7 +27793,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "11. Bandana Ponytail For Thick Hair",
-        "image": "assets/ponytail_hairstyles_207_18.jpg",
+        "image": "assets/doc_b_27_11.jpg",
         "description": "Thick hair can make a regular ponytail feel heavy, but a bandana ponytail can help distribute focus and keep things looking balanced. Use a sturdy hair tie to secure your hair into a mid or high ponytail, and consider using two elastics if your hair is very dense.\n\nOnce it feels secure, tie a folded bandana around the base to hide the elastics and add a visual break between roots and length. You can also wrap the bandana twice if you need extra support at the base.\n\nThis style helps manage weight while still letting your thick hair be on full **display**, especially when worn with simple clothes that let your hair stand out.",
         "paragraphs": [
           "Thick hair can make a regular ponytail feel heavy, but a bandana ponytail can help distribute focus and keep things looking balanced. Use a sturdy hair tie to secure your hair into a mid or high ponytail, and consider using two elastics if your hair is very dense.",
@@ -28223,7 +28223,7 @@ const BLOG_POSTS_DATABASE = [
     "authorAvatar": "assets/cindy_marcus_headshot.jpg",
     "updatedDate": "September 12, 2026",
     "readTime": "8 min read",
-    "thumbnail": "assets/ponytail_hairstyles_209_15.jpg",
+    "thumbnail": "assets/bob_haircuts_251_1.jpg",
     "introText": "Adding playful hair accessories like silk ribbons, vintage bandanas, hair bows, or retro banana clips transforms a classic ponytail into a chic fashion statement.\n\nThese feminine accents add texture, color, and gentle grip without pulling on delicate strands, making them ideal for both casual days and special occasions.\n\nBelow, discover 17+ charming accessorized ponytail hairstyle ideas to try right now.",
     "introParagraphs": [
       "Adding playful hair accessories like silk ribbons, vintage bandanas, hair bows, or retro banana clips transforms a classic ponytail into a chic fashion statement.",
@@ -28233,7 +28233,7 @@ const BLOG_POSTS_DATABASE = [
     "photos": [
       {
         "numberTitle": "1. Side Ponytail With Ribbon And Mini Braid Detail",
-        "image": "assets/ponytail_hairstyles_209_15.jpg",
+        "image": "assets/warm_blonde_238_15.jpg",
         "description": "A side ponytail with a ribbon and mini braid detail gives you a small twist that makes the whole look more interesting. Before pulling your hair into a ponytail, take a small section near your part and create a thin three‑strand braid, securing the end with a tiny elastic.\n\nThen gather all your hair, including the braid, into a low or mid‑side ponytail and secure it. Tie a ribbon around the base so it sits just above where the mini braid disappears into the ponytail. The result is a subtle accent that shows up more when you turn your head, which makes this look great for school, casual outings, or low‑key events.",
         "paragraphs": [
           "A side ponytail with a ribbon and mini braid detail gives you a small twist that makes the whole look more interesting. Before pulling your hair into a ponytail, take a small section near your part and create a thin three‑strand braid, securing the end with a tiny elastic.",
@@ -28364,7 +28364,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "10. Side Ponytail With Ribbon And Soft Waves",
-        "image": "assets/ponytail_hairstyles_209_16.jpg",
+        "image": "assets/doc_b_42_3.jpg",
         "description": "If you love soft, romantic hair, a side ponytail with ribbon and soft waves looks dreamy but still easy to create. Curl your hair with a large‑barrel iron, working in big sections so the waves are loose rather than tight.\n\nBrush through to blur the curls into flowing waves, then gather everything into a low side ponytail at the base of your neck. Secure it with an elastic and tie a ribbon over the top, letting the ribbon tails blend with the waves.\n\nThis style is a great option for date‑adjacent outings, celebrations, or anytime you want hair that feels romantic but not overly formal.",
         "paragraphs": [
           "If you love soft, romantic hair, a side ponytail with ribbon and soft waves looks dreamy but still easy to create. Curl your hair with a large‑barrel iron, working in big sections so the waves are loose rather than tight.",
@@ -28394,7 +28394,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "12. Side Ponytail With Ribbon And Bangs",
-        "image": "assets/ponytail_hairstyles_209_13.jpg",
+        "image": "assets/bob_haircuts_264_8.jpg",
         "description": "If you have bangs, a side ponytail with a ribbon can frame your face in a really flattering way. Blow‑dry your bangs first so they sit how you like, whether they are blunt, side‑swept, or curtain‑style.\n\nThen gather the rest of your hair into a low side ponytail, being careful not to pull the bangs back or create bumps around the hairline. Secure the ponytail and tie a ribbon around the base, choosing a color that complements your hair and outfits.\n\nBecause the bangs already add detail around the face, keep the ribbon moderate in size so the overall look stays balanced and wearable for everyday life.",
         "paragraphs": [
           "If you have bangs, a side ponytail with a ribbon can frame your face in a really flattering way. Blow‑dry your bangs first so they sit how you like, whether they are blunt, side‑swept, or curtain‑style.",
@@ -29150,7 +29150,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "6. Double Ribbon Ponytail",
-        "image": "assets/ponytail_hairstyles_212_17.jpg",
+        "image": "assets/trending_haircuts_216_1.jpg",
         "description": "A double ribbon ponytail uses two ribbons or a layered ribbon effect to create more depth and visual interest. This style can be done by wrapping one ribbon around the base and letting another ribbon trail down the ponytail, or by tying two ribbons together for a fuller look.\n\nIt is a smart choice when you want the hairstyle to feel more detailed without adding braids or complicated sections. The look works well on long hair because the ribbons have room to move and show clearly. It can feel playful, dressed up, or even a little romantic depending on the ribbon colors and texture. Recent ribbon hairstyle inspiration often includes layered ribbon details because they add personality and help the ponytail stand out in photos.\n\nThis is a strong choice for anyone who wants a more styled ribbon moment.",
         "paragraphs": [
           "A double ribbon ponytail uses two ribbons or a layered ribbon effect to create more depth and visual interest. This style can be done by wrapping one ribbon around the base and letting another ribbon trail down the ponytail, or by tying two ribbons together for a fuller look.",
@@ -29194,7 +29194,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "9. Black Ribbon Ponytail",
-        "image": "assets/ponytail_hairstyles_212_16.jpg",
+        "image": "assets/curly_over50_279_8.jpg",
         "description": "A black ribbon ponytail creates a sharp, elegant contrast that works well for sleek or structured hair. Black ribbon looks especially good on blonde, brown, and highlighted hair because it stands out clearly and gives the ponytail a more defined finish.\n\nThis style can feel minimal, modern, or dressy depending on the shape of the ponytail and the size of the ribbon. A black bow can make a simple low ponytail look more fashion-forward, while a thin black ribbon keeps the style understated. It is also one of the easiest ribbon choices for people who want something neutral that still looks intentional. Ribbon hairstyle roundups often use black ribbon because it works with many outfits and does not look overly decorative.\n\nThat versatility makes it a smart everyday option.",
         "paragraphs": [
           "A black ribbon ponytail creates a sharp, elegant contrast that works well for sleek or structured hair. Black ribbon looks especially good on blonde, brown, and highlighted hair because it stands out clearly and gives the ponytail a more defined finish.",
@@ -30546,7 +30546,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "11. Holographic Pastel Rainbow Hair",
-        "image": "assets/pastel_hair_color_193_11.jpg",
+        "image": "assets/trending_haircuts_213_18.jpg",
         "description": "For maximum impact, holographic pastel rainbow hair covers your head in coordinated, light-reflective shades. The process usually starts with a full bleach to an even pale blonde, followed by carefully mapped sections of pastel pink, lavender, aqua, mint, and sometimes lemon or peach tones.\n\nTo keep the look cohesive rather than chaotic, colorists often repeat a specific pattern or focus warmer pastels on one side and cooler ones on the other while maintaining a pearly overlay. The holographic effect becomes especially visible on loose waves or curls that allow different shades to overlap as the hair moves. This is a higher-maintenance look that requires frequent toning, gentle washing, and consistent bond-building and moisturizing treatments, so it is best for someone committed to both time and aftercare.",
         "paragraphs": [
           "For maximum impact, holographic pastel rainbow hair covers your head in coordinated, light-reflective shades. The process usually starts with a full bleach to an even pale blonde, followed by carefully mapped sections of pastel pink, lavender, aqua, mint, and sometimes lemon or peach tones.",
@@ -31219,7 +31219,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "3. Pink Peekaboo On Silver Blonde Hair",
-        "image": "assets/pastel_hair_color_196_14.jpg",
+        "image": "assets/bob_haircuts_254_15.jpg",
         "description": "Silver or icy blonde hair with pink peekaboo color looks striking and modern. The cool, almost metallic top shade contrasts with warmer or brighter pink hidden underneath, giving a futuristic, high‑fashion feel when the color peeks through curls or straight lengths.\n\nBecause silver blonde usually requires heavy lightening, the hair underneath is often already light enough to take pink beautifully. You can choose soft pastel pink for an ethereal effect or a more saturated fuchsia for impactful contrast. This combination looks particularly eye‑catching in tousled waves and layered cuts where the silver and pink intermix. However, it demands careful care: use bond‑repair treatments, gentle shampoo, and limit heat styling.\n\nAlternate between purple shampoo for the silver and a regular color‑safe shampoo so you do not accidentally dull the pink. Regular glosses will keep both tones shiny and reflective.",
         "paragraphs": [
           "Silver or icy blonde hair with pink peekaboo color looks striking and modern. The cool, almost metallic top shade contrasts with warmer or brighter pink hidden underneath, giving a futuristic, high‑fashion feel when the color peeks through curls or straight lengths.",
@@ -31234,7 +31234,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "4. Pink Peekaboo Color On Lob Haircut",
-        "image": "assets/pastel_hair_color_196_17.jpg",
+        "image": "assets/layered_fine_hair_144_3.jpg",
         "description": "A lob (long bob) with pink peekaboo color is a great in‑between option if you want something chic but playful. The cut usually sits between the collarbone and shoulders, giving enough length to hide pink underlayers that appear when you turn your head, curl the ends, or pin back one side.\n\nYou can keep the top a solid shade—like rich brunette or cool blonde—while placing pink panels underneath and slightly toward the sides. When styled straight, the lob looks sleek with just hints of pink along the bottom; when waved, the movement exposes more color. This works nicely for both fine and thick hair, as the lob shape is versatile and easy to style. Maintain your lob and color with regular trims, sulfate‑free shampoo, and heat protectant.\n\nA light hair oil on the ends can keep the pink sections smooth and shiny without weighing them down.",
         "paragraphs": [
           "A lob (long bob) with pink peekaboo color is a great in‑between option if you want something chic but playful. The cut usually sits between the collarbone and shoulders, giving enough length to hide pink underlayers that appear when you turn your head, curl the ends, or pin back one side.",
@@ -31279,7 +31279,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "7. Pink Peekaboo Color With Shag Haircut",
-        "image": "assets/pastel_hair_color_196_16.jpg",
+        "image": "assets/curly_hairstyles_295_9.jpg",
         "description": "A shag haircut with pink peekaboo color delivers a fun, rock‑inspired vibe full of texture and movement. The shag’s many layers and piecey ends create countless opportunities for hidden pink sections to flash through, especially around the crown and mid‑lengths.\n\nYour stylist can keep the base a natural brown or dark blonde and concentrate pink panels underneath and between layers, so the color feels integrated rather than blocky. When you air‑dry or diffuse your hair with a texturizing spray, the shag’s messy texture will show off the peekaboo pink in different places every day.\n\nThis look suits wavy and slightly curly hair best but can also be created on straight hair with the help of styling products. Use moisturizing, color‑safe formulas so the lightened layers do not become dry, and avoid over‑brushing, which can make the cut look frizzy instead of intentionally tousled.",
         "paragraphs": [
           "A shag haircut with pink peekaboo color delivers a fun, rock‑inspired vibe full of texture and movement. The shag’s many layers and piecey ends create countless opportunities for hidden pink sections to flash through, especially around the crown and mid‑lengths.",
@@ -31309,7 +31309,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "9. Pink Peekaboo Color With Curtain Bangs",
-        "image": "assets/pastel_hair_color_196_18.jpg",
+        "image": "assets/trending_haircuts_214_11.jpg",
         "description": "Curtain bangs combined with pink peekaboo color can give your haircut a soft yet edgy twist. The bangs themselves can stay your natural color or be subtly lightened, while pink is hidden in the hair just behind them and in the layers framing your face.\n\nWhen you part your bangs in the middle and style them away from your face, the pink pieces behind them peek through, especially on the sides. This is a fun way to try color near your face without committing to fully pink bangs. It works well on medium to long hair and complements both straight and wavy textures. To style, use a round brush or roller to shape the curtain bangs, then lightly curl or wave the front layers so the pink shows in soft arcs.\n\nUse gentle styling products and avoid heavy oils at the roots so your bangs stay bouncy and your color looks fresh.",
         "paragraphs": [
           "Curtain bangs combined with pink peekaboo color can give your haircut a soft yet edgy twist. The bangs themselves can stay your natural color or be subtly lightened, while pink is hidden in the hair just behind them and in the layers framing your face.",
@@ -31339,7 +31339,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "11. Dark Pink Peekaboo Highlights On Medium Hair",
-        "image": "assets/pastel_hair_color_196_15.jpg",
+        "image": "assets/warm_blonde_236_10.jpg",
         "description": "Medium‑length hair is ideal for dark pink peekaboo highlights that look rich and saturated. Instead of light pastel, dark pink or magenta shades give more depth and stay vivid longer, especially when applied over a well‑lightened underlayer.\n\nYour colorist can place these highlights beneath the top section and through the interior layers so they show up as flashes of deeper color within your hair. This works well on straight, wavy, or slightly curly textures and pairs nicely with dark brown, black, or cool brunette bases. Styling with soft waves will help reveal the darker pink pieces without making them overpowering. To keep the color from looking dull, use nourishing masks and avoid clarifying shampoos, which can strip pigment. A color‑enhancing conditioner in a matching dark pink tone can help refresh between salon sessions.",
         "paragraphs": [
           "Medium‑length hair is ideal for dark pink peekaboo highlights that look rich and saturated. Instead of light pastel, dark pink or magenta shades give more depth and stay vivid longer, especially when applied over a well‑lightened underlayer.",
@@ -31995,7 +31995,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "2. Textured Bob",
-        "image": "assets/modern_haircuts_178_14.jpg",
+        "image": "assets/doc_b_75_19.jpg",
         "description": "A textured bob offers a slightly more relaxed interpretation of the clean girl cut while maintaining a polished outline 【turn0search8】. Unlike the sharp blunt bob, this version features subtle, piece-y layers cut into the ends to create a bit of separation and movement.\n\nThe key is to keep the texture soft and intentional, not choppy or messy. This cut works well with wavy or straight hair and can be styled with a bit of texturizing spray for a lived-in yet groomed look.\n\nIt’s an excellent option for those who find a blunt bob too severe but still want a tidy, manageable style.",
         "paragraphs": [
           "A textured bob offers a slightly more relaxed interpretation of the clean girl cut while maintaining a polished outline 【turn0search8】. Unlike the sharp blunt bob, this version features subtle, piece-y layers cut into the ends to create a bit of separation and movement.",
@@ -32099,7 +32099,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "9. Sleek Topknot",
-        "image": "assets/modern_haircuts_178_13.jpg",
+        "image": "assets/doc_b_29_14.jpg",
         "description": "The sleek topknot is a fun, high-energy take on the clean girl updo, requiring hair cut for smooth styling at the crown 【turn0search17】. Like the low bun, this style benefits from a blunt cut with minimal short layers to ensure hair can be gathered without bumps.\n\nThe hair is pulled up high, twisted into a coil, and secured, with a focus on a sleek, taut finish at the roots. This look is playful yet polished, perfect for keeping hair out of the way while still looking stylish.\n\nIt aligns with the aesthetic by being practical, neat, and effortlessly chic.",
         "paragraphs": [
           "The sleek topknot is a fun, high-energy take on the clean girl updo, requiring hair cut for smooth styling at the crown 【turn0search17】. Like the low bun, this style benefits from a blunt cut with minimal short layers to ensure hair can be gathered without bumps.",
@@ -32159,7 +32159,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "13. Straight Lob With Curtain Bangs",
-        "image": "assets/modern_haircuts_178_16.jpg",
+        "image": "assets/layered_fine_hair_157_9.jpg",
         "description": "A straight lob (long bob) combined with curtain bangs is a modern, versatile clean girl haircut that flatters many face shapes 【turn0search11】. The lob is cut blunt to the collarbone or shoulders, providing a sleek, solid line, while the curtain bangs add softness and frame the face.\n\nThis pairing offers the best of both worlds: the polished, low-maintenance appeal of a blunt cut with the face-softening effect of bangs. Styling typically involves a blowout for smooth volume and a round brush for the bangs.\n\nIt’s a chic, everyday look that feels both current and effortlessly elegant.",
         "paragraphs": [
           "A straight lob (long bob) combined with curtain bangs is a modern, versatile clean girl haircut that flatters many face shapes 【turn0search11】. The lob is cut blunt to the collarbone or shoulders, providing a sleek, solid line, while the curtain bangs add softness and frame the face.",
@@ -32174,7 +32174,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "14. Long Layers With Thinned Ends",
-        "image": "assets/modern_haircuts_178_15.jpg",
+        "image": "assets/doc_b_84_5.jpg",
         "description": "Long layers with thinned ends specifically address the clean girl need for lightweight, manageable hair without sacrificing length 【turn0search2】. This technique involves cutting long layers throughout the hair and then using thinning shears on the very ends to remove bulk and create a wispy, soft effect.\n\nThe result is hair that has natural movement and doesn’t look heavy or solid, while the overall shape remains clean and layered. This cut is ideal for thick hair that wants to avoid the “pyramid” effect. Styling is easy, allowing for loose waves or a straight look with a soft, airy finish.",
         "paragraphs": [
           "Long layers with thinned ends specifically address the clean girl need for lightweight, manageable hair without sacrificing length 【turn0search2】. This technique involves cutting long layers throughout the hair and then using thinning shears on the very ends to remove bulk and create a wispy, soft effect.",
@@ -32327,7 +32327,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "4. Korean hush cut style",
-        "image": "assets/modern_haircuts_179_10.jpg",
+        "image": "assets/pastel_hair_color_191_7.jpg",
         "description": "To achieve the most authentic look, many search for the original Korean hush cut style that started the global trend. This version is characterized by its extreme “see-through” quality, where the hair looks incredibly light and almost transparent at the ends.\n\nIt often features very delicate, thin bangs and a significant amount of internal layering. The focus is on a “pure” and youthful aesthetic that looks best with natural hair colors.\n\nIt is the ultimate “I woke up like this” hairstyle, emphasizing a relaxed and effortless beauty that has become the hallmark of modern K-beauty trends across the globe.",
         "paragraphs": [
           "To achieve the most authentic look, many search for the original Korean hush cut style that started the global trend. This version is characterized by its extreme “see-through” quality, where the hair looks incredibly light and almost transparent at the ends.",
@@ -32416,7 +32416,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "10. Layered hush cut with highlights",
-        "image": "assets/modern_haircuts_179_11.jpg",
+        "image": "assets/doc_b_72_10.jpg",
         "description": "Adding color can take your style to the next level, and a layered hush cut with highlights is a perfect example. Because this cut is all about movement and texture, highlights help to accentuate every single layer.\n\nLight-reflecting tones like honey blonde, caramel, or soft ash can make the wispy ends pop and give the hair more depth. This is a great way to make the hair look even more voluminous and multi-dimensional. The way the light catches the different lengths creates a beautiful, shimmering effect that looks particularly stunning in photos and videos for your social media., Quick Look",
         "paragraphs": [
           "Adding color can take your style to the next level, and a layered hush cut with highlights is a perfect example. Because this cut is all about movement and texture, highlights help to accentuate every single layer.",
@@ -33516,7 +33516,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "3. Butterfly Haircut With Highlights",
-        "image": "assets/modern_haircuts_183_8.jpg",
+        "image": "assets/doc_b_84_4.jpg",
         "description": "Nothing shows off intricate layers quite like a beautiful dimensional color. The butterfly haircut with highlights uses lighter strands woven through the top layers to emphasize the fluttering effect.\n\nWhen the light hits these brighter pieces, the cut instantly looks more dynamic and multi-dimensional. Using a balayage technique ensures the highlights look sun-kissed and natural, perfectly mimicking the natural lightening that happens during the summer months.\n\nThe lighter pieces around the face brighten your complexion, while the deeper roots add necessary contrast and depth. This combination of cut and color creates the ultimate illusion of thickness and movement, making it a go-to choice for anyone wanting a striking, head-turning transformation for the sunny season.",
         "paragraphs": [
           "Nothing shows off intricate layers quite like a beautiful dimensional color. The butterfly haircut with highlights uses lighter strands woven through the top layers to emphasize the fluttering effect.",
@@ -33561,7 +33561,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "6. Butterfly Haircut For Thick Hair",
-        "image": "assets/modern_haircuts_183_9.jpg",
+        "image": "assets/layered_fine_hair_157_8.jpg",
         "description": "Managing thick hair in the summer can feel overwhelming, but this specific cut is a total lifesaver. The butterfly haircut for thick hair utilizes the layering technique to remove excess bulk from the bottom and sides, while still preserving enough weight to keep the style grounded.\n\nBy aggressively layering the top section, the stylist creates a release point for heavy hair, allowing it to sway freely instead of falling flat or expanding into a triangle. You get all the benefits of your natural volume without the suffocating weight.\n\nIt makes washing and drying significantly faster, which is a blessing on busy summer mornings. The result is a perfectly balanced, beautifully shaped mane that feels remarkably light.",
         "paragraphs": [
           "Managing thick hair in the summer can feel overwhelming, but this specific cut is a total lifesaver. The butterfly haircut for thick hair utilizes the layering technique to remove excess bulk from the bottom and sides, while still preserving enough weight to keep the style grounded.",
@@ -34299,7 +34299,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "17. Wolf Mullet Haircut With Fade",
-        "image": "assets/modern_haircuts_185_17.jpg",
+        "image": "assets/doc_b_29_15.jpg",
         "description": "The wolf mullet haircut with a fade brings barbershop precision into this otherwise messy, rebellious cut. Here, the sides are tapered from very short near the ears up to longer hair at the crown, creating a smooth fade that blends into the wolf’s layered top and mullet back.\n\nThis combination gives you a cleaner outline around the temples and sideburns while preserving texture and length where it matters most. It’s especially popular for men’s and unisex cuts, but works on anyone who likes a sharper finish. Styling focuses on lifting the top with mousse or powder and defining the mullet tail with a cream or wax. Regular touch-ups are important to keep the fade crisp, since grown-out edges can quickly change the feel of the haircut.\n\nThe blend of sleek fade and wild layers makes this version unique and modern, perfect if you love both classic grooming and trend-driven shapes.",
         "paragraphs": [
           "The wolf mullet haircut with a fade brings barbershop precision into this otherwise messy, rebellious cut. Here, the sides are tapered from very short near the ears up to longer hair at the crown, creating a smooth fade that blends into the wolf’s layered top and mullet back.",
@@ -34610,7 +34610,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "6. Butterfly Haircut For Oval Face",
-        "image": "assets/modern_haircuts_187_16.jpg",
+        "image": "assets/doc_b_75_18.jpg",
         "description": "If you have an oval face shape, you have the most versatile canvas for this stunning cut. The butterfly haircut for oval face shapes works exceptionally well because the balanced proportions of the face can handle both the extreme volume at the top and the dramatic length at the bottom.\n\nYou can play up the cheekbone-skimming layers without fear of throwing off your facial harmony. Adding blunt or curtain bangs works beautifully to shorten the face slightly if desired, while the cascading lengths maintain that gorgeous, feminine softness.\n\nThe natural symmetry of an oval face allows the intricate layering of the cut to be the true star, giving you limitless styling freedom and incredible bounce.",
         "paragraphs": [
           "If you have an oval face shape, you have the most versatile canvas for this stunning cut. The butterfly haircut for oval face shapes works exceptionally well because the balanced proportions of the face can handle both the extreme volume at the top and the dramatic length at the bottom.",
@@ -34640,7 +34640,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "8. Butterfly Haircut With Feathered Layers",
-        "image": "assets/modern_haircuts_187_17.jpg",
+        "image": "assets/doc_b_72_11.jpg",
         "description": "Channeling a little vintage charm into a modern trend is always a great idea. The butterfly haircut with feathered layers brings back the bouncy, airy aesthetics of the seventies and eighties but with a contemporary twist.\n\nFeathering involves cutting the ends of the hair with a slight curve, allowing them to sit lightly and smoothly against one another. This technique prevents the layers from looking blunt or heavy, resulting in a soft, floating appearance.\n\nWhen combined with the butterfly structure, the feathered top layers sweep away from the face with incredible lightness, creating a delicate wing effect. This style looks phenomenal when blown out with a large round brush, giving you that classic, bouncy volume.",
         "paragraphs": [
           "Channeling a little vintage charm into a modern trend is always a great idea. The butterfly haircut with feathered layers brings back the bouncy, airy aesthetics of the seventies and eighties but with a contemporary twist.",
@@ -35015,7 +35015,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "13. Butterfly Haircut With Layers And Bangs",
-        "image": "assets/modern_haircuts_188_17.jpg",
+        "image": "assets/pastel_hair_color_191_6.jpg",
         "description": "A butterfly haircut with layers and bangs is a bold yet very wearable choice for teenage girls who want a strong statement. The bangs can be straight across, softly rounded, or slightly textured, depending on your style, and they merge into the top layers that frame the face.\n\nThis combination draws a lot of attention to the eyes and brows, so it is great if you enjoy makeup or just like your features to stand out. The layers throughout the rest of the hair keep the cut from feeling too heavy or severe, which is important when you have a defined fringe.\n\nTo style, you can blow‑dry the bangs with a small round brush for smoothness, then use a larger brush or curler on the rest of the hair to create soft, fluttery movement.",
         "paragraphs": [
           "A butterfly haircut with layers and bangs is a bold yet very wearable choice for teenage girls who want a strong statement. The bangs can be straight across, softly rounded, or slightly textured, depending on your style, and they merge into the top layers that frame the face.",
@@ -35167,7 +35167,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "4. Layered Bob With Invisible Layers",
-        "image": "assets/layered_hairstyles_158_11.jpg",
+        "image": "assets/curly_over50_279_9.jpg",
         "description": "A layered bob with invisible layers focuses on soft, internal shaping rather than obvious stacked layers. Instead of cutting strong visible steps, your stylist builds shape inside the bob to help it hug the jawline or neck smoothly.\n\nThis reduces bulk, especially in the back, while keeping the perimeter sharp and tidy. It works beautifully for medium to thick hair, because it creates movement without making the ends look thin or stringy. Styling can be as simple as a quick blow-dry with a round brush, or you can enhance texture with a light texturizing spray. Schedule trims every six to eight weeks to keep the bob’s structure clean and maintain that subtle internal lift.",
         "paragraphs": [
           "A layered bob with invisible layers focuses on soft, internal shaping rather than obvious stacked layers. Instead of cutting strong visible steps, your stylist builds shape inside the bob to help it hug the jawline or neck smoothly.",
@@ -35211,7 +35211,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "7. Invisible Layers Haircut For Square Face",
-        "image": "assets/layered_hairstyles_158_16.jpg",
+        "image": "assets/warm_blonde_236_11.jpg",
         "description": "An invisible layers haircut for a square face is designed to soften strong jawlines and corners. Invisible internal layers break up heavy blocks of hair so it falls in a more rounded, flowing way around the face.\n\nYour stylist may add subtle face-framing that starts around the lips or collarbone, which helps visually soften the jaw area. The perimeter is usually kept slightly softer instead of extremely blunt, so the cut doesn’t emphasize sharp lines.\n\nStyling with loose, irregular waves or bends enhances the cut’s ability to soften angles. Because the internal layers do most of the work, you get a flattering, flexible shape that you can wear straight, wavy, or curled without losing that face-balancing effect.",
         "paragraphs": [
           "An invisible layers haircut for a square face is designed to soften strong jawlines and corners. Invisible internal layers break up heavy blocks of hair so it falls in a more rounded, flowing way around the face.",
@@ -35226,7 +35226,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "8. Invisible Layers Haircut With Curtain Bangs",
-        "image": "assets/layered_hairstyles_158_13.jpg",
+        "image": "assets/trending_haircuts_214_10.jpg",
         "description": "An invisible layers haircut with curtain bangs is perfect when you want a trendy fringe that blends seamlessly into your length. Curtain bangs are cut to frame your face and part down the middle or slightly off-center, while internal layers carry that movement through the rest of the hair.\n\nThis combo works well on medium to long lengths because it balances volume at the crown and softness around the face. Invisible layers inside the haircut ensure the bangs do not feel disconnected or heavy.\n\nFor styling, blow-dry your bangs with a round brush, rolling them back and away from your face, then style the rest of your hair as usual. A lightweight texturizing spray will enhance the airy look, making the entire cut feel effortless and wearable day to day.",
         "paragraphs": [
           "An invisible layers haircut with curtain bangs is perfect when you want a trendy fringe that blends seamlessly into your length. Curtain bangs are cut to frame your face and part down the middle or slightly off-center, while internal layers carry that movement through the rest of the hair.",
@@ -35301,7 +35301,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "13. Invisible Layers Haircut With Face Framing",
-        "image": "assets/layered_hairstyles_158_12.jpg",
+        "image": "assets/curly_hairstyles_295_8.jpg",
         "description": "An invisible layers haircut with face framing softens your features while keeping most of the layering hidden. Your stylist will carve gentle, visible pieces around the face while adding interior layers through the mids for movement.\n\nThis combination draws attention to your eyes and cheekbones without sacrificing the fullness in the rest of your hair. Face-framing works on almost every length—from long cuts to lobs—and can be customized for your face shape.\n\nYou can blow-dry the front sections with a round brush, curling them slightly away from the face for a soft, lifted effect. The rest of your hair can be styled straight, wavy, or curled, and the invisible layers inside will keep everything flowing naturally.",
         "paragraphs": [
           "An invisible layers haircut with face framing softens your features while keeping most of the layering hidden. Your stylist will carve gentle, visible pieces around the face while adding interior layers through the mids for movement.",
@@ -35346,7 +35346,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "16. Invisible Layers Haircut For Oval Face",
-        "image": "assets/layered_hairstyles_158_17.jpg",
+        "image": "assets/layered_fine_hair_144_2.jpg",
         "description": "An invisible layers haircut for an oval face is very versatile, because this face shape can wear many different lengths. Internal layers add movement and interest without overwhelming your natural balance.\n\nYou can choose long, medium, or lob lengths, and your stylist can tailor the invisible layers to emphasize the features you like most. Keeping the perimeter relatively clean while layering inside lets you switch between sleek and tousled looks easily.\n\nFor styling, you might wear your hair straight one day and then add big, soft waves the next, and the cut will support both. Invisible layers on an oval face grow out especially well, making this a low-maintenance, long-term shape with lots of styling possibilities.",
         "paragraphs": [
           "An invisible layers haircut for an oval face is very versatile, because this face shape can wear many different lengths. Internal layers add movement and interest without overwhelming your natural balance.",
@@ -35439,7 +35439,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "3. Soft Layered Haircut For Short Hair",
-        "image": "assets/layered_hairstyles_159_15.jpg",
+        "image": "assets/bob_haircuts_254_14.jpg",
         "description": "Short hair can absolutely benefit from soft layering, especially if you want movement without going into full-on shag territory. A soft layered haircut for short hair often involves a bob or slightly longer pixie-inspired cut with gentle layers that create shape and lightness.\n\nInstead of hard, choppy pieces, the layers are more subtle, so the hair still looks smooth but not stiff or helmet-like. In a short bob, slight graduation at the back and soft layering through the ends can help the hair sit closer to the nape while maintaining a rounded, flattering silhouette. On slightly longer short cuts, you might see some internal layers that add lift at the crown and prevent the style from falling flat. Styling is typically quick: a rough blow-dry with your fingers for texture, followed by a light cream or paste to define the layers without making them spiky or rigid. This type of cut is great if you want something chic and easy that still feels soft and feminine.",
         "paragraphs": [
           "Short hair can absolutely benefit from soft layering, especially if you want movement without going into full-on shag territory. A soft layered haircut for short hair often involves a bob or slightly longer pixie-inspired cut with gentle layers that create shape and lightness.",
@@ -35453,7 +35453,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "4. Soft Layered Haircut With Face Framing",
-        "image": "assets/layered_hairstyles_159_16.jpg",
+        "image": "assets/bob_haircuts_264_9.jpg",
         "description": "Sometimes, the most impactful change is around the front of your hair, and that is where a soft layered haircut with face framing really shines. This look builds its personality on tailored, face-framing layers that follow your features—starting anywhere from the brows down to the collarbone, depending on your face shape and comfort.\n\nThe rest of the hair can be lightly layered or more simply cut, but those front pieces make the haircut feel intentional and flattering. They can slim or soften certain areas, highlight cheekbones, and draw attention to your eyes without needing a full fringe. Face-framing layers also blend nicely into ponytails, half-up styles, and buns, leaving soft pieces out around the face for a romantic look. When styling, you can use a round brush or curling iron to bend just the front sections inward or outward, creating movement and contour, while leaving the rest of the hair more relaxed.\n\nIt is a great option if you are nervous about a big change but still want your haircut to feel refreshed and modern.",
         "paragraphs": [
           "Sometimes, the most impactful change is around the front of your hair, and that is where a soft layered haircut with face framing really shines. This look builds its personality on tailored, face-framing layers that follow your features—starting anywhere from the brows down to the collarbone, depending on your face shape and comfort.",
@@ -35468,7 +35468,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "5. Soft Layered Haircut For Long Hair",
-        "image": "assets/layered_hairstyles_159_13.jpg",
+        "image": "assets/warm_blonde_238_14.jpg",
         "description": "When your hair is long, a soft layered haircut can transform it from heavy and weighed down into something lighter and more dynamic. Rather than cutting off inches, your stylist strategically adds long layers that remove bulk and create shape while keeping the overall length intact.\n\nThese layers often start around the chest or just below the shoulders, then get gradually lighter toward the ends, which helps prevent a blunt, blocky line. You can also add subtle face-framing pieces to keep the front from feeling flat and to highlight your cheekbones or jawline. Long soft layers make it easier to style waves, curls, or bouncy blowouts because there is less weight pulling everything down. At the same time, they grow out beautifully, so you are not in the salon every few weeks trying to maintain a precise shape.\n\nWith a good moisturizing shampoo, conditioner, and occasional hair mask, your long layered hair will look healthy, shiny, and full of movement instead of tired or stringy.",
         "paragraphs": [
           "When your hair is long, a soft layered haircut can transform it from heavy and weighed down into something lighter and more dynamic. Rather than cutting off inches, your stylist strategically adds long layers that remove bulk and create shape while keeping the overall length intact.",
@@ -35603,7 +35603,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "14. Soft Layered Haircut For Medium Hair",
-        "image": "assets/layered_hairstyles_159_14.jpg",
+        "image": "assets/doc_b_42_2.jpg",
         "description": "Medium hair length is often the easiest to work with, and a soft layered haircut at this length gives you tons of styling freedom. Typically sitting between the shoulders and collarbone, this cut uses gentle layering to add movement and shape without making the hair feel too light or wispy.\n\nThe layers might start around the chin or just below, which helps break up a solid shape and avoid that “blocky” look some one-length medium cuts can have. This length is perfect for soft face-framing pieces and even a curtain bang if you want more interest around the front.\n\nYou can wear it straight, wavy, or curled, and the layers will help each style look deliberate and polished. Because the hair is not too long or too short, it is fairly low-maintenance: trims every couple of months keep the layers fresh, and styling usually takes less time than with very long hair while still giving you plenty of options.",
         "paragraphs": [
           "Medium hair length is often the easiest to work with, and a soft layered haircut at this length gives you tons of styling freedom. Typically sitting between the shoulders and collarbone, this cut uses gentle layering to add movement and shape without making the hair feel too light or wispy.",
@@ -35633,7 +35633,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "16. Soft Layered Haircut For Thin Hair",
-        "image": "assets/layered_hairstyles_159_17.jpg",
+        "image": "assets/doc_b_21_1.jpg",
         "description": "Thin hair has less density, so it needs a thoughtful approach to layering, and that is where a soft layered haircut for thin hair comes in. The goal is to create the appearance of volume and texture without sacrificing too much of the hair’s limited fullness.\n\nStylists often use minimal, longer layers concentrated around the mid-lengths, combined with a stronger perimeter to keep the outline from looking see-through. Soft layering around the crown can add a bit of lift and prevent the top from lying completely flat, but it must be done carefully so the scalp does not become visible. Face-framing pieces and possibly a light fringe can also help the hair look fuller around the front. Using volumizing products at the roots and lightweight texturizing sprays on the mid-lengths enhances the effect of the layers and gives the illusion of fuller hair.\n\nAvoid heavy oils and thick creams, which can weigh down thin hair and make even the softest layers appear limp.",
         "paragraphs": [
           "Thin hair has less density, so it needs a thoughtful approach to layering, and that is where a soft layered haircut for thin hair comes in. The goal is to create the appearance of volume and texture without sacrificing too much of the hair’s limited fullness.",
@@ -35712,7 +35712,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "3. Voluminous silk press with layers",
-        "image": "assets/layered_hairstyles_160_16.jpg",
+        "image": "assets/modern_haircuts_178_2.jpg",
         "description": "Do you often find that your silk press looks a bit too flat or “stuck” to your head after a few days? A voluminous silk press with layers is designed specifically to combat this issue by building height and airiness into the haircut itself.\n\nBy incorporating shorter layers at the top and around the crown, your stylist can create a foundation for lasting volume. When combined with a professional blowout and press, the result is hair that looks full and vibrant.\n\nThis style is a favorite for those with fine to medium density hair who want to appear as though they have much thicker strands.",
         "paragraphs": [
           "Do you often find that your silk press looks a bit too flat or “stuck” to your head after a few days? A voluminous silk press with layers is designed specifically to combat this issue by building height and airiness into the haircut itself.",
@@ -35727,7 +35727,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "4. Silk press with side bangs and layers",
-        "image": "assets/layered_hairstyles_160_15.jpg",
+        "image": "assets/doc_b_20_19.jpg",
         "description": "Are you looking for a classic, sophisticated way to change your look that feels timeless and professional for the workplace? A silk press with side bangs and layers offers a polished aesthetic that works for almost every face shape and hair density.\n\nThe side-swept bangs provide a soft focal point, while the layers throughout the rest of the hair add body and flow. This style is particularly good for those who find center parts to be too harsh for their features. The silk press finish gives the bangs a smooth, controlled look that frames the forehead without being too heavy or overwhelming your face.",
         "paragraphs": [
           "Are you looking for a classic, sophisticated way to change your look that feels timeless and professional for the workplace? A silk press with side bangs and layers offers a polished aesthetic that works for almost every face shape and hair density.",
@@ -35757,7 +35757,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "6. Short layered silk press",
-        "image": "assets/layered_hairstyles_160_14.jpg",
+        "image": "assets/layered_fine_hair_154_10.jpg",
         "description": "Who says you need long hair to enjoy the movement and dimension that comes from a high-quality layered haircut? A short layered silk press, such as a layered pixie or a short bob, can be incredibly transformative for those with natural hair.\n\nBy adding layers to a shorter length, you can create height at the crown and a tapered effect at the nape of the neck. This style is modern, chic, and highlights your facial structure in a way that longer hair often hides.\n\nThe silk press ensures that the short layers are sleek and manageable, making your morning styling routine faster than ever before.",
         "paragraphs": [
           "Who says you need long hair to enjoy the movement and dimension that comes from a high-quality layered haircut? A short layered silk press, such as a layered pixie or a short bob, can be incredibly transformative for those with natural hair.",
@@ -35890,7 +35890,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "15. Silk press with subtle layers",
-        "image": "assets/layered_hairstyles_160_12.jpg",
+        "image": "assets/doc_b_27_10.jpg",
         "description": "Do you want the benefits of a layered haircut without the visible “steps” or dramatic changes in length throughout your hair? A silk press with subtle layers uses very long, blended sections that provide just enough lift to prevent the hair from looking stagnant.\n\nThese layers are often nearly invisible to the untrained eye but make a massive difference in how the hair responds to heat and movement. This approach is perfect for the minimalist who wants their hair to look naturally effortlessly beautiful.\n\nThe silk press enhances the subtle transitions, making the hair look incredibly thick and luxurious without any harsh lines or obvious cutting.",
         "paragraphs": [
           "Do you want the benefits of a layered haircut without the visible “steps” or dramatic changes in length throughout your hair? A silk press with subtle layers uses very long, blended sections that provide just enough lift to prevent the hair from looking stagnant.",
@@ -35920,7 +35920,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "17. Silk press with bouncy layers",
-        "image": "assets/layered_hairstyles_160_13.jpg",
+        "image": "assets/doc_light_ash_13.jpg",
         "description": "Is there anything more satisfying than hair that literally springs back into place with every step you take during the day? A silk press with bouncy layers is achieved by cutting layers that are designed to hold a curl or a flick at the ends.\n\nEven when worn perfectly straight, these layers provide a natural lift at the roots and a soft curve at the bottom. This style is often finished with a large-barrel iron to give the layers an extra boost of volume and “oomph.” It is the ultimate “expensive hair” look that suggests you just stepped out of a high-end salon on Fifth Avenue.",
         "paragraphs": [
           "Is there anything more satisfying than hair that literally springs back into place with every step you take during the day? A silk press with bouncy layers is achieved by cutting layers that are designed to hold a curl or a flick at the ends.",
@@ -35959,7 +35959,7 @@ const BLOG_POSTS_DATABASE = [
     "authorAvatar": "assets/cindy_marcus_headshot.jpg",
     "updatedDate": "September 12, 2026",
     "readTime": "8 min read",
-    "thumbnail": "assets/layered_hairstyles_161_16.jpg",
+    "thumbnail": "assets/ponytail_hairstyles_211_10.jpg",
     "introText": "Voluminous, 90s-inspired supermodel layers and bouncy blowouts are the ultimate expression of healthy, glamourous hair with maximum movement.\n\nMastering tension with a round ceramic brush or thermal rollers lifts roots and sets sweeping curtain ends that stay lively all day long.\n\nBelow, discover 18+ celebrity-inspired blowout and supermodel layer ideas to elevate your daily hairstyle.",
     "introParagraphs": [
       "Voluminous, 90s-inspired supermodel layers and bouncy blowouts are the ultimate expression of healthy, glamourous hair with maximum movement.",
@@ -35969,7 +35969,7 @@ const BLOG_POSTS_DATABASE = [
     "photos": [
       {
         "numberTitle": "1. Feathered Supermodel Layers",
-        "image": "assets/layered_hairstyles_161_16.jpg",
+        "image": "assets/ponytail_hairstyles_207_4.jpg",
         "description": "Feathering is a specific technique used to create ultra-light, soft edges that look like the delicate barbs of a feather. When applied to supermodel layers, it results in a haircut that feels weightless and incredibly soft to the touch.\n\nThis style is all about movement and “air,” making it a perfect choice for those who live in humid climates or have hair that tends to get weighed down by product. Feathered layers are typically styled away from the face, creating a wide-eyed and open look that is very refreshing.\n\nIt is a timeless technique that never truly goes out of style because of how universally flattering and easy to wear it is.",
         "paragraphs": [
           "Feathering is a specific technique used to create ultra-light, soft edges that look like the delicate barbs of a feather. When applied to supermodel layers, it results in a haircut that feels weightless and incredibly soft to the touch.",
@@ -36013,7 +36013,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "4. Curtain Bangs Layers",
-        "image": "assets/layered_hairstyles_161_15.jpg",
+        "image": "assets/layered_hairstyles_169_1.jpg",
         "description": "Curtain bangs are the ultimate partner for supermodel layers, providing a seamless bridge between your fringe and your longest lengths. These bangs are parted down the middle and swept to the sides, perfectly framing the forehead and eyes before blending into the face-framing layers.\n\nThey offer a retro, 70s-inspired feel that is incredibly flattering on almost everyone. The beauty of curtain bangs is their versatility; they can be styled to look like part of the layers or worn more prominently as a focal point. When paired with long, bouncy layers, they create a cohesive and high-fashion look that is synonymous with the supermodel aesthetic of the past and present.",
         "paragraphs": [
           "Curtain bangs are the ultimate partner for supermodel layers, providing a seamless bridge between your fringe and your longest lengths. These bangs are parted down the middle and swept to the sides, perfectly framing the forehead and eyes before blending into the face-framing layers.",
@@ -36175,7 +36175,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "15. U Cut Layers",
-        "image": "assets/layered_hairstyles_161_17.jpg",
+        "image": "assets/layered_fine_hair_153_19.jpg",
         "description": "The U-cut is a classic shape that involves cutting the hair so that it forms a “U” shape when viewed from the back. When combined with supermodel layers, this shape provides a very full and rounded look that makes the hair appear much thicker than it actually is.\n\nThe layers are usually concentrated toward the front and sides, while the back maintains its length and density. This is a very popular choice for those with straight or slightly wavy hair, as it provides a structured and polished silhouette.\n\nIt is a reliable, “safe” way to venture into the world of layers while ensuring your hair still looks neat and intentional from every angle.",
         "paragraphs": [
           "The U-cut is a classic shape that involves cutting the hair so that it forms a “U” shape when viewed from the back. When combined with supermodel layers, this shape provides a very full and rounded look that makes the hair appear much thicker than it actually is.",
@@ -36204,7 +36204,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "17. Tapered Ends Layers",
-        "image": "assets/layered_hairstyles_161_14.jpg",
+        "image": "assets/doc_soft_ash_15.jpg",
         "description": "Tapered ends layers focus the detail on the very bottom of the haircut, ensuring that the hair looks light and airy rather than blunt or heavy. This is a great choice for those who love their length but find that their hair looks a bit “bottom-heavy” or shapeless.\n\nBy tapering the ends, the stylist creates a soft, feathered finish that moves beautifully with every step. It gives the hair a very “expensive” and well-maintained feel, as if every single strand has been intentionally placed.\n\nThis look is especially effective on lighter hair colors or hair with highlights, as the tapered ends allow the different tones to catch the light and create a multi-dimensional effect.",
         "paragraphs": [
           "Tapered ends layers focus the detail on the very bottom of the haircut, ensuring that the hair looks light and airy rather than blunt or heavy. This is a great choice for those who love their length but find that their hair looks a bit “bottom-heavy” or shapeless.",
@@ -36299,7 +36299,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "4. Ghost Layers Haircut For Heart Shaped Face",
-        "image": "assets/layered_hairstyles_162_15.jpg",
+        "image": "assets/doc_b_64_1.jpg",
         "description": "A ghost layers haircut for heart shaped face works to balance a broader forehead with a narrower chin by carefully placing internal layers and soft front pieces. Stylists often add ghost layers around the crown and upper mid-lengths to keep the top from looking too heavy while still maintaining fullness around the lower lengths.\n\nFace-framing pieces or long fringe can start near the cheekbones or lips to visually narrow the forehead area and blend into the rest of the haircut. Because ghost layers are hidden inside, they allow the hair to fan out gently around the jaw and shoulders without obvious steps or thinning. This adds a little width where heart-shaped faces tend to be more narrow and softens the transition from cheeks to chin. The result is a balanced, flattering shape that feels light and airy but still looks cohesive and full, especially when styled with loose waves or a soft blowout.!",
         "paragraphs": [
           "A ghost layers haircut for heart shaped face works to balance a broader forehead with a narrower chin by carefully placing internal layers and soft front pieces. Stylists often add ghost layers around the crown and upper mid-lengths to keep the top from looking too heavy while still maintaining fullness around the lower lengths.",
@@ -36329,7 +36329,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "6. Ghost Layers Haircut For Low Maintenance",
-        "image": "assets/layered_hairstyles_162_17.jpg",
+        "image": "assets/doc_b_51_8.jpg",
         "description": "A ghost layers haircut for low maintenance routines is perfect if you want your hair to look done with minimal daily effort. The hidden layers are designed to support movement and shape even when you mostly air-dry or do a very quick blow-dry.\n\nBecause the outline stays fairly simple—usually a single, clean length or very soft shape—the cut grows out gracefully without developing obvious steps. You can go a bit longer between trims compared to heavily layered hair because there are fewer visible layers to lose their shape.\n\nThe internal ghost layers also help your natural texture—whether straight, wavy, or curly—fall into place more easily with just a lightweight cream, mousse, or leave-in. If you like a cut that looks polished at work and relaxed on weekends, this approach keeps things versatile and easy while still giving you volume and movement that feels intentional.",
         "paragraphs": [
           "A ghost layers haircut for low maintenance routines is perfect if you want your hair to look done with minimal daily effort. The hidden layers are designed to support movement and shape even when you mostly air-dry or do a very quick blow-dry.",
@@ -36433,7 +36433,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "13. Ghost Layers Haircut For Diamond Face",
-        "image": "assets/layered_hairstyles_162_16.jpg",
+        "image": "assets/doc_ash_brown_7.jpg",
         "description": "A ghost layers haircut for diamond face shapes focuses on softening the angles at the cheekbones while emphasizing either the eyes or the jawline, depending on your preference. Diamond faces are narrower at the forehead and chin with more width through the cheeks, so internal ghost layers help control volume in that area.\n\nStylists often place more ghost layering through the mid-lengths to keep the sides from appearing too wide while maintaining length at the bottom for balance. Soft face-framing pieces may start around the eyes or slightly below and blend down toward the shoulders or chest.\n\nBecause the outer perimeter stays mostly intact, you still get a strong, elegant outline that complements your bone structure. The subtle movement created by ghost layers helps the hair fall in a more fluid, flattering way around the cheekbones so the overall effect feels graceful and not too sharp.",
         "paragraphs": [
           "A ghost layers haircut for diamond face shapes focuses on softening the angles at the cheekbones while emphasizing either the eyes or the jawline, depending on your preference. Diamond faces are narrower at the forehead and chin with more width through the cheeks, so internal ghost layers help control volume in that area.",
@@ -36478,7 +36478,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "16. Ghost Layers Haircut On Straight Hair",
-        "image": "assets/layered_hairstyles_162_6.jpg",
+        "image": "assets/doc_b_54_15.jpg",
         "description": "A ghost layers haircut on straight hair is all about building subtle movement into what can otherwise look like a solid, heavy sheet. Because straight hair shows every cut line, the hidden nature of ghost layers is especially useful: the stylist cuts underneath the top layer at sharp angles so the shorter interior strands gently push the outer hair outward.\n\nThis gives you more bounce at the mid-lengths and ends without obvious step layers or texturizing marks. When you straighten your hair, it still appears sleek and almost one-length, but there’s more dimension and swing when you walk or tuck it behind your ear.\n\nIt also helps prevent that flat “helmet” look by removing a little weight where the hair tends to sit very close to the head. With the right blow-dry and a light styling cream or serum, straight hair with ghost layers looks polished, glossy, and full of movement, rather than stiff or bulky.",
         "paragraphs": [
           "A ghost layers haircut on straight hair is all about building subtle movement into what can otherwise look like a solid, heavy sheet. Because straight hair shows every cut line, the hidden nature of ghost layers is especially useful: the stylist cuts underneath the top layer at sharp angles so the shorter interior strands gently push the outer hair outward.",
@@ -36548,7 +36548,7 @@ const BLOG_POSTS_DATABASE = [
     "authorAvatar": "assets/cindy_marcus_headshot.jpg",
     "updatedDate": "September 12, 2026",
     "readTime": "8 min read",
-    "thumbnail": "assets/layered_hairstyles_163_11.jpg",
+    "thumbnail": "assets/modern_haircuts_185_2.jpg",
     "introText": "Looking to add a hidden burst of vibrant color or soft contrast without full-head bleaching? Underlayer hair color and peekaboo placement allow you to play with playful tones that reveal themselves with movement.\n\nBy placing vivid pastel, rose gold, purple, or cool metallic shades beneath top brunette or black layers, you enjoy high-fashion contrast when styling updos while keeping a sophisticated exterior.\n\nBelow, browse 16+ stunning underlayer hair color ideas to inspire your next salon color creation.",
     "introParagraphs": [
       "Looking to add a hidden burst of vibrant color or soft contrast without full-head bleaching? Underlayer hair color and peekaboo placement allow you to play with playful tones that reveal themselves with movement.",
@@ -36558,7 +36558,7 @@ const BLOG_POSTS_DATABASE = [
     "photos": [
       {
         "numberTitle": "1. Hidden Pastel Rainbow Underlayer Hair",
-        "image": "assets/layered_hairstyles_163_11.jpg",
+        "image": "assets/curly_over50_277_6.jpg",
         "description": "Hidden pastel rainbow underlayer hair focuses on maximum concealment when you want your hair to look natural and maximum impact when you flip or tie it up. This version uses a thicker top layer and a more compact colored section, usually concentrated at the back of the head from ear to ear, so the rainbow is nearly invisible when your hair is down and straight.\n\nWhen you put your hair into a ponytail, half-up bun, or braid, the entire panel of soft rainbow shades appears, creating that surprise “secret color” effect that underlights are known for. Because it is tucked away from sunlight and daily wear, this hidden placement often holds pastel pigments longer and experiences less noticeable regrowth, making it a good option if you want the lowest-maintenance version of the pastel rainbow underlayer trend.",
         "paragraphs": [
           "Hidden pastel rainbow underlayer hair focuses on maximum concealment when you want your hair to look natural and maximum impact when you flip or tie it up. This version uses a thicker top layer and a more compact colored section, usually concentrated at the back of the head from ear to ear, so the rainbow is nearly invisible when your hair is down and straight.",
@@ -36586,7 +36586,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "3. Pastel Rainbow Underlayer With Layers",
-        "image": "assets/layered_hairstyles_163_15.jpg",
+        "image": "assets/blunt_bob_246_13.jpg",
         "description": "Layered haircuts pair naturally with pastel rainbow underlayers because the different lengths help reveal flashes of color without exposing the entire section at once. In this look, your stylist cuts long layers through the mid-lengths and ends, then places the rainbow shades on the underlayer so each shorter piece picks up a different color, creating a scattered, confetti-like effect when your hair moves.\n\nThe top layer stays mostly solid for contrast, while the layers below switch between pastel pink, blue, green, and purple, which show more strongly in motion or when styled with a round brush or curling iron. Because layered cuts can get dry at the ends more quickly, focusing on regular conditioning masks and leave-in treatments will keep both the natural hair and the lightened pastel sections looking smooth instead of frayed or rough.",
         "paragraphs": [
           "Layered haircuts pair naturally with pastel rainbow underlayers because the different lengths help reveal flashes of color without exposing the entire section at once. In this look, your stylist cuts long layers through the mid-lengths and ends, then places the rainbow shades on the underlayer so each shorter piece picks up a different color, creating a scattered, confetti-like effect when your hair moves.",
@@ -36684,7 +36684,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "10. Pastel Rainbow Underlayer With Face Framing",
-        "image": "assets/layered_hairstyles_163_12.jpg",
+        "image": "assets/doc_b_83_17.jpg",
         "description": "Adding face-framing pieces to a pastel rainbow underlayer pushes the look slightly bolder while still keeping most of the color underneath. In this version, the majority of the rainbow sits in the lower layers, but a few carefully placed pastel streaks or a soft money piece around the front connect the underlayer to the hair that frames your face.\n\nThis creates a cohesive look when your hair is worn down, because you see subtle hints of pink, lilac, or blue from the front while the full rainbow remains hidden at the back until you move or style it up. The technique aligns with the broader movement toward strategic, “placement is everything” highlighting, where color is focused around the face and in areas where the hair naturally bounces to make the most impact with less overall processing.",
         "paragraphs": [
           "Adding face-framing pieces to a pastel rainbow underlayer pushes the look slightly bolder while still keeping most of the color underneath. In this version, the majority of the rainbow sits in the lower layers, but a few carefully placed pastel streaks or a soft money piece around the front connect the underlayer to the hair that frames your face.",
@@ -36726,7 +36726,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "13. Pastel Rainbow Underlayer Half Up Hair",
-        "image": "assets/layered_hairstyles_163_14.jpg",
+        "image": "assets/blunt_bob_248_16.jpg",
         "description": "A half up hairstyle is one of the easiest ways to show off pastel rainbow underlayers without committing to a full updo. With this approach, the underlayer is painted along the lower sections of your hair, and you gather only the top, natural-colored portion into a half ponytail, bun, or twist, which reveals the rainbow underneath while still letting some colored strands mix with the top.\n\nThis placement is especially popular with hidden rainbow hair because it strikes a balance between subtlety and visibility, giving you a fun, festival-ready look that still feels laid-back enough for everyday wear. Soft waves or curls enhance the effect by making the pastel colors blend and intertwine, so using a gentle curling method and finishing with a lightweight shine spray can help the underlayer look dimensional and healthy.",
         "paragraphs": [
           "A half up hairstyle is one of the easiest ways to show off pastel rainbow underlayers without committing to a full updo. With this approach, the underlayer is painted along the lower sections of your hair, and you gather only the top, natural-colored portion into a half ponytail, bun, or twist, which reveals the rainbow underneath while still letting some colored strands mix with the top.",
@@ -36796,7 +36796,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "18. Pastel Rainbow Underlayer Ponytail Hair",
-        "image": "assets/layered_hairstyles_163_13.jpg",
+        "image": "assets/doc_b_53_20.jpg",
         "description": "Ponytail-friendly pastel rainbow underlayers are designed specifically so the color looks most dramatic when your hair is pulled up rather than worn down. Your colorist will usually place the rainbow shades across the lower half of your head, focusing on the sections that gather into a mid or high ponytail, leaving the top and crown area closer to your natural shade for everyday wear.\n\nWhen you tie your hair back, the rainbow appears as a cascade of pastel shades flowing from the base of the ponytail to the ends, which can look especially striking on thicker or longer hair. To support this look, regular trims and a smoothing serum on the lengths will keep the colored underlayer from frizzing out and help the pastel shades look glossy rather than dull when gathered into your ponytail.",
         "paragraphs": [
           "Ponytail-friendly pastel rainbow underlayers are designed specifically so the color looks most dramatic when your hair is pulled up rather than worn down. Your colorist will usually place the rainbow shades across the lower half of your head, focusing on the sections that gather into a mid or high ponytail, leaving the top and crown area closer to your natural shade for everyday wear.",
@@ -36844,7 +36844,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "2. Layered Shag With Internal Layers Haircut",
-        "image": "assets/layered_hairstyles_164_14.jpg",
+        "image": "assets/curly_over50_284_9.jpg",
         "description": "A layered shag with internal layers combines a trendy, lived-in shape with smarter weight distribution. Traditional shags rely on visible layering all over, which can look choppy or thin on some hair types.\n\nBy adding internal layers into the shag structure, you keep the rocker-inspired texture but avoid over-thinning the ends. The haircut usually features face-framing pieces and crown lift, with extra interior debulking through the mids to help the hair collapse and move. This is especially effective on thicker or wavy hair where you want the layers to feel airy rather than dense or bulky. Styling is simple: a diffuser or air-dry with texture spray will enhance the tousled shape, while the internal layers prevent the overall silhouette from getting too round or mushroom-like.\n\nIt is an edgy yet wearable take on the internal layering trend.",
         "paragraphs": [
           "A layered shag with internal layers combines a trendy, lived-in shape with smarter weight distribution. Traditional shags rely on visible layering all over, which can look choppy or thin on some hair types.",
@@ -37022,7 +37022,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "14. Internal Layers Haircut With Blowout Look",
-        "image": "assets/layered_hairstyles_164_16.jpg",
+        "image": "assets/doc_b_79_4.jpg",
         "description": "If you love the look of a big, bouncy blowout, an internal layers haircut makes achieving it much easier. Hidden layers reduce excess weight inside the shape, so the hair lifts and rolls more readily over a round brush.\n\nThis means you get that glamorous, full-bodied effect without needing as much heat or product. The perimeter stays thick, which is key for a luxurious blowout feel, while the internal layers create pockets of air and movement as you style.\n\nThe cut works on medium to long lengths and is especially effective for thicker hair that tends to fall flat at the roots because of heavy mids and ends. With a good blowout spray or volumizing product, your hair will hold a rounded shape that feels lighter and more polished, echoing salon-style results at home.",
         "paragraphs": [
           "If you love the look of a big, bouncy blowout, an internal layers haircut makes achieving it much easier. Hidden layers reduce excess weight inside the shape, so the hair lifts and rolls more readily over a round brush.",
@@ -37052,7 +37052,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "16. Internal Layers Haircut With Face Framing",
-        "image": "assets/layered_hairstyles_164_15.jpg",
+        "image": "assets/layered_hairstyles_174_4.jpg",
         "description": "Adding face framing to an internal layers haircut gives you a soft highlight around the features without over-layering the rest of your hair. In this look, the main bulk of the layering remains hidden inside the cut, while subtle shorter pieces at the front blend into the length.\n\nThis gently contours the cheekbones and jawline while preserving the one-length effect through the body and ends. It is ideal if you want a little movement and openness around your face, but still prefer a fuller, heavier bottom line. The face-framing pieces can be customized to your face shape, whether that means longer curtain-like pieces or softer, cheek-grazing angles. When you blow-dry these sections with a round brush or style them with a curling iron, the internal layers behind them support the movement, creating a cohesive, flattering frame instead of isolated short bits.",
         "paragraphs": [
           "Adding face framing to an internal layers haircut gives you a soft highlight around the features without over-layering the rest of your hair. In this look, the main bulk of the layering remains hidden inside the cut, while subtle shorter pieces at the front blend into the length.",
@@ -37081,7 +37081,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "18. Shoulder Length Internal Layers Haircut",
-        "image": "assets/layered_hairstyles_164_13.jpg",
+        "image": "assets/pastel_hair_color_193_4.jpg",
         "description": "A shoulder length internal layers haircut is a practical, everyday option that still feels chic. The length brushes the shoulders, making it easy to tie back or clip up, yet the hidden layers keep it from sitting bulky or stiff on the collar line.\n\nInternal layers are usually focused in the interior just above and below the shoulders so the hair can bend and flip without forming awkward ledges. This cut works for many hair types, from straight to wavy and even looser curls, as long as the layering is customized to your density.\n\nStyling with a round brush creates a classic, bouncy look, while a flat iron wave technique will reveal the internal movement in a more relaxed way. For busy routines, this length with internal layers offers an easy balance between polish and flexibility.",
         "paragraphs": [
           "A shoulder length internal layers haircut is a practical, everyday option that still feels chic. The length brushes the shoulders, making it easy to tie back or clip up, yet the hidden layers keep it from sitting bulky or stiff on the collar line.",
@@ -37106,7 +37106,7 @@ const BLOG_POSTS_DATABASE = [
     "authorAvatar": "assets/cindy_marcus_headshot.jpg",
     "updatedDate": "September 12, 2026",
     "readTime": "8 min read",
-    "thumbnail": "assets/layered_hairstyles_165_16.jpg",
+    "thumbnail": "assets/team_david_oconnor.jpg",
     "introText": "Layered hairstyles remain unmatched for their ability to bring immediate volume, touchable texture, and fluid motion to hair of any length or density.\n\nFrom face-framing curtain bangs and soft ghost layers to classic shags and airy texturizing, adapting the depth and angle of your layers allows you to highlight your best facial features.\n\nBelow, explore 14+ inspiring layered hairstyle ideas to save for your next salon appointment.",
     "introParagraphs": [
       "Layered hairstyles remain unmatched for their ability to bring immediate volume, touchable texture, and fluid motion to hair of any length or density.",
@@ -37116,7 +37116,7 @@ const BLOG_POSTS_DATABASE = [
     "photos": [
       {
         "numberTitle": "1. Wispy Layered Lob",
-        "image": "assets/layered_hairstyles_165_16.jpg",
+        "image": "assets/warm_blonde_226_14.jpg",
         "description": "The “lob,” or long bob, is a trendy choice that hits just at the collarbone. Adding wispy layers to a lob prevents it from looking too heavy or blocky around the shoulders.\n\nThese light layers add a touch of sophistication and make the hair feel much lighter for the child. It is a great length for girls who want to transition from very long hair to something shorter without going to a full bob.\n\nThe layers provide just enough movement to keep the style interesting, and it’s still long enough to be pulled into a high bun.",
         "paragraphs": [
           "The “lob,” or long bob, is a trendy choice that hits just at the collarbone. Adding wispy layers to a lob prevents it from looking too heavy or blocky around the shoulders.",
@@ -37146,7 +37146,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "3. Rounded Layered Haircut",
-        "image": "assets/layered_hairstyles_165_15.jpg",
+        "image": "assets/doc_b_86_6.jpg",
         "description": "The rounded layered cut is designed to follow the natural curve of the head, creating a soft and circular silhouette. This is particularly effective for medium to long hair lengths.\n\nThe layers are cut in a way that the hair naturally curls inward toward the face, which can be a huge time-saver as it often styles itself. This look is very sweet and traditional, making it a popular choice for toddlers and primary school-aged girls. It provides a full, healthy appearance to the hair and works across almost all hair textures, from straight to wavy.’ll Love.",
         "paragraphs": [
           "The rounded layered cut is designed to follow the natural curve of the head, creating a soft and circular silhouette. This is particularly effective for medium to long hair lengths.",
@@ -37323,7 +37323,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "15. Layered Cut With Side Bangs",
-        "image": "assets/layered_hairstyles_165_17.jpg",
+        "image": "assets/doc_b_39_10.jpg",
         "description": "Adding side-swept bangs to a layered haircut is a great way to manage a child’s forehead hair without the maintenance of full, straight-across bangs. The side bangs blend into the layers around the face, creating a seamless and soft transition.\n\nThis style is very practical because as the bangs grow, they simply become part of the face-framing layers. It is a very pretty look that adds a bit of “flair” to any basic layered cut.\n\nIt works well for all face shapes and helps to keep hair out of the eyes during schoolwork and activities.",
         "paragraphs": [
           "Adding side-swept bangs to a layered haircut is a great way to manage a child’s forehead hair without the maintenance of full, straight-across bangs. The side bangs blend into the layers around the face, creating a seamless and soft transition.",
@@ -37431,7 +37431,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "2. Soft Feather Layers Haircut With Side Bangs",
-        "image": "assets/layered_hairstyles_166_13.jpg",
+        "image": "assets/doc_b_62_14.jpg",
         "description": "A soft feather layers haircut with side bangs is ideal if you want an easy way to add interest around your face without the commitment of a full, straight‑across fringe. Side bangs are typically cut to start around the brow or cheekbone and angle down into the front layers, blending seamlessly into the rest of the haircut.\n\nWhen combined with feathered layers, they create a sweeping, diagonal line that draws attention to the eyes and cheekbones. The bangs can be styled to curve gently away from the face with a round brush or flat iron, echoing the direction of the feathered pieces. This look is especially flattering on round and square faces because the diagonal line helps visually elongate and slim the face. On fine or medium hair, side bangs and feather layers add movement and texture; on thicker hair, they help break up density at the front, so the hair doesn’t feel too heavy around the forehead.\n\nThis combination also grows out gracefully, since the side bangs gradually become part of the longer, face‑framing layers.",
         "paragraphs": [
           "A soft feather layers haircut with side bangs is ideal if you want an easy way to add interest around your face without the commitment of a full, straight‑across fringe. Side bangs are typically cut to start around the brow or cheekbone and angle down into the front layers, blending seamlessly into the rest of the haircut.",
@@ -37534,7 +37534,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "9. Soft Feather Layers Haircut With Layers Around The Face",
-        "image": "assets/layered_hairstyles_166_15.jpg",
+        "image": "assets/ponytail_hairstyles_208_19.jpg",
         "description": "A soft feather layers haircut with layers around the face focuses heavily on front shaping to highlight your best features while keeping the rest of the hair flowing and balanced. The stylist cuts a series of graduated layers that start from your chosen point—maybe the nose, lips, or chin—and then gradually lengthen as they move down your neckline and around to the back.\n\nThese layers are feathered so they appear soft and wispy, gently hugging your cheekbones and jawline. This type of front‑heavy layering is excellent for softening a strong jaw or balancing a fuller face, because it draws the eye inward and upward. It also makes ponytails, half‑up styles, and buns look more intentional, since those shorter pieces fall out around the face and add softness. On straight hair, these layers give a sleek yet dynamic look when blow‑dried; on wavy hair, they create effortless, face‑framing waves that need minimal styling. It’s a versatile approach that works well with both subtle and more dramatic overall feathering.",
         "paragraphs": [
           "A soft feather layers haircut with layers around the face focuses heavily on front shaping to highlight your best features while keeping the rest of the hair flowing and balanced. The stylist cuts a series of graduated layers that start from your chosen point—maybe the nose, lips, or chin—and then gradually lengthen as they move down your neckline and around to the back.",
@@ -37549,7 +37549,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "10. Soft Feather Layers Wolf Cut Haircut",
-        "image": "assets/layered_hairstyles_166_16.jpg",
+        "image": "assets/doc_b_30_9.jpg",
         "description": "A soft feather layers wolf cut haircut combines the edgy, shag‑like wolf cut shape with much gentler, more wearable feathering. Instead of harsh, choppy layers and extreme disconnection, the stylist uses softer, finer layers to build volume at the crown and texture through the mid‑lengths and ends.\n\nThe result is a slightly wild, tousled silhouette that still feels light and flattering rather than severe. The top is usually fuller, with shorter layers providing height, while the back and sides taper into feathered ends that flick out and move easily. This cut works especially well on wavy or slightly curly hair, because the natural texture fills out the shape, but it can also be styled on straight hair with a texturizing spray for that lived‑in look. The soft feathering makes the wolf cut less intimidating and easier to grow out, since the layers blend rather than sit in stark tiers.\n\nIt’s a fun choice if you want something trendy and playful while still keeping the hair touchable and feminine.",
         "paragraphs": [
           "A soft feather layers wolf cut haircut combines the edgy, shag‑like wolf cut shape with much gentler, more wearable feathering. Instead of harsh, choppy layers and extreme disconnection, the stylist uses softer, finer layers to build volume at the crown and texture through the mid‑lengths and ends.",
@@ -37579,7 +37579,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "12. Soft Feather Layers Haircut For Oval Face",
-        "image": "assets/layered_hairstyles_166_18.jpg",
+        "image": "assets/trending_haircuts_214_2.jpg",
         "description": "A soft feather layers haircut for an oval face gives you a lot of freedom because this face shape can handle many different layer placements and lengths. The goal is usually to accentuate the natural balance of an oval face rather than correct it, so layers can start higher, around the cheekbones, or lower, near the collarbones, depending on your preference.\n\nSoft feathering through the mid‑lengths and ends adds texture and interest without overwhelming your features. You can experiment with center parts, off‑center parts, curtain bangs, or even side bangs, and they’ll often all be flattering with this shape. The layered, feathered ends keep the hair from hanging too straight and flat, which helps maintain a youthful, fresh feel. When styled, you can wear the hair sleek and straight to show off shine and outline, or add waves for a more relaxed, romantic look.\n\nEither way, the feathered layers will keep everything looking light and effortless.",
         "paragraphs": [
           "A soft feather layers haircut for an oval face gives you a lot of freedom because this face shape can handle many different layer placements and lengths. The goal is usually to accentuate the natural balance of an oval face rather than correct it, so layers can start higher, around the cheekbones, or lower, near the collarbones, depending on your preference.",
@@ -37594,7 +37594,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "13. Soft Feather Layers Haircut For Round Face",
-        "image": "assets/layered_hairstyles_166_17.jpg",
+        "image": "assets/layered_fine_hair_144_15.jpg",
         "description": "A soft feather layers haircut for a round face focuses on adding length and vertical lines while gently minimizing width. The stylist usually keeps more length below the chin and adds subtle layers starting around the cheekbones or slightly lower, so the fullness is concentrated below the jaw instead of at the cheeks.\n\nFeathered layers are used to create diagonal lines that skim the sides of the face and draw the eye downward, which helps visually elongate the overall shape. A center or soft off‑center part works well, especially when paired with face‑framing pieces that start a bit below the widest part of the face. Avoiding heavy, blunt bangs keeps the forehead visible and adds to the lengthening effect, though soft curtain bangs can still work if they’re cut long and feathered. When styled with a round brush or loose waves, the layers flow smoothly past the face rather than puffing out at the sides.\n\nThis creates a flattering, slimming effect while still keeping the hair light, airy, and full of movement.",
         "paragraphs": [
           "A soft feather layers haircut for a round face focuses on adding length and vertical lines while gently minimizing width. The stylist usually keeps more length below the chin and adds subtle layers starting around the cheekbones or slightly lower, so the fullness is concentrated below the jaw instead of at the cheeks.",
@@ -37683,7 +37683,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "19. Soft Feather Layers Haircut With Long Bangs",
-        "image": "assets/layered_hairstyles_166_14.jpg",
+        "image": "assets/curly_over50_274_22.jpg",
         "description": "If you like the idea of bangs but prefer something low‑maintenance, a soft feather layers haircut with long bangs can be a perfect middle ground. Long bangs typically hit somewhere between the cheekbones and the chin, and they’re cut with the same feathering technique as the rest of the layers so they blend smoothly.\n\nWhen parted slightly off‑center or in the middle, these bangs drape around the face like a soft curtain, adding dimension and movement without feeling heavy. They are easy to style: just use a round brush to flick them away from your face or a flat iron to add a soft bend, and they will naturally merge into your front layers.\n\nThis kind of fringe is flattering on almost every face shape, but it’s particularly kind to longer faces because it adds width and softness at the sides. The overall effect is romantic and modern at the same time, and as the bangs grow, they maintain their shape as face‑framing pieces, so you won’t be rushing back to the salon every few weeks.",
         "paragraphs": [
           "If you like the idea of bangs but prefer something low‑maintenance, a soft feather layers haircut with long bangs can be a perfect middle ground. Long bangs typically hit somewhere between the cheekbones and the chin, and they’re cut with the same feathering technique as the rest of the layers so they blend smoothly.",
@@ -38048,7 +38048,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "4. Opal Peekaboo Underlayer with Balayage",
-        "image": "assets/layered_hairstyles_168_16.jpg",
+        "image": "assets/pastel_hair_color_193_16.jpg",
         "description": "Combining the opal peekaboo underlayer with a balayage technique on the top layer creates a seamlessly blended, sun-kissed effect with a hidden secret. The balayage can be done in natural, warm tones to blend with your root color, while the underlayer is a cool, pastel opal.\n\nThis look is incredibly sophisticated, as it appears as a beautiful, dimensional blonde or brunette until you move, and then the fantasy underlayer is revealed. It’s a fantastic option for those growing out their hair or wanting a more lived-in, low-maintenance style with a high-impact surprise.\n\nThe two techniques together offer the best of both worlds: natural dimension and playful color.",
         "paragraphs": [
           "Combining the opal peekaboo underlayer with a balayage technique on the top layer creates a seamlessly blended, sun-kissed effect with a hidden secret. The balayage can be done in natural, warm tones to blend with your root color, while the underlayer is a cool, pastel opal.",
@@ -38078,7 +38078,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "6. Opal Peekaboo Underlayer for Red Hair",
-        "image": "assets/layered_hairstyles_168_15.jpg",
+        "image": "assets/bob_haircuts_253_2.jpg",
         "description": "Red hair has a natural warmth and vibrancy that pairs unexpectedly well with the cool, pastel tones of an opal peekaboo underlayer. The contrast is striking, creating a look that is both fiery and icy.\n\nOn copper or auburn hair, the opal shades can lean towards pinks and purples to complement the base, while on deeper reds, blues and greens can create a bold, jewel-toned effect. This combination is for the adventurous who love to mix color theories in their hair. The result is incredibly unique, ensuring you’ll stand out with a style that is rich, complex, and full of captivating contrast.",
         "paragraphs": [
           "Red hair has a natural warmth and vibrancy that pairs unexpectedly well with the cool, pastel tones of an opal peekaboo underlayer. The contrast is striking, creating a look that is both fiery and icy.",
@@ -38167,7 +38167,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "12. Opal Peekaboo Underlayer for Gray Hair",
-        "image": "assets/layered_hairstyles_168_17.jpg",
+        "image": "assets/ponytail_hairstyles_201_15.jpg",
         "description": "Gray hair is a stunning, modern canvas for an opal peekaboo underlayer. The silver and white tones provide a neutral, reflective base that enhances the iridescent quality of the opal shades.\n\nThe pastel colors can look like a natural, luminous extension of the gray, creating a cohesive, ethereal look. This style celebrates the beauty of gray hair while adding a touch of whimsical color that can be as subtle or vivid as desired.\n\nIt’s a empowering choice for those embracing their natural silver, allowing them to play with color in a way that feels authentic and complementary, rather than contrasting.",
         "paragraphs": [
           "Gray hair is a stunning, modern canvas for an opal peekaboo underlayer. The silver and white tones provide a neutral, reflective base that enhances the iridescent quality of the opal shades.",
@@ -38379,7 +38379,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "6. Straight Hair With Soft Layers And Middle Part",
-        "image": "assets/layered_hairstyles_169_15.jpg",
+        "image": "assets/doc_b_37_15.jpg",
         "description": "A middle part combined with soft layers creates a symmetrical and clean look. The layers fall evenly on both sides, enhancing the natural flow of straight hair.\n\nThis style works well for oval and heart-shaped faces. It gives a modern and balanced appearance that feels effortless. The soft layers prevent the hair from appearing flat while maintaining a sleek finish. Styling is simple and requires minimal tools. This haircut is perfect if you prefer a neat and structured look that still has movement and softness.",
         "paragraphs": [
           "A middle part combined with soft layers creates a symmetrical and clean look. The layers fall evenly on both sides, enhancing the natural flow of straight hair.",
@@ -38651,7 +38651,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "5. Choppy Bob For Ruffled Volume",
-        "image": "assets/layered_hairstyles_170_17.jpg",
+        "image": "assets/doc_b_75_9.jpg",
         "description": "Light layers with waves add soft, ruffled volume to fine hair in this choppy bob. Ask for an asymmetrical bob with feathered layers for a modern, trendy look.\n\nThe choppy texture creates visual thickness and movement throughout. It’s perfect for those who want a short cut with plenty of personality and edge. The asymmetrical angle adds modern flair while the feathered layers keep it soft and wearable. Style with a texturizing paste for piecey definition and don’t over-brush—let the natural texture shine through.\n\nThis bob is low-maintenance but high-impact, perfect for busy lifestyles.",
         "paragraphs": [
           "Light layers with waves add soft, ruffled volume to fine hair in this choppy bob. Ask for an asymmetrical bob with feathered layers for a modern, trendy look.",
@@ -38784,7 +38784,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "14. Blunt Bob With Subtle Layers",
-        "image": "assets/layered_hairstyles_170_18.jpg",
+        "image": "assets/warm_blonde_228_11.jpg",
         "description": "This modern classic adds subtle movement while keeping a sharp, clean silhouette. Layers are minimal and cleverly placed near the ends to preserve fullness, making it a perfect choice for fine hair.\n\nThe blunt cut creates the illusion of thickness while the subtle layers add just enough movement to prevent stiffness. It’s a polished, sophisticated look that works for straight or slightly wavy hair.\n\nTo boost volume, add a thickening spray to damp hair before blow-drying for weightless volume that lasts. This cut is incredibly versatile and looks equally chic straight or with soft waves added.",
         "paragraphs": [
           "This modern classic adds subtle movement while keeping a sharp, clean silhouette. Layers are minimal and cleverly placed near the ends to preserve fullness, making it a perfect choice for fine hair.",
@@ -38906,7 +38906,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "3. Black Hair with Purple Underlayer Long Layers",
-        "image": "assets/layered_hairstyles_171_13.jpg",
+        "image": "assets/doc_b_66_3.jpg",
         "description": "Long, layered black hair with a purple underlayer is a combination that feels both glamorous and effortlessly cool. The layers help blend the transition between the black surface and the purple interior, creating a look that flows naturally.\n\nAs the layers move, the purple emerges in flashes throughout the length of the hair rather than just at the bottom, giving the whole style a richly dimensional feel. This works especially well when the layers start from about the mid-lengths and continue down to the ends.\n\nThe purple can also be applied at varying intensities throughout the layers — deeper at the top and brighter at the ends — for a gradient that looks complex but feels natural. Long layers also make this style incredibly versatile for different updos, braids, and styling options.",
         "paragraphs": [
           "Long, layered black hair with a purple underlayer is a combination that feels both glamorous and effortlessly cool. The layers help blend the transition between the black surface and the purple interior, creating a look that flows naturally.",
@@ -38966,7 +38966,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "7. Black Hair with Purple Underlayer Wavy",
-        "image": "assets/layered_hairstyles_171_17.jpg",
+        "image": "assets/ponytail_hairstyles_205_6.jpg",
         "description": "Waves and curls are a natural amplifier for any underlayer color, and black wavy hair with a purple underlayer looks especially stunning in motion. As the waves bounce and curl, the purple shows through the black in curved flashes of color that feel very organic and fluid.\n\nThe color does not look placed or rigid — it looks like it belongs there. Loose beach waves show the most purple since the hair is more open and spread.\n\nTighter curls create a more peppered effect where tiny flashes of purple pop through the black spirals. This is an incredibly photogenic color combination on wavy and curly textures because every photo captures a slightly different angle of the color mixing throughout the hair.",
         "paragraphs": [
           "Waves and curls are a natural amplifier for any underlayer color, and black wavy hair with a purple underlayer looks especially stunning in motion. As the waves bounce and curl, the purple shows through the black in curved flashes of color that feel very organic and fluid.",
@@ -39024,7 +39024,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "11. Black Hair with Purple Underlayer Braids",
-        "image": "assets/layered_hairstyles_171_16.jpg",
+        "image": "assets/curly_over50_288_4.jpg",
         "description": "Braids are one of the most stunning ways to showcase a purple underlayer because every braid weave exposes both the black and purple sections simultaneously. As the braid is created, threads of purple and black intertwine, creating a richly patterned, two-tone braid that looks incredibly intricate.\n\nA simple three-strand braid becomes a whole piece of art when the black and purple rotate through each plait. French braids, Dutch braids, and fishtail braids all work brilliantly with this color combination.\n\nThe more complex the braid pattern, the more the two tones interact and show off the color placement. Box braids with purple underlayers also create a stunning visual where the purple roots transition into black lengths in a graphic, modern way.",
         "paragraphs": [
           "Braids are one of the most stunning ways to showcase a purple underlayer because every braid weave exposes both the black and purple sections simultaneously. As the braid is created, threads of purple and black intertwine, creating a richly patterned, two-tone braid that looks incredibly intricate.",
@@ -39039,7 +39039,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "12. Black Hair with Neon Purple Underlayer",
-        "image": "assets/layered_hairstyles_171_14.jpg",
+        "image": "assets/doc_b_23_3.jpg",
         "description": "Neon purple is the most electric version of this trend and it is designed to be noticed. Against the darkest black base, a neon or fluorescent purple underlayer delivers a level of contrast that is almost graphic in its impact.\n\nThis look is popular in bold fashion circles and among people who use their hair as a true form of self-expression. Under UV or black light, neon purple hair glows, which makes it especially popular for concerts and events. Getting neon purple right requires very thorough pre-lightening of the underlayer sections, since the neon pigment can only truly show up on a light enough base. Work with a colorist who specializes in vivid color to get the most saturated, even result.\n\nThe final look is dramatic, powerful, and completely unforgettable.",
         "paragraphs": [
           "Neon purple is the most electric version of this trend and it is designed to be noticed. Against the darkest black base, a neon or fluorescent purple underlayer delivers a level of contrast that is almost graphic in its impact.",
@@ -39054,7 +39054,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "13. Black Hair with Purple Underlayer Bob Cut",
-        "image": "assets/layered_hairstyles_171_12.jpg",
+        "image": "assets/curly_over50_275_4.jpg",
         "description": "A bob cut with a purple underlayer is one of the most graphic, modern hair looks you can wear right now. Because a bob sits at chin or shoulder length, the underlayer does not have as much length to hide in — which means the purple is more visible and more prominent.\n\nEvery time the bob swings as you walk or turn, that purple flashes boldly. An inverted bob, which is shorter in the back and longer in the front, creates especially interesting geometry with an underlayer color.\n\nThe back section naturally reveals more of the purple, making it the focal point. Pair this with a blunt cut for maximum edge, or a layered bob for a softer, more textured take on the look.",
         "paragraphs": [
           "A bob cut with a purple underlayer is one of the most graphic, modern hair looks you can wear right now. Because a bob sits at chin or shoulder length, the underlayer does not have as much length to hide in — which means the purple is more visible and more prominent.",
@@ -39084,7 +39084,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "15. Black Hair with Purple Underlayer and Curtain Bangs",
-        "image": "assets/layered_hairstyles_171_11.jpg",
+        "image": "assets/bob_haircuts_262_15.jpg",
         "description": "Curtain bangs styled alongside a black hair with purple underlayer create a look that is very current and incredibly flattering. The bangs frame the face in a soft, parted-down-the-middle way, and when the underlayer shows through at the sides, it creates a framing effect that highlights the eyes and cheekbones.\n\nThe purple peeking around the curtain bangs feels playful but put together. This combination works especially well on medium to long hair with some natural body or wave. The bangs soften the boldness of the purple underlayer, making the overall style feel accessible and wearable for daily life. If you already have curtain bangs, adding a purple underlayer to your existing black hair is one of the most impactful updates you can make without a full haircut change.",
         "paragraphs": [
           "Curtain bangs styled alongside a black hair with purple underlayer create a look that is very current and incredibly flattering. The bangs frame the face in a soft, parted-down-the-middle way, and when the underlayer shows through at the sides, it creates a framing effect that highlights the eyes and cheekbones.",
@@ -39311,7 +39311,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "12. Blush Pink Underlayer with Curtain Bangs",
-        "image": "assets/layered_hairstyles_172_15.jpg",
+        "image": "assets/curly_hairstyles_299_5.jpg",
         "description": "Curtain bangs are one of the most popular hair trends of the past few years, and they pair wonderfully with a blush pink underlayer. The face-framing bangs sweep to either side, and when they move, they reveal the soft pink color hidden underneath.\n\nThis creates a beautiful frame around your face that changes with every tilt of your head. The blush pink reflects up onto your skin, giving you a natural, healthy flush that mimics the look of a warm blush. Curtain bangs also draw attention to your eyes and cheekbones, and the pink underlayer enhances this effect by adding a warm, rosy glow to your overall appearance. It is a feminine, romantic combination that flatters almost everyone.",
         "paragraphs": [
           "Curtain bangs are one of the most popular hair trends of the past few years, and they pair wonderfully with a blush pink underlayer. The face-framing bangs sweep to either side, and when they move, they reveal the soft pink color hidden underneath.",
@@ -39325,7 +39325,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "13. Blush Pink Underlayer on Auburn Hair",
-        "image": "assets/layered_hairstyles_172_16.jpg",
+        "image": "assets/doc_b_44_10.jpg",
         "description": "Auburn hair sits right between red and brown, making it an ideal base for a blush pink underlayer. The warm, golden undertones in auburn hair blend seamlessly with the soft rose of blush pink, creating a rich, multi-tonal result that looks incredibly luxurious.\n\nThe transition between the auburn top and the pink underneath is smooth and natural, almost as if the two colors were always meant to be together. This combination gives off a warm, inviting energy that works beautifully in every season.\n\nIn the fall and winter, the deeper auburn tones shine. In spring and summer, the blush pink underlayer catches the light and adds a bright, cheerful element to your look.",
         "paragraphs": [
           "Auburn hair sits right between red and brown, making it an ideal base for a blush pink underlayer. The warm, golden undertones in auburn hair blend seamlessly with the soft rose of blush pink, creating a rich, multi-tonal result that looks incredibly luxurious.",
@@ -39384,7 +39384,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "17. Blush Pink Underlayer with Braided Style",
-        "image": "assets/layered_hairstyles_172_17.jpg",
+        "image": "assets/doc_b_88_9.jpg",
         "description": "Braids are the ultimate way to show off a blush pink underlayer because they intentionally pull sections of hair in different directions, revealing the hidden color throughout the braid. Whether you choose a simple three-strand braid, a\n\nFrench braid, or a intricate fishtail, the pink strands weave in and out of the base color, creating a stunning candy-colored pattern. This is the look that truly makes the most of the peekaboo nature of underlayer color.\n\nA braid turns your hair into a work of art, with the blush pink acting as a beautiful accent thread. This combination is perfect for festivals, vacations, or any time you want your hair to be the star of the show.",
         "paragraphs": [
           "Braids are the ultimate way to show off a blush pink underlayer because they intentionally pull sections of hair in different directions, revealing the hidden color throughout the braid. Whether you choose a simple three-strand braid, a",
@@ -39595,7 +39595,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "12. Curly Gray Hair With Rounded Layers",
-        "image": "assets/layered_hairstyles_173_10.jpg",
+        "image": "assets/layered_hairstyles_170_16.jpg",
         "description": "If you have natural curls and gray hair, rounded layers are essential for maintaining a beautiful shape and preventing the dreaded “triangle” look. By cutting the hair in a circular fashion around the head, the curls are allowed to stack neatly on top of one another.\n\nThis creates a soft, bouncy appearance that celebrates the unique texture of gray curls, which can sometimes be more rebellious. The layers help define each individual ringlet, making the silver and white tones sparkle within the hair.\n\nThis look is best maintained with plenty of hydration and a light curl-defining gel to keep the layers looking crisp and fresh.",
         "paragraphs": [
           "If you have natural curls and gray hair, rounded layers are essential for maintaining a beautiful shape and preventing the dreaded “triangle” look. By cutting the hair in a circular fashion around the head, the curls are allowed to stack neatly on top of one another.",
@@ -39640,7 +39640,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "15. Wispy Gray Layers For Thin Hair",
-        "image": "assets/layered_hairstyles_173_17.jpg",
+        "image": "assets/warm_blonde_230_2.jpg",
         "description": "Gray hair can sometimes become thinner over time, and wispy layers are the best way to handle this change. Instead of heavy sections, these layers are very fine and delicate, adding just enough volume without taking away too much hair.\n\nThis creates a cloud-like effect that is very soft and flattering. The light reflects off the fine silver strands, making the hair appear fuller and more vibrant than it actually is.\n\nIt is a gentle approach to hair cutting that respects the delicate nature of aging hair while still providing a stylish and modern silhouette.",
         "paragraphs": [
           "Gray hair can sometimes become thinner over time, and wispy layers are the best way to handle this change. Instead of heavy sections, these layers are very fine and delicate, adding just enough volume without taking away too much hair.",
@@ -39685,7 +39685,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "18. Gray Layered Hair With Curtain Bangs",
-        "image": "assets/layered_hairstyles_173_16.jpg",
+        "image": "assets/curly_hairstyles_298_15.jpg",
         "description": "Curtain bangs are a major trend in 2026, and they pair perfectly with gentle layers on gray hair. These bangs part down the middle and sweep to the sides, mimicking the look of a curtain.\n\nThey blend seamlessly into the rest of the layered hair, creating a very soft and romantic frame for the face. For silver-haired individuals, curtain bangs are a great way to transition into layers without committing to a full fringe.\n\nThey are easy to style and grow out beautifully, making them a low-risk way to update your look while highlighting your natural gray tones.",
         "paragraphs": [
           "Curtain bangs are a major trend in 2026, and they pair perfectly with gentle layers on gray hair. These bangs part down the middle and sweep to the sides, mimicking the look of a curtain.",
@@ -39750,7 +39750,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "3. V Cut Hair With Teal Underlayer On Dark Hair",
-        "image": "assets/layered_hairstyles_174_15.jpg",
+        "image": "assets/doc_b_43_19.jpg",
         "description": "Looking to add serious length and drama to your look? V cut hair with a teal underlayer on dark hair is absolutely breathtaking.\n\nThe V cut features long layers that form a sharp V shape at the back. This shape is perfect for highlighting an underlayer. The teal starts at the nape and follows the deep point of the V down your back. When you walk, the dark top layers swing away. This reveals the vivid teal spine of color running down the center. It looks especially amazing when you flat iron the hair perfectly straight. The sharp cut and bold color create an unforgettable silhouette. It is a gorgeous way to make long hair look dynamic and vibrant.",
         "paragraphs": [
           "Looking to add serious length and drama to your look? V cut hair with a teal underlayer on dark hair is absolutely breathtaking.",
@@ -39926,7 +39926,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "15. Teal Underlayer On Dark Hair Curtain Bangs Haircut",
-        "image": "assets/layered_hairstyles_174_16.jpg",
+        "image": "assets/curly_hairstyles_296_10.jpg",
         "description": "Want a trendy face frame with a hidden surprise? A teal underlayer on dark hair curtain bangs haircut blends two of the biggest hair trends.\n\nCurtain bangs softly frame the face and blend into the rest of the hair. They keep the top of your look soft and romantic. The dark color ensures the bangs look natural and full. The teal underlayer waits beneath the surface. When the wind blows, or when you tuck your hair back, the vibrant color appears. You can curl the ends of the curtain bangs to blend them into the dark layers.\n\nThe contrast between the soft front and the edgy back is fantastic. It is a perfect balance of sweet and daring.",
         "paragraphs": [
           "Want a trendy face frame with a hidden surprise? A teal underlayer on dark hair curtain bangs haircut blends two of the biggest hair trends.",
@@ -40021,7 +40021,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "2. Piecey Textured Layered Blowout",
-        "image": "assets/layered_hairstyles_175_15.jpg",
+        "image": "assets/curly_over50_282_11.jpg",
         "description": "Love that just-off-the-beach aesthetic? The piecey textured layered blowout skips the smooth polishing and goes straight for defined separation.\n\nInstead of smoothing the cuticle with a round brush, use your fingers to rough dry the hair until it is mostly dry. Then, take small sections and twist them while applying heat to create irregular bends and waves. The layers are crucial for this style because they give you different lengths to texture and define. Once dry, apply a styling wax or pomade to the ends to pinch and separate the layers into distinct pieces. It looks cool, modern, and effortlessly stylish for everyday wear.",
         "paragraphs": [
           "Love that just-off-the-beach aesthetic? The piecey textured layered blowout skips the smooth polishing and goes straight for defined separation.",
@@ -40198,7 +40198,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "14. Rounded Bob Layered Blowout",
-        "image": "assets/layered_hairstyles_175_14.jpg",
+        "image": "assets/bob_haircuts_265_20.jpg",
         "description": "Short hair deserves just as much styling love. The rounded bob layered blowout is perfect for shorter cuts that need shape and structure.\n\nUse a small to medium round brush, rolling the ends under to create a smooth, curved silhouette that hugs the jawline. Focus on building volume at the sides to create that desirable rounded shape rather than a flat look. The layers in a bob help remove bulk and allow the ends to flip under effortlessly. Dry the nape area first, directing the hair inward, and then work your way up to the crown.\n\nThis creates a flawless, polished cap of hair.",
         "paragraphs": [
           "Short hair deserves just as much styling love. The rounded bob layered blowout is perfect for shorter cuts that need shape and structure.",
@@ -40382,7 +40382,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "7. Polished Layered Blowout",
-        "image": "assets/layered_hairstyles_176_10.jpg",
+        "image": "assets/layered_hairstyles_176_6.jpg",
         "description": "The polished layered blowout is all about “ quiet luxury ” and achieving a mirror-like shine on every single layer. This look is less about extreme volume and more about immaculate smoothness and a frizz-free finish.\n\nTo get this celebrity-approved style, you must use a high-quality shine serum or a lightweight hair oil before and after drying. Each layer should be meticulously smoothed with a round brush, ensuring the cuticles are sealed for maximum light reflection.\n\nThis style is perfect for professional settings or formal events where you want your hair to look perfectly groomed, healthy, and sophisticated without looking overly “done” or stiff.",
         "paragraphs": [
           "The polished layered blowout is all about “ quiet luxury ” and achieving a mirror-like shine on every single layer. This look is less about extreme volume and more about immaculate smoothness and a frizz-free finish.",
@@ -40456,7 +40456,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "12. Bombshell Layered Blowout",
-        "image": "assets/layered_hairstyles_176_16.jpg",
+        "image": "assets/doc_b_93_12.jpg",
         "description": "The bombshell layered blowout is the epitome of high-octane glamour, featuring massive volume, big curls, and lots of “va-va-voom” energy. This look is all about excess, with layers that are styled into large, bouncy waves using a\n\n1.5-inch or 2-inch barrel round brush. To keep this celebrity look from falling flat, you should use a strong-hold hairspray and pin each curl in place while it is still warm.\n\nThis ensures that the volume lasts all night long, even under the heat of camera lights or a crowded room. It is the ultimate “special occasion” hairstyle that guarantees you will be the center of attention wherever you go.",
         "paragraphs": [
           "The bombshell layered blowout is the epitome of high-octane glamour, featuring massive volume, big curls, and lots of “va-va-voom” energy. This look is all about excess, with layers that are styled into large, bouncy waves using a",
@@ -40471,7 +40471,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "13. Wispy Layered Blowout",
-        "image": "assets/layered_hairstyles_176_17.jpg",
+        "image": "assets/bob_haircuts_268_4.jpg",
         "description": "A wispy layered blowout is perfect for adding softness and a touch of romance to your overall appearance. This style features very thin, delicate layers that are cut at different lengths to create a “feathery” texture throughout the hair.\n\nDuring the blowout, you should use a light-touch technique, avoiding too much tension on the brush to keep the hair looking airy and effortless. This look is particularly great for those with fine or thinning hair, as the wispy layers add a sense of fullness and movement without the need for heavy products.\n\nIt creates a very youthful and fresh aesthetic that is both modern and timeless.",
         "paragraphs": [
           "A wispy layered blowout is perfect for adding softness and a touch of romance to your overall appearance. This style features very thin, delicate layers that are cut at different lengths to create a “feathery” texture throughout the hair.",
@@ -40624,7 +40624,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "4. V Cut Layers Haircut",
-        "image": "assets/layered_hairstyles_177_16.jpg",
+        "image": "assets/modern_haircuts_181_13.jpg",
         "description": "Do you want to keep your long hair but remove that awful shelf? A V cut layers haircut removes the harsh line by creating a stunning V shape at the back.\n\nYour stylist cuts the center back slightly longer, with the sides tapering up gracefully. The shelf is blended into these sweeping side layers, completely eliminating the blunt step. This preserves your precious length while adding beautiful movement and dimension. It is a classic choice that looks incredibly elegant from the back.\n\nThe deep V point draws the eye downward, creating a slenderizing effect. You finally get smooth, flowing hair without sacrificing your gorgeous long locks.",
         "paragraphs": [
           "Do you want to keep your long hair but remove that awful shelf? A V cut layers haircut removes the harsh line by creating a stunning V shape at the back.",
@@ -40654,7 +40654,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "6. Chopped Layers Haircut",
-        "image": "assets/layered_hairstyles_177_15.jpg",
+        "image": "assets/warm_blonde_224_11.jpg",
         "description": "Tired of fighting against a blunt, heavy line in your thick hair? Chopped layers haircut introduces bold, disconnected pieces that break up the solid shelf.\n\nUnlike soft blending, this method uses stark contrast to make the shelf look like an intentional part of the design. Your stylist will cut strong, defined layers that remove the unwanted bulk. This gives your hair an edgy, modern street style vibe. The heavy texture completely transforms the silhouette, making the old harsh line completely disappear. It is perfect for anyone wanting a high-impact, trendy look. You get a remarkably stylish cut that refuses to blend in with the crowd.",
         "paragraphs": [
           "Tired of fighting against a blunt, heavy line in your thick hair? Chopped layers haircut introduces bold, disconnected pieces that break up the solid shelf.",
@@ -40970,7 +40970,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "8. Textured Wavy Bob For Thin Hair",
-        "image": "assets/layered_fine_hair_141_16.jpg",
+        "image": "assets/curly_over50_271_12.jpg",
         "description": "A textured wavy bob is often recommended as one of the best haircuts to make thin hair look instantly thicker. The bob length gives a strong foundation, while waves and light layering create volume and dimension throughout.\n\nAdding a subtle balayage or soft highlights can further emphasize the texture, which enhances the impression of fullness. For thin hair, the layers should be gentle and focused mainly through the mid‑lengths, keeping the ends blunt enough to look substantial.\n\nThis style is easy to maintain because you can let your natural texture do some of the work or quickly create loose bends with a curling iron. A sea salt spray or light texture mist will help hold the wave and give that effortless, beachy feel without making your hair stiff or sticky.",
         "paragraphs": [
           "A textured wavy bob is often recommended as one of the best haircuts to make thin hair look instantly thicker. The bob length gives a strong foundation, while waves and light layering create volume and dimension throughout.",
@@ -41015,7 +41015,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "11. Medium Length Layers For Thin Hair",
-        "image": "assets/layered_fine_hair_141_14.jpg",
+        "image": "assets/warm_blonde_223_18.jpg",
         "description": "Medium length layers, typically hitting between the shoulders and upper chest, are a great compromise when you want versatility and volume together. This length is long enough to pull into a ponytail or bun but short enough that the hair does not drag itself down and look limp.\n\nLayers are usually moderate and well‑blended, with a bit more shaping around the front to highlight your features. For thin hair, the trick is to avoid overly short or aggressive layers that remove too much weight from the bottom.\n\nInstead, soft graduation through the mid‑lengths keeps things bouncy while a slightly denser perimeter maintains the feeling of thickness. This cut pairs nicely with subtle waves, straight blowouts, or even natural texture, making it a flexible option if you like to change up your styling often.",
         "paragraphs": [
           "Medium length layers, typically hitting between the shoulders and upper chest, are a great compromise when you want versatility and volume together. This length is long enough to pull into a ponytail or bun but short enough that the hair does not drag itself down and look limp.",
@@ -41119,7 +41119,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "18. Soft Waves With Light Layers For Thin Hair",
-        "image": "assets/layered_fine_hair_141_17.jpg",
+        "image": "assets/doc_b_60_11.jpg",
         "description": "Soft waves with light layers create a romantic, floaty look that can make even very fine hair appear more voluminous. In this cut, layers are kept delicate and primarily focused from the mid‑shaft to the ends so they encourage movement but do not thin out the bottom line.\n\nThe result is hair that looks like it has natural lift and bounce, especially when styled with a large curling iron or blowout. This approach works on various lengths, from shoulder‑grazing cuts to longer hair that falls past the chest.\n\nFor thin hair, it is important that your stylist avoids over‑texturizing the ends, which can make waves appear stringy instead of lush. A light mousse or foam applied before drying will help the waves hold while still allowing your hair to feel soft and touchable.",
         "paragraphs": [
           "Soft waves with light layers create a romantic, floaty look that can make even very fine hair appear more voluminous. In this cut, layers are kept delicate and primarily focused from the mid‑shaft to the ends so they encourage movement but do not thin out the bottom line.",
@@ -41144,7 +41144,7 @@ const BLOG_POSTS_DATABASE = [
     "authorAvatar": "assets/cindy_marcus_headshot.jpg",
     "updatedDate": "September 12, 2026",
     "readTime": "8 min read",
-    "thumbnail": "assets/layered_fine_hair_142_23.jpg",
+    "thumbnail": "assets/pastel_hair_color_195_2.jpg",
     "introText": "Fine hair can often feel flat or difficult to shape, but strategic layering is the ultimate solution for adding weightless volume, texture, and natural movement. By carefully removing weight without thinning out your ends, a custom layered cut transforms fine strands into a full, dynamic silhouette.\n\nWhether you prefer face-framing curtain layers, internal texturizing, a choppy shag, or soft feathering around the jawline, matching the right cutting technique to your density and face shape creates long-lasting body and effortless daily styling.\n\nBelow, browse 16+ outstanding layered haircut ideas specifically tailored for fine hair to find your next salon-ready look.",
     "introParagraphs": [
       "Fine hair can often feel flat or difficult to shape, but strategic layering is the ultimate solution for adding weightless volume, texture, and natural movement. By carefully removing weight without thinning out your ends, a custom layered cut transforms fine strands into a full, dynamic silhouette.",
@@ -41154,7 +41154,7 @@ const BLOG_POSTS_DATABASE = [
     "photos": [
       {
         "numberTitle": "1. Tousled Bob with Micro Bangs",
-        "image": "assets/layered_fine_hair_142_23.jpg",
+        "image": "assets/layered_fine_hair_148_15.jpg",
         "description": "Combining a tousled bob with micro bangs offers a contemporary, whimsical touch. This style creates the illusion of thicker hair and suits the proportions of heart-shaped faces beautifully.",
         "paragraphs": [
           "Combining a tousled bob with micro bangs offers a contemporary, whimsical touch. This style creates the illusion of thicker hair and suits the proportions of heart-shaped faces beautifully."
@@ -41167,7 +41167,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "2. Blunt Pixie Cut",
-        "image": "assets/layered_fine_hair_142_37.jpg",
+        "image": "assets/doc_light_ash_7.jpg",
         "description": "Opt for a straightforward yet stylish look with a blunt pixie cut. Even with its simplicity, the precise edges can make fine hair look denser and more pronounced.",
         "paragraphs": [
           "Opt for a straightforward yet stylish look with a blunt pixie cut. Even with its simplicity, the precise edges can make fine hair look denser and more pronounced."
@@ -41180,7 +41180,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "3. Choppy Bob with Side Fringe",
-        "image": "assets/layered_fine_hair_142_29.jpg",
+        "image": "assets/doc_b_67_18.jpg",
         "description": "A choppy bob paired with a delicate side fringe offers a flirty and fun look. The uneven layers contribute to a fuller appearance, playing up the texture of fine hair seamlessly.",
         "paragraphs": [
           "A choppy bob paired with a delicate side fringe offers a flirty and fun look. The uneven layers contribute to a fuller appearance, playing up the texture of fine hair seamlessly."
@@ -41193,7 +41193,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "4. Curly Layered Bob",
-        "image": "assets/layered_fine_hair_142_31.jpg",
+        "image": "assets/doc_b_35_10.jpg",
         "description": "Embrace your natural curls with a layered bob. Short layers enhance the curl’s texture, providing volume and a lively bounce that’s both chic and effortless for fine, curly hair.",
         "paragraphs": [
           "Embrace your natural curls with a layered bob. Short layers enhance the curl’s texture, providing volume and a lively bounce that’s both chic and effortless for fine, curly hair."
@@ -41206,7 +41206,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "5. Soft Layered Pixie with Undercut",
-        "image": "assets/layered_fine_hair_142_30.jpg",
+        "image": "assets/ponytail_hairstyles_203_10.jpg",
         "description": "The soft layered pixie with an undercut combines subtlety and edginess. This hairstyle adds volume to the top while the undercut keeps it neat, crafting a balanced look for fine hair.",
         "paragraphs": [
           "The soft layered pixie with an undercut combines subtlety and edginess. This hairstyle adds volume to the top while the undercut keeps it neat, crafting a balanced look for fine hair."
@@ -41232,7 +41232,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "7. Spiky Pixie with Angled Bangs",
-        "image": "assets/layered_fine_hair_142_20.jpg",
+        "image": "assets/doc_b_60_5.jpg",
         "description": "Embrace boldness with a spiky pixie cut featuring angled bangs. This edgy style builds a striking texture, offering a visual lift to fine hair and complementing heart-shaped faces.",
         "paragraphs": [
           "Embrace boldness with a spiky pixie cut featuring angled bangs. This edgy style builds a striking texture, offering a visual lift to fine hair and complementing heart-shaped faces."
@@ -41258,7 +41258,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "9. Wispy Bangs with Layered Pixie",
-        "image": "assets/layered_fine_hair_142_32.jpg",
+        "image": "assets/doc_b_32_19.jpg",
         "description": "Incorporate wispy bangs into a layered pixie for a soft, featherlike effect. This hairstyle adds a gentle volume and a whimsical touch, making it ideal for injecting lightness into fine hair.",
         "paragraphs": [
           "Incorporate wispy bangs into a layered pixie for a soft, featherlike effect. This hairstyle adds a gentle volume and a whimsical touch, making it ideal for injecting lightness into fine hair."
@@ -41284,7 +41284,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "11. Swept-Back Layered Cut",
-        "image": "assets/layered_fine_hair_142_28.jpg",
+        "image": "assets/layered_fine_hair_146_10.jpg",
         "description": "Opt for a youthful, vibrant look with a swept-back layered cut. This style lifts the hair at the roots, offering a breezy, volumizing effect perfect for fine hair.",
         "paragraphs": [
           "Opt for a youthful, vibrant look with a swept-back layered cut. This style lifts the hair at the roots, offering a breezy, volumizing effect perfect for fine hair."
@@ -41297,7 +41297,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "12. Textured Bob with Side Part",
-        "image": "assets/layered_fine_hair_142_17.jpg",
+        "image": "assets/doc_b_25_5.jpg",
         "description": "A textured bob styled with a deep side part beautifully balances heart-shaped faces, adding volume on one side. It’s a graceful way to enhance fine hair’s natural body.",
         "paragraphs": [
           "A textured bob styled with a deep side part beautifully balances heart-shaped faces, adding volume on one side. It’s a graceful way to enhance fine hair’s natural body."
@@ -41336,7 +41336,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "15. Blunt Cut with Layered Texture",
-        "image": "assets/layered_fine_hair_142_27.jpg",
+        "image": "assets/pastel_hair_color_191_13.jpg",
         "description": "A blunt cut establishes a strong baseline, while added layered texture on top introduces movement and volume, particularly beneficial for revitalizing fine hair.",
         "paragraphs": [
           "A blunt cut establishes a strong baseline, while added layered texture on top introduces movement and volume, particularly beneficial for revitalizing fine hair."
@@ -41362,7 +41362,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "17. Slicked-Back Crop",
-        "image": "assets/layered_fine_hair_142_33.jpg",
+        "image": "assets/bob_haircuts_255_4.jpg",
         "description": "For a sleek and modern look, try a slicked-back crop. This style minimizes weight on the roots, allowing for a subtle lift that makes fine hair appear fuller, while offering a polished finish.",
         "paragraphs": [
           "For a sleek and modern look, try a slicked-back crop. This style minimizes weight on the roots, allowing for a subtle lift that makes fine hair appear fuller, while offering a polished finish."
@@ -41401,7 +41401,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "20. Pixie with Tapered Sides and Volume Top",
-        "image": "assets/layered_fine_hair_142_35.jpg",
+        "image": "assets/doc_b_46_6.jpg",
         "description": "Maximize volume with a pixie featuring tapered sides and a voluminous top. The contrast highlights the fuller area, making fine hair appear thicker, while the tapered sides streamline the look.",
         "paragraphs": [
           "Maximize volume with a pixie featuring tapered sides and a voluminous top. The contrast highlights the fuller area, making fine hair appear thicker, while the tapered sides streamline the look."
@@ -41479,7 +41479,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "26. Messy Layered Crop",
-        "image": "assets/layered_fine_hair_142_21.jpg",
+        "image": "assets/curly_over50_287_21.jpg",
         "description": "A messy layered crop brings an effortless vibe, superb for casual, chic looks. Its strategic layers add bounce and fullness, ideally suited for fine-haired individuals seeking spontaneity.",
         "paragraphs": [
           "A messy layered crop brings an effortless vibe, superb for casual, chic looks. Its strategic layers add bounce and fullness, ideally suited for fine-haired individuals seeking spontaneity."
@@ -41492,7 +41492,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "27. Volumized Pixie with Long Bangs",
-        "image": "assets/layered_fine_hair_142_24.jpg",
+        "image": "assets/warm_blonde_236_4.jpg",
         "description": "A volumized pixie cut enhanced with long bangs grants elegance and sophistication. This style works wonders in adding height and depth to fine hair, framing heart-shaped faces gracefully.",
         "paragraphs": [
           "A volumized pixie cut enhanced with long bangs grants elegance and sophistication. This style works wonders in adding height and depth to fine hair, framing heart-shaped faces gracefully."
@@ -41505,7 +41505,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "28. Half-Shaved Pixie with Side Sweep",
-        "image": "assets/layered_fine_hair_142_36.jpg",
+        "image": "assets/trending_haircuts_220_14.jpg",
         "description": "Dare to be different with a half-shaved pixie complemented by a side sweep. This bold hairstyle draws attention to the volume on top, making it a striking choice for those with fine hair.",
         "paragraphs": [
           "Dare to be different with a half-shaved pixie complemented by a side sweep. This bold hairstyle draws attention to the volume on top, making it a striking choice for those with fine hair."
@@ -41531,7 +41531,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "30. Layered Bob with Outward Curls",
-        "image": "assets/layered_fine_hair_142_34.jpg",
+        "image": "assets/bob_haircuts_260_10.jpg",
         "description": "A bob cut with layers curled outward creates an illusion of thickness and body. This retro-inspired look brings a playful vibe, perfect for adding dimension to fine, straight hair.",
         "paragraphs": [
           "A bob cut with layers curled outward creates an illusion of thickness and body. This retro-inspired look brings a playful vibe, perfect for adding dimension to fine, straight hair."
@@ -41544,7 +41544,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "31. Side-Swept Bangs with Tapered Layers",
-        "image": "assets/layered_fine_hair_142_16.jpg",
+        "image": "assets/doc_cool_ash_11.jpg",
         "description": "Side-swept bangs paired with tapered layers form an elegant, face-framing style, perfect for heart-shaped faces. This combination highlights cheekbones while giving fine hair a thicker look.",
         "paragraphs": [
           "Side-swept bangs paired with tapered layers form an elegant, face-framing style, perfect for heart-shaped faces. This combination highlights cheekbones while giving fine hair a thicker look."
@@ -41570,7 +41570,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "33. Asymmetrical Wavy Pixie",
-        "image": "assets/layered_fine_hair_142_26.jpg",
+        "image": "assets/curly_over50_273_2.jpg",
         "description": "An asymmetrical wavy pixie brings dynamic and an ultra-modern edge. This look not only adds volume but also plays well with the natural lines of heart-shaped faces, making it a bold choice for fine hair.",
         "paragraphs": [
           "An asymmetrical wavy pixie brings dynamic and an ultra-modern edge. This look not only adds volume but also plays well with the natural lines of heart-shaped faces, making it a bold choice for fine hair."
@@ -41583,7 +41583,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "34. Classic Pageboy Cut",
-        "image": "assets/layered_fine_hair_142_25.jpg",
+        "image": "assets/layered_hairstyles_172_13.jpg",
         "description": "The classic pageboy cut, known for its rounded shape and under-curl, offers a timeless charm. It’s particularly beneficial for adding volume around the ends, making fine hair look fuller.",
         "paragraphs": [
           "The classic pageboy cut, known for its rounded shape and under-curl, offers a timeless charm. It’s particularly beneficial for adding volume around the ends, making fine hair look fuller."
@@ -41609,7 +41609,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "36. Sleek Angled Pixie",
-        "image": "assets/layered_fine_hair_142_22.jpg",
+        "image": "assets/modern_haircuts_181_6.jpg",
         "description": "The sleek angled pixie, with its geometric cuts, emphasizes the facial structure, especially flattering for heart-shaped faces. The style maintains simplicity while giving fine hair a denser appearance.",
         "paragraphs": [
           "The sleek angled pixie, with its geometric cuts, emphasizes the facial structure, especially flattering for heart-shaped faces. The style maintains simplicity while giving fine hair a denser appearance."
@@ -41671,7 +41671,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "2. Invisible Layers For Fine Wavy Hair",
-        "image": "assets/layered_fine_hair_143_12.jpg",
+        "image": "assets/doc_b_46_15.jpg",
         "description": "Fine wavy hair often looks flat at the roots yet frizzy at the ends, which invisible layers can help balance. By placing internal layers through the mid-lengths, a stylist gives the waves more room to form while still protecting the outer line from fraying.\n\nThis soft internal structure encourages your natural S-shape and stops the hair from clumping into a few heavy pieces. The waves end up looking more even and intentional, not just like bedhead.\n\nYou can enhance the effect by scrunching in a salt-free, alcohol-free wave spray and allowing your hair to air-dry or diffuse most of the way. Those invisible layers will subtly separate and lift the waves, giving you a beachy, full look without needing a lot of hot tools or heavy styling products.",
         "paragraphs": [
           "Fine wavy hair often looks flat at the roots yet frizzy at the ends, which invisible layers can help balance. By placing internal layers through the mid-lengths, a stylist gives the waves more room to form while still protecting the outer line from fraying.",
@@ -41848,7 +41848,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "14. Invisible Layers Pixie Cut Fine Hair",
-        "image": "assets/layered_fine_hair_143_10.jpg",
+        "image": "assets/doc_b_48_10.jpg",
         "description": "Even a pixie cut can benefit from invisible layers, especially when your fine hair looks too flat at the crown. Instead of carving obvious short layers all over, a stylist creates subtle internal texture in strategic zones like the top and sides.\n\nThis technique adds lift and direction without exposing visible chop marks or making the hair see-through. The perimeter of the pixie can stay slightly longer or more tapered, while the inner sections carry the majority of the texture.\n\nThis allows you to push the hair forward, sweep it to the side, or style it slightly spiky with very little effort. A pea-size amount of lightweight cream or paste rubbed through the crown will bring out those invisible layers and give your fine hair a soft, modern shape without stiffness.",
         "paragraphs": [
           "Even a pixie cut can benefit from invisible layers, especially when your fine hair looks too flat at the crown. Instead of carving obvious short layers all over, a stylist creates subtle internal texture in strategic zones like the top and sides.",
@@ -41878,7 +41878,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "16. Invisible Layers For Fine Curly Hair",
-        "image": "assets/layered_fine_hair_143_11.jpg",
+        "image": "assets/doc_b_48_9.jpg",
         "description": "Fine curly hair often needs shape but can quickly look over-layered if you remove too much weight from the ends. Invisible layers work here by creating discreet internal shaping that maintains bulk while improving movement and definition.\n\nStylists usually cut curls in their natural pattern, then add subtle interior layers to prevent the top from lying too flat. This helps avoid the dreaded “triangle” look and keeps curls from stacking awkwardly at the bottom. On fine curls, the perimeter is kept relatively solid, while a few hidden shorter pieces sit inside to support volume at the crown and sides. Diffusing with a low-heat setting and using a lightweight curl foam rather than heavy cream will let the invisible layers do their job, enhancing spring without collapsing the curl pattern.!",
         "paragraphs": [
           "Fine curly hair often needs shape but can quickly look over-layered if you remove too much weight from the ends. Invisible layers work here by creating discreet internal shaping that maintains bulk while improving movement and definition.",
@@ -43906,7 +43906,7 @@ const BLOG_POSTS_DATABASE = [
     "authorAvatar": "assets/cindy_marcus_headshot.jpg",
     "updatedDate": "September 12, 2026",
     "readTime": "8 min read",
-    "thumbnail": "assets/layered_fine_hair_150_16.jpg",
+    "thumbnail": "assets/curly_over50_280_14.jpg",
     "introText": "Fine hair can often feel flat or difficult to shape, but strategic layering is the ultimate solution for adding weightless volume, texture, and natural movement. By carefully removing weight without thinning out your ends, a custom layered cut transforms fine strands into a full, dynamic silhouette.\n\nWhether you prefer face-framing curtain layers, internal texturizing, a choppy shag, or soft feathering around the jawline, matching the right cutting technique to your density and face shape creates long-lasting body and effortless daily styling.\n\nBelow, browse 16+ outstanding layered haircut ideas specifically tailored for fine hair to find your next salon-ready look.",
     "introParagraphs": [
       "Fine hair can often feel flat or difficult to shape, but strategic layering is the ultimate solution for adding weightless volume, texture, and natural movement. By carefully removing weight without thinning out your ends, a custom layered cut transforms fine strands into a full, dynamic silhouette.",
@@ -43916,7 +43916,7 @@ const BLOG_POSTS_DATABASE = [
     "photos": [
       {
         "numberTitle": "1. Long Fine Hair With Soft Layered Volume At Crown",
-        "image": "assets/layered_fine_hair_150_16.jpg",
+        "image": "assets/curly_hairstyles_294_15.jpg",
         "description": "Creating soft layers focused around the crown is a smart way to cheat extra height and fullness at the top of fine long hair. The layers here are shorter near the upper back of the head and then quickly blend into the longer lengths below.\n\nThat subtle graduation allows the hair at the crown to stand up more easily and prevents it from collapsing throughout the day. Ask your stylist for internal layers or “ghost layers” at the crown so the surface still looks smooth, but the hidden structure adds support.\n\nStyle with a root-lifting spray or mousse, blow-dry lifting sections at the crown straight up with a round brush, and set them with cool air before letting them fall for soft, natural-looking height.",
         "paragraphs": [
           "Creating soft layers focused around the crown is a smart way to cheat extra height and fullness at the top of fine long hair. The layers here are shorter near the upper back of the head and then quickly blend into the longer lengths below.",
@@ -44124,7 +44124,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "15. Long Fine Hair With Soft Layered Face Framing Bangs",
-        "image": "assets/layered_fine_hair_150_15.jpg",
+        "image": "assets/modern_haircuts_183_16.jpg",
         "description": "Face framing bangs that blend into soft layers can give the front of fine long hair a faux thickness boost. Instead of a blunt fringe, these bangs are slightly shorter around the center and then angle down into longer pieces at the sides.\n\nThat gradual transition avoids a heavy line and makes it easier to grow them out if you change your mind. On fine hair, this shape helps camouflage a thin hairline and keeps attention on your eyes and cheekbones. Style by blow-drying the front with a round brush, rolling the bangs back and away from the face, then smoothing the rest of your hair with a paddle or round brush and a light heat protectant cream.",
         "paragraphs": [
           "Face framing bangs that blend into soft layers can give the front of fine long hair a faux thickness boost. Instead of a blunt fringe, these bangs are slightly shorter around the center and then angle down into longer pieces at the sides.",
@@ -44168,7 +44168,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "18. Long Fine Hair With Soft Layered Ends And Highlights",
-        "image": "assets/layered_fine_hair_150_17.jpg",
+        "image": "assets/doc_b_41_20.jpg",
         "description": "Adding highlights to long fine hair with soft layered ends can create the illusion of more strands and depth. The layers at the bottom break up the color slightly, so the lighter pieces catch the light and make the overall shape appear fuller.\n\nIt is important to keep the highlighting technique gentle, like fine weaves or balayage, so you do not over-dry the already delicate hair. Ask for long layers focused on the lower third of your hair and subtle, strategically placed highlights that frame the face and sprinkle through the lengths.\n\nUse a sulfate-free shampoo, nourishing conditioner, and occasional deep treatment to maintain softness, then style with a low-heat blowout or loose waves to show off the color and movement.",
         "paragraphs": [
           "Adding highlights to long fine hair with soft layered ends can create the illusion of more strands and depth. The layers at the bottom break up the color slightly, so the lighter pieces catch the light and make the overall shape appear fuller.",
@@ -44909,7 +44909,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "4. Soft Layers Fine Hair",
-        "image": "assets/layered_fine_hair_153_16.jpg",
+        "image": "assets/doc_b_91_17.jpg",
         "description": "For a look that is understated and elegant, soft layers are the way to go. This technique focuses on creating very subtle transitions between the different lengths of hair.\n\nInstead of sharp or choppy edges, the hair is cut at a gentle angle to ensure everything blends together perfectly. This is an excellent choice for fine hair because it adds body without making the hair look over-processed or “done.” It creates a very natural flow that looks beautiful when air-dried or given a quick smooth over with a flat iron.\n\nSoft layers are ideal for professionals who want a sophisticated look that is easy to maintain and always looks fresh and healthy.",
         "paragraphs": [
           "For a look that is understated and elegant, soft layers are the way to go. This technique focuses on creating very subtle transitions between the different lengths of hair.",
@@ -44954,7 +44954,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "7. Invisible Layers Fine Hair",
-        "image": "assets/layered_fine_hair_153_17.jpg",
+        "image": "assets/doc_b_70_14.jpg",
         "description": "Invisible layering is a high-end salon technique that is specifically designed to tackle the unique needs of fine hair. These layers are cut into the interior sections of the hair using very precise angles that are not visible to the naked eye.\n\nThe result is a haircut that looks like a single length but behaves like a layered one. You get all the lift, bounce, and movement of a layered cut while maintaining the solid, thick-looking ends of a blunt cut.\n\nThis is a perfect “secret weapon” for anyone who feels their hair is too thin for traditional layering. It provides a permanent boost of volume that makes styling your hair much easier every single day.",
         "paragraphs": [
           "Invisible layering is a high-end salon technique that is specifically designed to tackle the unique needs of fine hair. These layers are cut into the interior sections of the hair using very precise angles that are not visible to the naked eye.",
@@ -45802,7 +45802,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "2. Center Parted Layered Butterfly Haircut",
-        "image": "assets/layered_fine_hair_156_15.jpg",
+        "image": "assets/warm_blonde_229_3.jpg",
         "description": "Symmetry offers a clean, modern aesthetic that is incredibly chic right now. The center parted layered butterfly haircut relies on perfectly balanced layers falling evenly on both sides of your face.\n\nThis even distribution is key for fine hair. It ensures that neither side looks thinner than the other. The top layers sweep outward from the center part, creating a beautiful wing-like frame that naturally adds width to your face. The volume is distributed uniformly, making your entire head of hair look dense and full. It is an effortlessly cool style that pairs perfectly with straight, wavy, or slightly curled hair for a sleek everyday look.",
         "paragraphs": [
           "Symmetry offers a clean, modern aesthetic that is incredibly chic right now. The center parted layered butterfly haircut relies on perfectly balanced layers falling evenly on both sides of your face.",
@@ -45993,7 +45993,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "15. Layered Butterfly Haircut With Flipped Ends",
-        "image": "assets/layered_fine_hair_156_16.jpg",
+        "image": "assets/layered_fine_hair_142_4.jpg",
         "description": "Add a playful bounce to your daily routine with a retro-inspired flip. The layered butterfly haircut with flipped ends takes advantage of the cut’s natural layering.\n\nThe shorter top layers are styled to curve upward and away from the face. The longer bottom pieces are flipped out using a round brush or flat iron. This outward curve at the ends creates the illusion of thicker, heavier hair. Fine hair often struggles to hold a curl, but a simple flip is much easier to maintain.\n\nIt adds instant movement and a fun, energetic vibe to your overall appearance. This styling choice makes your butterfly cut look incredibly dynamic.",
         "paragraphs": [
           "Add a playful bounce to your daily routine with a retro-inspired flip. The layered butterfly haircut with flipped ends takes advantage of the cut’s natural layering.",
@@ -46103,7 +46103,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "2. Mid Length Layered Haircut For Thin Hair",
-        "image": "assets/layered_fine_hair_157_17.jpg",
+        "image": "assets/doc_b_91_8.jpg",
         "description": "A mid-length cut that falls just below the collarbone is a very popular choice for thin hair. By adding layers that start around the chin, you can create a tiered effect that boosts volume throughout the entire length.\n\nThis specific style is great because it is not so long that it gets weighed down, but it is long enough to feel glamorous. The layers help to distribute the hair more evenly, preventing the “flat on top, thin on the bottom” look that many struggle with.\n\nIt is a classic, dependable haircut that is easy to style with a blow dryer and a large round brush for a salon-quality finish.",
         "paragraphs": [
           "A mid-length cut that falls just below the collarbone is a very popular choice for thin hair. By adding layers that start around the chin, you can create a tiered effect that boosts volume throughout the entire length.",
@@ -46133,7 +46133,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "4. Textured Layered Lob For Thin Hair",
-        "image": "assets/layered_fine_hair_157_13.jpg",
+        "image": "assets/warm_blonde_234_14.jpg",
         "description": "The long bob, or “lob, ” is a staple for those with fine hair, and adding texture makes it even better. A textured lob features layers that are cut with a point-cutting technique to create soft, uneven ends.\n\nThis prevents the hair from looking too perfect or flat, giving it a more “airy” and voluminous feel. It is a great middle-ground length that is easy to manage while still offering enough hair to play with.\n\nThis cut is often styled with loose waves to emphasize the texture and make the hair look significantly fuller. It is a versatile choice that works for both casual office days and more formal evening events.",
         "paragraphs": [
           "The long bob, or “lob, ” is a staple for those with fine hair, and adding texture makes it even better. A textured lob features layers that are cut with a point-cutting technique to create soft, uneven ends.",
@@ -46191,7 +46191,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "8. Feathered Layered Cut For Thin Hair",
-        "image": "assets/layered_fine_hair_157_16.jpg",
+        "image": "assets/doc_b_82_2.jpg",
         "description": "Feathered layers were a huge trend in the past, and they have made a major comeback for women with fine hair. This technique involves cutting the hair at an angle to create soft, overlapping layers that resemble feathers.\n\nThese layers are light and do not remove too much bulk, which is vital for maintaining a thick appearance. Feathering adds a lot of “air” to the hairstyle, making the strands look much more voluminous and bouncy.\n\nThis style is particularly effective for those with straight or slightly wavy hair. It creates a soft, romantic aesthetic that is very flattering for older women and younger generations alike who want extra hair body.",
         "paragraphs": [
           "Feathered layers were a huge trend in the past, and they have made a major comeback for women with fine hair. This technique involves cutting the hair at an angle to create soft, overlapping layers that resemble feathers.",
@@ -46296,7 +46296,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "15. Tapered Layered Haircut For Thin Hair",
-        "image": "assets/layered_fine_hair_157_15.jpg",
+        "image": "assets/trending_haircuts_216_15.jpg",
         "description": "A tapered layered cut is designed to be fuller at the top and gradually thinner toward the nape of the neck. This structure is excellent for thin hair because it focuses the most volume right where you need it — at the crown of the head.\n\nThe layers are strategically placed to build height and body, while the tapered bottom keeps the style looking clean and intentional. This cut is often seen in shorter or medium-length styles and provides a very professional and polished finish. It is a great way to manage thin hair if you want a look that is both structured and full of life, making it a very popular salon choice.",
         "paragraphs": [
           "A tapered layered cut is designed to be fuller at the top and gradually thinner toward the nape of the neck. This structure is excellent for thin hair because it focuses the most volume right where you need it — at the crown of the head.",
