@@ -1957,6 +1957,7 @@ img {
 
 /* RESPONSIVE MEDIA QUERIES */
 @media (max-width: 1024px) {
+  .header-social-group { display: none !important; }
   .blog-posts-grid { grid-template-columns: repeat(2, 1fr); }
   .hero-blog-card { grid-template-columns: 1fr; gap: 2rem; }
   .hero-blog-media { max-width: 400px; margin: 0 auto; width: 100%; }
