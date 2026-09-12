@@ -75304,7 +75304,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "cocktail-ponytail-with-soft",
+    "id": "cocktail-ponytail-soft-waves",
     "category": "Hairstyles",
     "tag": "HAIRSTYLES",
     "heroTitle": "15+ Cocktail Ponytail with Soft Waves for a Glam Look",
@@ -75502,7 +75502,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "overnight-ponytail-waves-for",
+    "id": "overnight-ponytail-waves",
     "category": "Hairstyles",
     "tag": "HAIRSTYLES",
     "heroTitle": "16+ Overnight Ponytail Waves for Effortless Volume",
@@ -75700,7 +75700,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "beach-waves-ponytail-hairstyle",
+    "id": "beach-waves-ponytail",
     "category": "Hairstyles",
     "tag": "HAIRSTYLES",
     "heroTitle": "17+ Beach Waves Ponytail Hairstyle for a Relaxed Feel",
@@ -75898,7 +75898,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "cocktail-ponytail-with-soft-1",
+    "id": "cocktail-ponytail-waves",
     "category": "Hairstyles",
     "tag": "HAIRSTYLES",
     "heroTitle": "18+ Cocktail Ponytail with Soft Waves to Fall For",
@@ -76096,7 +76096,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "beach-waves-ponytail-hairstyle-1",
+    "id": "beach-waves-ponytail-style",
     "category": "Hairstyles",
     "tag": "HAIRSTYLES",
     "heroTitle": "15+ Beach Waves Ponytail Hairstyle With a Flirty Finish",
@@ -76294,7 +76294,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "red-carpet-ponytail-with",
+    "id": "red-carpet-ponytail-waves",
     "category": "Hairstyles",
     "tag": "HAIRSTYLES",
     "heroTitle": "18+ Red Carpet Ponytail with Waves for a Polished Look",
@@ -76492,7 +76492,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "caramel-ribbons-on-dark",
+    "id": "caramel-ribbons-dark-brown-hair",
     "category": "Hairstyles",
     "tag": "HAIRSTYLES",
     "heroTitle": "15+ Caramel Ribbons on Dark Brown Hair You\u2019ll Love",
@@ -77050,7 +77050,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "chic-dark-brown-hair-1",
+    "id": "chic-dark-brown-hair-style",
     "category": "Hair Color",
     "tag": "HAIR COLOR",
     "heroTitle": "11+ Chic Dark Brown Hair Color You\u2019ll Love",
@@ -77512,7 +77512,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "dark-brown-hair-with",
+    "id": "dark-brown-hair-golden-babylights",
     "category": "Hair Color",
     "tag": "HAIR COLOR",
     "heroTitle": "17+ Dark Brown Hair with Golden Babylights That Stand Out",
@@ -78850,7 +78850,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "concert-bun-hairstyles-for",
+    "id": "concert-bun-hairstyles",
     "category": "Hairstyles",
     "tag": "HAIRSTYLES",
     "heroTitle": "15+ Concert Bun Hairstyles for Your Next Show",
@@ -79246,7 +79246,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "party-bun-with-face",
+    "id": "party-bun-face-framing",
     "category": "Hairstyles",
     "tag": "HAIRSTYLES",
     "heroTitle": "17+ Party Bun With Face Framing Pieces for a Pretty Finish",
@@ -79454,7 +79454,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "dance-practice-bun-hairstyles-1",
+    "id": "dance-practice-bun-movement",
     "category": "Hairstyles",
     "tag": "HAIRSTYLES",
     "heroTitle": "18+ Dance Practice Bun Hairstyles Made for Movement",
@@ -79850,7 +79850,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "bronde-hair-with-money",
+    "id": "bronde-hair-money-piece",
     "category": "Hair Color",
     "tag": "HAIR COLOR",
     "heroTitle": "15+ Bronde Hair with Money Piece for a Brighter Look",
@@ -80048,7 +80048,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "dark-mocha-balayage-with",
+    "id": "dark-mocha-balayage-money-piece",
     "category": "Hair Color",
     "tag": "HAIR COLOR",
     "heroTitle": "16+ Dark Mocha Balayage with Money Piece for Rich Dimension",
@@ -80444,7 +80444,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "face-framing-highlights-for",
+    "id": "face-framing-highlights",
     "category": "Hair Color",
     "tag": "HAIR COLOR",
     "heroTitle": "18+ Face Framing Highlights for a Fresh Update",
@@ -80642,7 +80642,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "purple-money-piece-on",
+    "id": "purple-money-piece-dark-hair",
     "category": "Hair Color",
     "tag": "HAIR COLOR",
     "heroTitle": "13+ Purple Money Piece on Dark Hair for a Bold Touch",
@@ -80830,7 +80830,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "rose-gold-money-piece",
+    "id": "rose-gold-money-piece-hair",
     "category": "Hair Color",
     "tag": "HAIR COLOR",
     "heroTitle": "16+ Rose Gold Money Piece Hair for a Soft Pop of Color",
@@ -81028,7 +81028,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "blue-money-piece-on",
+    "id": "blue-money-piece-black-hair",
     "category": "Hair Color",
     "tag": "HAIR COLOR",
     "heroTitle": "17+ Blue Money Piece on Black Hair for a Striking Contrast",
@@ -81226,7 +81226,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "e-girl-money-piece",
+    "id": "e-girl-money-piece-hair",
     "category": "Hair Color",
     "tag": "HAIR COLOR",
     "heroTitle": "18+ E Girl Money Piece Hair for a Cool Girl Vibe",
@@ -81424,7 +81424,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "money-piece-with-balayage",
+    "id": "money-piece-balayage",
     "category": "Hair Color",
     "tag": "HAIR COLOR",
     "heroTitle": "15+ Money Piece with Balayage for a Seamless Blend",
@@ -81622,7 +81622,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "silver-money-piece-for",
+    "id": "silver-money-piece-gray-transition",
     "category": "Hair Color",
     "tag": "HAIR COLOR",
     "heroTitle": "16+ Silver Money Piece for Gray Transition With a Soft Finish",
@@ -81820,7 +81820,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "black-cherry-balayage-with",
+    "id": "black-cherry-balayage-money-piece",
     "category": "Hair Color",
     "tag": "HAIR COLOR",
     "heroTitle": "17+ Black Cherry Balayage with Money Piece for a Richer Look",
@@ -82018,7 +82018,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "burgundy-money-piece-on",
+    "id": "burgundy-money-piece-dark-hair",
     "category": "Hair Color",
     "tag": "HAIR COLOR",
     "heroTitle": "18+ Burgundy Money Piece on Dark Hair for a Subtle Pop",
@@ -82414,7 +82414,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "face-framing-highlights-for-1",
+    "id": "face-framing-highlights-black-hair",
     "category": "Hair Color",
     "tag": "HAIR COLOR",
     "heroTitle": "16+ Face Framing Highlights for Black Hair With a Bright Finish",
@@ -82612,7 +82612,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "money-piece-for-first",
+    "id": "money-piece-first-time-color",
     "category": "Hair Color",
     "tag": "HAIR COLOR",
     "heroTitle": "17+ Money Piece for First Time Hair Color Made Easy",
@@ -82810,7 +82810,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "natural-looking-money-piece",
+    "id": "natural-looking-money-piece-hair",
     "category": "Hair Color",
     "tag": "HAIR COLOR",
     "heroTitle": "18+ Natural Looking Money Piece Hair for a Subtle Change",
@@ -83008,7 +83008,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "pumpkin-spice-money-piece",
+    "id": "pumpkin-spice-money-piece-hair",
     "category": "Hair Color",
     "tag": "HAIR COLOR",
     "heroTitle": "15+ Pumpkin Spice Money Piece Hair for a Warm Touch",
@@ -83414,7 +83414,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "black-hair-with-silver",
+    "id": "black-hair-silver-money-piece",
     "category": "Hair Color",
     "tag": "HAIR COLOR",
     "heroTitle": "18+ Black Hair with Silver Money Piece for a Bold Contrast",
