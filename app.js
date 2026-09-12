@@ -23,12 +23,12 @@ const BLOG_POSTS_DATABASE = [
     ],
     "photos": [
       {
-        "numberTitle": "1. Stacked Bob For 3a Curls",
+        "numberTitle": "1. Stacked Bob For 3A Curls",
         "image": "assets/curly_hairstyles_289_18.jpg",
-        "description": "Picture a haircut with built-in volume at the back of your head. A stacked bob for 3a curls uses graduated layers at the nape of the neck to create a curved, shelf-like effect.\n\nBecause 3a curls naturally have bounce, this stacked technique pushes the hair upward, giving you incredible lift right at the crown. The front usually sits slightly longer, creating a beautiful contrast between the voluminous back and the sleek front.\n\nIt is a highly architectural cut that requires a skilled stylist, but the results are absolutely stunning. This bob stays perfectly shaped and never falls flat, even on the most humid and challenging days.",
+        "description": "Picture a haircut with built-in volume at the back of your head. A stacked bob for 3A curls uses graduated layers at the nape of the neck to create a curved, shelf-like effect.\n\nBecause 3A curls naturally have bounce, this stacked technique pushes the hair upward, giving you incredible lift right at the crown. The front usually sits slightly longer, creating a beautiful contrast between the voluminous back and the sleek front.\n\nIt is a highly architectural cut that requires a skilled stylist, but the results are absolutely stunning. This bob stays perfectly shaped and never falls flat, even on the most humid and challenging days.",
         "paragraphs": [
-          "Picture a haircut with built-in volume at the back of your head. A stacked bob for 3a curls uses graduated layers at the nape of the neck to create a curved, shelf-like effect.",
-          "Because 3a curls naturally have bounce, this stacked technique pushes the hair upward, giving you incredible lift right at the crown. The front usually sits slightly longer, creating a beautiful contrast between the voluminous back and the sleek front.",
+          "Picture a haircut with built-in volume at the back of your head. A stacked bob for 3A curls uses graduated layers at the nape of the neck to create a curved, shelf-like effect.",
+          "Because 3A curls naturally have bounce, this stacked technique pushes the hair upward, giving you incredible lift right at the crown. The front usually sits slightly longer, creating a beautiful contrast between the voluminous back and the sleek front.",
           "It is a highly architectural cut that requires a skilled stylist, but the results are absolutely stunning. This bob stays perfectly shaped and never falls flat, even on the most humid and challenging days."
         ],
         "benefits": "Defines natural ringlets, adds touchable bounce, and illuminates curl dimension.",
@@ -40,10 +40,10 @@ const BLOG_POSTS_DATABASE = [
       {
         "numberTitle": "2. Rounded Bob With Bangs",
         "image": "assets/curly_hairstyles_289_10.jpg",
-        "description": "Step back into the nineties with a shape that feels completely fresh today. A rounded bob with bangs creates a soft, circular silhouette that hugs your face and highlights your cheekbones.\n\nFor 3a curls, adding curly bangs to a chin-length bob gives the style a retro yet modern twist. The rounded layers are cut specifically to support the natural spring of your ringlets, ensuring the shape holds all day long. The bangs beautifully frame the eyes and forehead, softening your overall look. It is an incredibly charming and feminine cut that brings out the natural bounce in your hair.\n\nYou just need a diffuser to make those bangs pop.",
+        "description": "Step back into the nineties with a shape that feels completely fresh today. A rounded bob with bangs creates a soft, circular silhouette that hugs your face and highlights your cheekbones.\n\nFor 3A curls, adding curly bangs to a chin-length bob gives the style a retro yet modern twist. The rounded layers are cut specifically to support the natural spring of your ringlets, ensuring the shape holds all day long. The bangs beautifully frame the eyes and forehead, softening your overall look. It is an incredibly charming and feminine cut that brings out the natural bounce in your hair.\n\nYou just need a diffuser to make those bangs pop.",
         "paragraphs": [
           "Step back into the nineties with a shape that feels completely fresh today. A rounded bob with bangs creates a soft, circular silhouette that hugs your face and highlights your cheekbones.",
-          "For 3a curls, adding curly bangs to a chin-length bob gives the style a retro yet modern twist. The rounded layers are cut specifically to support the natural spring of your ringlets, ensuring the shape holds all day long. The bangs beautifully frame the eyes and forehead, softening your overall look. It is an incredibly charming and feminine cut that brings out the natural bounce in your hair.",
+          "For 3A curls, adding curly bangs to a chin-length bob gives the style a retro yet modern twist. The rounded layers are cut specifically to support the natural spring of your ringlets, ensuring the shape holds all day long. The bangs beautifully frame the eyes and forehead, softening your overall look. It is an incredibly charming and feminine cut that brings out the natural bounce in your hair.",
           "You just need a diffuser to make those bangs pop."
         ],
         "benefits": "Defines natural ringlets, adds touchable bounce, and illuminates curl dimension.",
@@ -55,10 +55,10 @@ const BLOG_POSTS_DATABASE = [
       {
         "numberTitle": "3. Curly Shag Haircut",
         "image": "assets/curly_hairstyles_289_2.jpg",
-        "description": "Rock and roll vibes meet effortless texture in this trendy cut. The curly shag haircut has made a massive comeback because it relies heavily on layering to create a perfectly messy, lived-in look.\n\nFor 3a curls, this means tons of volume at the crown and perfectly framed pieces around the face. The chopped layers throughout the back and sides ensure your ringlets never look weighed down or bulky. It is a fantastic option if you love that undone, cool-girl aesthetic that requires minimal styling effort in the morning. Just scrunch some mousse into your damp hair and let it air dry.\n\nThe natural shape of the shag does all the heavy lifting for you.",
+        "description": "Rock and roll vibes meet effortless texture in this trendy cut. The curly shag haircut has made a massive comeback because it relies heavily on layering to create a perfectly messy, lived-in look.\n\nFor 3A curls, this means tons of volume at the crown and perfectly framed pieces around the face. The chopped layers throughout the back and sides ensure your ringlets never look weighed down or bulky. It is a fantastic option if you love that undone, cool-girl aesthetic that requires minimal styling effort in the morning. Just scrunch some mousse into your damp hair and let it air dry.\n\nThe natural shape of the shag does all the heavy lifting for you.",
         "paragraphs": [
           "Rock and roll vibes meet effortless texture in this trendy cut. The curly shag haircut has made a massive comeback because it relies heavily on layering to create a perfectly messy, lived-in look.",
-          "For 3a curls, this means tons of volume at the crown and perfectly framed pieces around the face. The chopped layers throughout the back and sides ensure your ringlets never look weighed down or bulky. It is a fantastic option if you love that undone, cool-girl aesthetic that requires minimal styling effort in the morning. Just scrunch some mousse into your damp hair and let it air dry.",
+          "For 3A curls, this means tons of volume at the crown and perfectly framed pieces around the face. The chopped layers throughout the back and sides ensure your ringlets never look weighed down or bulky. It is a fantastic option if you love that undone, cool-girl aesthetic that requires minimal styling effort in the morning. Just scrunch some mousse into your damp hair and let it air dry.",
           "The natural shape of the shag does all the heavy lifting for you."
         ],
         "benefits": "Defines natural ringlets, adds touchable bounce, and illuminates curl dimension.",
@@ -70,10 +70,10 @@ const BLOG_POSTS_DATABASE = [
       {
         "numberTitle": "4. V-Shaped Cut For Long Curls",
         "image": "assets/doc_b_58_14.jpg",
-        "description": "Have you ever noticed how long curly hair can look straggly at the bottom? A V-shaped cut for long curls solves this issue by trimming the hair into a distinct\n\nV at the back. This clever technique removes damaged, thinning ends while preserving maximum length in the center. For 3a curls, this creates a beautiful cascading effect where the ringlets at the front frame the face and the back forms a stunning, thick point. It is a highly romantic and dramatic look that maintains the integrity of your long hair. You get to keep all the length you love while ensuring your curls look thick and healthy from every angle.",
+        "description": "Have you ever noticed how long curly hair can look straggly at the bottom? A V-shaped cut for long curls solves this issue by trimming the hair into a distinct\n\nV at the back. This clever technique removes damaged, thinning ends while preserving maximum length in the center. For 3A curls, this creates a beautiful cascading effect where the ringlets at the front frame the face and the back forms a stunning, thick point. It is a highly romantic and dramatic look that maintains the integrity of your long hair. You get to keep all the length you love while ensuring your curls look thick and healthy from every angle.",
         "paragraphs": [
           "Have you ever noticed how long curly hair can look straggly at the bottom? A V-shaped cut for long curls solves this issue by trimming the hair into a distinct",
-          "V at the back. This clever technique removes damaged, thinning ends while preserving maximum length in the center. For 3a curls, this creates a beautiful cascading effect where the ringlets at the front frame the face and the back forms a stunning, thick point. It is a highly romantic and dramatic look that maintains the integrity of your long hair. You get to keep all the length you love while ensuring your curls look thick and healthy from every angle."
+          "V at the back. This clever technique removes damaged, thinning ends while preserving maximum length in the center. For 3A curls, this creates a beautiful cascading effect where the ringlets at the front frame the face and the back forms a stunning, thick point. It is a highly romantic and dramatic look that maintains the integrity of your long hair. You get to keep all the length you love while ensuring your curls look thick and healthy from every angle."
         ],
         "benefits": "Defines natural ringlets, adds touchable bounce, and illuminates curl dimension.",
         "downsides": "Use sulfate-free curl cleansers and silk bonnets to maintain curl moisture.",
@@ -82,11 +82,11 @@ const BLOG_POSTS_DATABASE = [
         "density": "Naturally Curly & Coily Densities"
       },
       {
-        "numberTitle": "5. Long Layers For 3a Curls",
+        "numberTitle": "5. Long Layers For 3A Curls",
         "image": "assets/curly_hairstyles_289_3.jpg",
-        "description": "Long hair can sometimes drag down your natural texture, making the top look flat while the ends look overwhelming. Long layers for 3a curls offer the ultimate solution by carefully removing just enough bulk to let your ringlets spring to life.\n\nThe longest layer establishes your desired length, while the shorter layers underneath provide the lift and structure your curls crave. This creates a stunning cascading effect that looks incredibly healthy and full of motion. It is perfect for anyone who loves length but refuses to compromise on volume. You can easily pull it into a ponytail or wear it down for dramatic effect. This classic shape never goes out of style.",
+        "description": "Long hair can sometimes drag down your natural texture, making the top look flat while the ends look overwhelming. Long layers for 3A curls offer the ultimate solution by carefully removing just enough bulk to let your ringlets spring to life.\n\nThe longest layer establishes your desired length, while the shorter layers underneath provide the lift and structure your curls crave. This creates a stunning cascading effect that looks incredibly healthy and full of motion. It is perfect for anyone who loves length but refuses to compromise on volume. You can easily pull it into a ponytail or wear it down for dramatic effect. This classic shape never goes out of style.",
         "paragraphs": [
-          "Long hair can sometimes drag down your natural texture, making the top look flat while the ends look overwhelming. Long layers for 3a curls offer the ultimate solution by carefully removing just enough bulk to let your ringlets spring to life.",
+          "Long hair can sometimes drag down your natural texture, making the top look flat while the ends look overwhelming. Long layers for 3A curls offer the ultimate solution by carefully removing just enough bulk to let your ringlets spring to life.",
           "The longest layer establishes your desired length, while the shorter layers underneath provide the lift and structure your curls crave. This creates a stunning cascading effect that looks incredibly healthy and full of motion. It is perfect for anyone who loves length but refuses to compromise on volume. You can easily pull it into a ponytail or wear it down for dramatic effect. This classic shape never goes out of style."
         ],
         "benefits": "Defines natural ringlets, adds touchable bounce, and illuminates curl dimension.",
@@ -98,10 +98,10 @@ const BLOG_POSTS_DATABASE = [
       {
         "numberTitle": "6. Face Framing Layers On Curly Hair",
         "image": "assets/curly_hairstyles_289_17.jpg",
-        "description": "What if you only want to change the front of your hair? Face framing layers on curly hair focus entirely on the pieces that border your face, cutting them to gently curve around your features.\n\nFor 3a curls, this means the front pieces will form beautiful, bouncy ringlets that highlight your eyes, nose, and mouth. The rest of your hair can remain at a uniform length, giving you the best of both worlds.\n\nThis technique softens harsh facial lines and draws attention exactly where you want it. It is a highly customizable option that works with any length, making it incredibly popular for those wanting a subtle yet impactful transformation.",
+        "description": "What if you only want to change the front of your hair? Face framing layers on curly hair focus entirely on the pieces that border your face, cutting them to gently curve around your features.\n\nFor 3A curls, this means the front pieces will form beautiful, bouncy ringlets that highlight your eyes, nose, and mouth. The rest of your hair can remain at a uniform length, giving you the best of both worlds.\n\nThis technique softens harsh facial lines and draws attention exactly where you want it. It is a highly customizable option that works with any length, making it incredibly popular for those wanting a subtle yet impactful transformation.",
         "paragraphs": [
           "What if you only want to change the front of your hair? Face framing layers on curly hair focus entirely on the pieces that border your face, cutting them to gently curve around your features.",
-          "For 3a curls, this means the front pieces will form beautiful, bouncy ringlets that highlight your eyes, nose, and mouth. The rest of your hair can remain at a uniform length, giving you the best of both worlds.",
+          "For 3A curls, this means the front pieces will form beautiful, bouncy ringlets that highlight your eyes, nose, and mouth. The rest of your hair can remain at a uniform length, giving you the best of both worlds.",
           "This technique softens harsh facial lines and draws attention exactly where you want it. It is a highly customizable option that works with any length, making it incredibly popular for those wanting a subtle yet impactful transformation."
         ],
         "benefits": "Defines natural ringlets, adds touchable bounce, and illuminates curl dimension.",
@@ -113,10 +113,10 @@ const BLOG_POSTS_DATABASE = [
       {
         "numberTitle": "7. Long Curly Cut With Curtain Bangs",
         "image": "assets/curly_hairstyles_289_12.jpg",
-        "description": "Want to update your length without a major commitment? A long curly cut with curtain bangs is the perfect gateway style for anyone wanting a change.\n\nCurtain bangs seamlessly blend into the rest of your long hair, creating a gorgeous swooping effect that highlights your eyes and cheekbones. On 3a curls, these bangs form soft, face-framing ringlets that look incredibly romantic and effortless. The rest of your long hair remains intact, providing you with endless styling options like updos and braids. This combination gives you the framing benefits of a shorter cut while preserving the versatility of long locks.\n\nIt is highly flattering for almost every face shape imaginable today.",
+        "description": "Want to update your length without a major commitment? A long curly cut with curtain bangs is the perfect gateway style for anyone wanting a change.\n\nCurtain bangs seamlessly blend into the rest of your long hair, creating a gorgeous swooping effect that highlights your eyes and cheekbones. On 3A curls, these bangs form soft, face-framing ringlets that look incredibly romantic and effortless. The rest of your long hair remains intact, providing you with endless styling options like updos and braids. This combination gives you the framing benefits of a shorter cut while preserving the versatility of long locks.\n\nIt is highly flattering for almost every face shape imaginable today.",
         "paragraphs": [
           "Want to update your length without a major commitment? A long curly cut with curtain bangs is the perfect gateway style for anyone wanting a change.",
-          "Curtain bangs seamlessly blend into the rest of your long hair, creating a gorgeous swooping effect that highlights your eyes and cheekbones. On 3a curls, these bangs form soft, face-framing ringlets that look incredibly romantic and effortless. The rest of your long hair remains intact, providing you with endless styling options like updos and braids. This combination gives you the framing benefits of a shorter cut while preserving the versatility of long locks.",
+          "Curtain bangs seamlessly blend into the rest of your long hair, creating a gorgeous swooping effect that highlights your eyes and cheekbones. On 3A curls, these bangs form soft, face-framing ringlets that look incredibly romantic and effortless. The rest of your long hair remains intact, providing you with endless styling options like updos and braids. This combination gives you the framing benefits of a shorter cut while preserving the versatility of long locks.",
           "It is highly flattering for almost every face shape imaginable today."
         ],
         "benefits": "Defines natural ringlets, adds touchable bounce, and illuminates curl dimension.",
@@ -128,10 +128,10 @@ const BLOG_POSTS_DATABASE = [
       {
         "numberTitle": "8. Inverted Bob For Curly Hair",
         "image": "assets/curly_hairstyles_289_4.jpg",
-        "description": "Picture a cut that is shorter in the back and gradually gets longer toward the front. The inverted bob for curly hair is a fantastic way to embrace the wedge shape while keeping length around your face.\n\nFor 3a curls, this stacked back builds incredible volume at the crown, preventing that dreaded flat-headed look. The longer front pieces beautifully frame your neck and jawline, creating a highly flattering and feminine silhouette.\n\nThis structure supports your bouncy ringlets perfectly, giving them the lift they need to look their best. It is a bold and confident haircut that stays out of your way but looks absolutely stunning on busy days.",
+        "description": "Picture a cut that is shorter in the back and gradually gets longer toward the front. The inverted bob for curly hair is a fantastic way to embrace the wedge shape while keeping length around your face.\n\nFor 3A curls, this stacked back builds incredible volume at the crown, preventing that dreaded flat-headed look. The longer front pieces beautifully frame your neck and jawline, creating a highly flattering and feminine silhouette.\n\nThis structure supports your bouncy ringlets perfectly, giving them the lift they need to look their best. It is a bold and confident haircut that stays out of your way but looks absolutely stunning on busy days.",
         "paragraphs": [
           "Picture a cut that is shorter in the back and gradually gets longer toward the front. The inverted bob for curly hair is a fantastic way to embrace the wedge shape while keeping length around your face.",
-          "For 3a curls, this stacked back builds incredible volume at the crown, preventing that dreaded flat-headed look. The longer front pieces beautifully frame your neck and jawline, creating a highly flattering and feminine silhouette.",
+          "For 3A curls, this stacked back builds incredible volume at the crown, preventing that dreaded flat-headed look. The longer front pieces beautifully frame your neck and jawline, creating a highly flattering and feminine silhouette.",
           "This structure supports your bouncy ringlets perfectly, giving them the lift they need to look their best. It is a bold and confident haircut that stays out of your way but looks absolutely stunning on busy days."
         ],
         "benefits": "Defines natural ringlets, adds touchable bounce, and illuminates curl dimension.",
@@ -141,12 +141,12 @@ const BLOG_POSTS_DATABASE = [
         "density": "Naturally Curly & Coily Densities"
       },
       {
-        "numberTitle": "9. Choppy Bob For 3a Hair",
+        "numberTitle": "9. Choppy Bob For 3A Hair",
         "image": "assets/curly_hairstyles_289_16.jpg",
-        "description": "Are you tired of overly sculpted haircuts that look too perfect? The choppy bob for 3a hair embraces a raw, textured vibe by using uneven, heavily layered cutting techniques.\n\nThis creates a highly dynamic and voluminous shape that looks slightly undone in the most fashionable way possible. Your 3a ringlets will thrive in this unstructured environment, bouncing freely without the constraints of a rigid silhouette. The varying lengths ensure that no single curl clumps together, which reduces bulk and maximizes movement. It is the perfect low-fuss style for anyone who wants their hair to look effortlessly cool.\n\nJust apply some texturizing spray and let your natural texture shine.",
+        "description": "Are you tired of overly sculpted haircuts that look too perfect? The choppy bob for 3A hair embraces a raw, textured vibe by using uneven, heavily layered cutting techniques.\n\nThis creates a highly dynamic and voluminous shape that looks slightly undone in the most fashionable way possible. Your 3A ringlets will thrive in this unstructured environment, bouncing freely without the constraints of a rigid silhouette. The varying lengths ensure that no single curl clumps together, which reduces bulk and maximizes movement. It is the perfect low-fuss style for anyone who wants their hair to look effortlessly cool.\n\nJust apply some texturizing spray and let your natural texture shine.",
         "paragraphs": [
-          "Are you tired of overly sculpted haircuts that look too perfect? The choppy bob for 3a hair embraces a raw, textured vibe by using uneven, heavily layered cutting techniques.",
-          "This creates a highly dynamic and voluminous shape that looks slightly undone in the most fashionable way possible. Your 3a ringlets will thrive in this unstructured environment, bouncing freely without the constraints of a rigid silhouette. The varying lengths ensure that no single curl clumps together, which reduces bulk and maximizes movement. It is the perfect low-fuss style for anyone who wants their hair to look effortlessly cool.",
+          "Are you tired of overly sculpted haircuts that look too perfect? The choppy bob for 3A hair embraces a raw, textured vibe by using uneven, heavily layered cutting techniques.",
+          "This creates a highly dynamic and voluminous shape that looks slightly undone in the most fashionable way possible. Your 3A ringlets will thrive in this unstructured environment, bouncing freely without the constraints of a rigid silhouette. The varying lengths ensure that no single curl clumps together, which reduces bulk and maximizes movement. It is the perfect low-fuss style for anyone who wants their hair to look effortlessly cool.",
           "Just apply some texturizing spray and let your natural texture shine."
         ],
         "benefits": "Defines natural ringlets, adds touchable bounce, and illuminates curl dimension.",
@@ -158,10 +158,10 @@ const BLOG_POSTS_DATABASE = [
       {
         "numberTitle": "10. Short Curly Crop",
         "image": "assets/curly_hairstyles_289_14.jpg",
-        "description": "Feeling the need to start fresh and embrace a wash-and-go lifestyle? The short curly crop is a liberating choice that sits above the ears and exposes your neck and jawline.\n\nFor 3a curls, this means your ringlets will form tight, playful little spirals all over your head. It is an incredibly bold look that showcases your facial features and bone structure. This cut eliminates the hassle of long styling sessions and heavy products. A quick dab of leave-in conditioner and you are out the door. It is fearless, fun, and surprisingly feminine. Plus, it showcases your natural curl pattern in its purest, most uninhibited form.\n\nYou will feel totally refreshed.",
+        "description": "Feeling the need to start fresh and embrace a wash-and-go lifestyle? The short curly crop is a liberating choice that sits above the ears and exposes your neck and jawline.\n\nFor 3A curls, this means your ringlets will form tight, playful little spirals all over your head. It is an incredibly bold look that showcases your facial features and bone structure. This cut eliminates the hassle of long styling sessions and heavy products. A quick dab of leave-in conditioner and you are out the door. It is fearless, fun, and surprisingly feminine. Plus, it showcases your natural curl pattern in its purest, most uninhibited form.\n\nYou will feel totally refreshed.",
         "paragraphs": [
           "Feeling the need to start fresh and embrace a wash-and-go lifestyle? The short curly crop is a liberating choice that sits above the ears and exposes your neck and jawline.",
-          "For 3a curls, this means your ringlets will form tight, playful little spirals all over your head. It is an incredibly bold look that showcases your facial features and bone structure. This cut eliminates the hassle of long styling sessions and heavy products. A quick dab of leave-in conditioner and you are out the door. It is fearless, fun, and surprisingly feminine. Plus, it showcases your natural curl pattern in its purest, most uninhibited form.",
+          "For 3A curls, this means your ringlets will form tight, playful little spirals all over your head. It is an incredibly bold look that showcases your facial features and bone structure. This cut eliminates the hassle of long styling sessions and heavy products. A quick dab of leave-in conditioner and you are out the door. It is fearless, fun, and surprisingly feminine. Plus, it showcases your natural curl pattern in its purest, most uninhibited form.",
           "You will feel totally refreshed."
         ],
         "benefits": "Defines natural ringlets, adds touchable bounce, and illuminates curl dimension.",
@@ -173,9 +173,9 @@ const BLOG_POSTS_DATABASE = [
       {
         "numberTitle": "11. Curly Wolf Cut",
         "image": "assets/curly_hairstyles_289_7.jpg",
-        "description": "Channel your inner wild child with a cut that blends the shag and the mullet. The curly wolf cut is fiercely textured and highly personalized for 3a curls, featuring shorter, choppy layers on top that seamlessly blend into longer lengths at the back.\n\nThis creates incredible height and volume right at the crown, while the face-framing pieces give you a fiercely trendy look. Your loose ringlets will love the freedom and bounce this shape provides. It is an incredibly fun and rebellious style that captures attention wherever you go. Styling is remarkably easy since the entire point of this cut is to embrace a messy, effortlessly cool vibe with natural texture.",
+        "description": "Channel your inner wild child with a cut that blends the shag and the mullet. The curly wolf cut is fiercely textured and highly personalized for 3A curls, featuring shorter, choppy layers on top that seamlessly blend into longer lengths at the back.\n\nThis creates incredible height and volume right at the crown, while the face-framing pieces give you a fiercely trendy look. Your loose ringlets will love the freedom and bounce this shape provides. It is an incredibly fun and rebellious style that captures attention wherever you go. Styling is remarkably easy since the entire point of this cut is to embrace a messy, effortlessly cool vibe with natural texture.",
         "paragraphs": [
-          "Channel your inner wild child with a cut that blends the shag and the mullet. The curly wolf cut is fiercely textured and highly personalized for 3a curls, featuring shorter, choppy layers on top that seamlessly blend into longer lengths at the back.",
+          "Channel your inner wild child with a cut that blends the shag and the mullet. The curly wolf cut is fiercely textured and highly personalized for 3A curls, featuring shorter, choppy layers on top that seamlessly blend into longer lengths at the back.",
           "This creates incredible height and volume right at the crown, while the face-framing pieces give you a fiercely trendy look. Your loose ringlets will love the freedom and bounce this shape provides. It is an incredibly fun and rebellious style that captures attention wherever you go. Styling is remarkably easy since the entire point of this cut is to embrace a messy, effortlessly cool vibe with natural texture."
         ],
         "benefits": "Defines natural ringlets, adds touchable bounce, and illuminates curl dimension.",
@@ -187,10 +187,10 @@ const BLOG_POSTS_DATABASE = [
       {
         "numberTitle": "12. Butterfly Haircut For Curly Hair",
         "image": "assets/curly_hairstyles_289_9.jpg",
-        "description": "Dreaming of volume and face-framing without losing your length? The butterfly haircut for curly hair is exactly what you need.\n\nThis trending cut uses strategically placed, overlapping layers to create a butterfly wing effect, giving you incredible volume at the top while maintaining thick, healthy ends. For 3a curls, this means you get the best of both worlds. The shorter top layers provide the bounce and lift your crown needs, while the bottom layers keep your overall length intact. It beautifully blends the benefits of a short cut with the versatility of long hair.\n\nYou will love the lightweight feel and the bouncy, energetic movement this shape gives your ringlets.",
+        "description": "Dreaming of volume and face-framing without losing your length? The butterfly haircut for curly hair is exactly what you need.\n\nThis trending cut uses strategically placed, overlapping layers to create a butterfly wing effect, giving you incredible volume at the top while maintaining thick, healthy ends. For 3A curls, this means you get the best of both worlds. The shorter top layers provide the bounce and lift your crown needs, while the bottom layers keep your overall length intact. It beautifully blends the benefits of a short cut with the versatility of long hair.\n\nYou will love the lightweight feel and the bouncy, energetic movement this shape gives your ringlets.",
         "paragraphs": [
           "Dreaming of volume and face-framing without losing your length? The butterfly haircut for curly hair is exactly what you need.",
-          "This trending cut uses strategically placed, overlapping layers to create a butterfly wing effect, giving you incredible volume at the top while maintaining thick, healthy ends. For 3a curls, this means you get the best of both worlds. The shorter top layers provide the bounce and lift your crown needs, while the bottom layers keep your overall length intact. It beautifully blends the benefits of a short cut with the versatility of long hair.",
+          "This trending cut uses strategically placed, overlapping layers to create a butterfly wing effect, giving you incredible volume at the top while maintaining thick, healthy ends. For 3A curls, this means you get the best of both worlds. The shorter top layers provide the bounce and lift your crown needs, while the bottom layers keep your overall length intact. It beautifully blends the benefits of a short cut with the versatility of long hair.",
           "You will love the lightweight feel and the bouncy, energetic movement this shape gives your ringlets."
         ],
         "benefits": "Defines natural ringlets, adds touchable bounce, and illuminates curl dimension.",
@@ -200,11 +200,11 @@ const BLOG_POSTS_DATABASE = [
         "density": "Naturally Curly & Coily Densities"
       },
       {
-        "numberTitle": "13. Pixie Cut For 3a Curly Hair",
+        "numberTitle": "13. Pixie Cut For 3A Curly Hair",
         "image": "assets/curly_hairstyles_289_5.jpg",
-        "description": "Ready for a major chop? A pixie cut for 3a curly hair is a striking, bold choice that highlights your facial features and embraces your natural texture in a whole new way.\n\nBy keeping the sides and back closely cropped and leaving a bit more length on top, your loose ringlets have just enough space to form cute, playful spirals. This requires confidence and a willingness to step out of your comfort zone, but the payoff is huge.\n\nYou will spend a fraction of the time getting ready every single morning. A little curl cream is all you need to define those top spirals and hit the road looking amazing.",
+        "description": "Ready for a major chop? A pixie cut for 3A curly hair is a striking, bold choice that highlights your facial features and embraces your natural texture in a whole new way.\n\nBy keeping the sides and back closely cropped and leaving a bit more length on top, your loose ringlets have just enough space to form cute, playful spirals. This requires confidence and a willingness to step out of your comfort zone, but the payoff is huge.\n\nYou will spend a fraction of the time getting ready every single morning. A little curl cream is all you need to define those top spirals and hit the road looking amazing.",
         "paragraphs": [
-          "Ready for a major chop? A pixie cut for 3a curly hair is a striking, bold choice that highlights your facial features and embraces your natural texture in a whole new way.",
+          "Ready for a major chop? A pixie cut for 3A curly hair is a striking, bold choice that highlights your facial features and embraces your natural texture in a whole new way.",
           "By keeping the sides and back closely cropped and leaving a bit more length on top, your loose ringlets have just enough space to form cute, playful spirals. This requires confidence and a willingness to step out of your comfort zone, but the payoff is huge.",
           "You will spend a fraction of the time getting ready every single morning. A little curl cream is all you need to define those top spirals and hit the road looking amazing."
         ],
@@ -215,12 +215,12 @@ const BLOG_POSTS_DATABASE = [
         "density": "Naturally Curly & Coily Densities"
       },
       {
-        "numberTitle": "14. Razored Lob For 3a Hair",
+        "numberTitle": "14. Razored Lob For 3A Hair",
         "image": "assets/curly_hairstyles_289_13.jpg",
-        "description": "Imagine a cut that removes bulk without sacrificing the overall shape of your style. A razored lob for 3a hair uses a razor tool instead of traditional scissors to texturize the ends of your hair.\n\nThis technique creates wispy, feathery ends that allow your loose ringlets to move independently of one another. The result is a beautifully light, airy collarbone-length style that never looks blocky or pyramid-shaped. It adds a modern edge to the classic lob, giving your 3a curls a piecey, effortless finish. If your hair tends to be dense and heavy, this texturizing method will completely change how your curls fall and bounce.\n\nYou will experience incredible movement.",
+        "description": "Imagine a cut that removes bulk without sacrificing the overall shape of your style. A razored lob for 3A hair uses a razor tool instead of traditional scissors to texturize the ends of your hair.\n\nThis technique creates wispy, feathery ends that allow your loose ringlets to move independently of one another. The result is a beautifully light, airy collarbone-length style that never looks blocky or pyramid-shaped. It adds a modern edge to the classic lob, giving your 3A curls a piecey, effortless finish. If your hair tends to be dense and heavy, this texturizing method will completely change how your curls fall and bounce.\n\nYou will experience incredible movement.",
         "paragraphs": [
-          "Imagine a cut that removes bulk without sacrificing the overall shape of your style. A razored lob for 3a hair uses a razor tool instead of traditional scissors to texturize the ends of your hair.",
-          "This technique creates wispy, feathery ends that allow your loose ringlets to move independently of one another. The result is a beautifully light, airy collarbone-length style that never looks blocky or pyramid-shaped. It adds a modern edge to the classic lob, giving your 3a curls a piecey, effortless finish. If your hair tends to be dense and heavy, this texturizing method will completely change how your curls fall and bounce.",
+          "Imagine a cut that removes bulk without sacrificing the overall shape of your style. A razored lob for 3A hair uses a razor tool instead of traditional scissors to texturize the ends of your hair.",
+          "This technique creates wispy, feathery ends that allow your loose ringlets to move independently of one another. The result is a beautifully light, airy collarbone-length style that never looks blocky or pyramid-shaped. It adds a modern edge to the classic lob, giving your 3A curls a piecey, effortless finish. If your hair tends to be dense and heavy, this texturizing method will completely change how your curls fall and bounce.",
           "You will experience incredible movement."
         ],
         "benefits": "Defines natural ringlets, adds touchable bounce, and illuminates curl dimension.",
@@ -230,13 +230,13 @@ const BLOG_POSTS_DATABASE = [
         "density": "Naturally Curly & Coily Densities"
       },
       {
-        "numberTitle": "15. Asymmetrical Bob For 3a Hair",
+        "numberTitle": "15. Asymmetrical Bob For 3A Hair",
         "image": "assets/curly_hairstyles_289_8.jpg",
-        "description": "Why settle for symmetry when you can make a statement? The asymmetrical bob for 3a hair features one side noticeably longer than the other, creating an angular and highly modern silhouette.\n\nThis is incredibly striking on loose curls because the ringlets emphasize the difference in lengths beautifully. The shorter side stays out of your eyes and neck, while the longer side sweeps elegantly below the jawline.\n\nIt adds a unique edge to your everyday appearance without sacrificing the bounce and body that your 3a curls naturally provide. This geometric style is perfect for anyone wanting a sophisticated yet edgy look that turns heads in the best way possible.",
+        "description": "Why settle for symmetry when you can make a statement? The asymmetrical bob for 3A hair features one side noticeably longer than the other, creating an angular and highly modern silhouette.\n\nThis is incredibly striking on loose curls because the ringlets emphasize the difference in lengths beautifully. The shorter side stays out of your eyes and neck, while the longer side sweeps elegantly below the jawline.\n\nIt adds a unique edge to your everyday appearance without sacrificing the bounce and body that your 3A curls naturally provide. This geometric style is perfect for anyone wanting a sophisticated yet edgy look that turns heads in the best way possible.",
         "paragraphs": [
-          "Why settle for symmetry when you can make a statement? The asymmetrical bob for 3a hair features one side noticeably longer than the other, creating an angular and highly modern silhouette.",
+          "Why settle for symmetry when you can make a statement? The asymmetrical bob for 3A hair features one side noticeably longer than the other, creating an angular and highly modern silhouette.",
           "This is incredibly striking on loose curls because the ringlets emphasize the difference in lengths beautifully. The shorter side stays out of your eyes and neck, while the longer side sweeps elegantly below the jawline.",
-          "It adds a unique edge to your everyday appearance without sacrificing the bounce and body that your 3a curls naturally provide. This geometric style is perfect for anyone wanting a sophisticated yet edgy look that turns heads in the best way possible."
+          "It adds a unique edge to your everyday appearance without sacrificing the bounce and body that your 3A curls naturally provide. This geometric style is perfect for anyone wanting a sophisticated yet edgy look that turns heads in the best way possible."
         ],
         "benefits": "Defines natural ringlets, adds touchable bounce, and illuminates curl dimension.",
         "downsides": "Use sulfate-free curl cleansers and silk bonnets to maintain curl moisture.",
@@ -245,11 +245,11 @@ const BLOG_POSTS_DATABASE = [
         "density": "Naturally Curly & Coily Densities"
       },
       {
-        "numberTitle": "16. Tapered Cut For 3a Curls",
+        "numberTitle": "16. Tapered Cut For 3A Curls",
         "image": "assets/curly_hairstyles_289_11.jpg",
-        "description": "Sometimes you just want a clean, structured shape that lets your curls do the talking. A tapered cut for 3a curls keeps the sides and nape of your neck neatly trimmed while allowing more length and volume on top.\n\nThis creates a striking contrast that looks incredibly sharp and intentional. It is a low-maintenance choice that naturally directs all the focus and volume toward the crown of your head. Your loose ringlets will fan out beautifully on top, giving you a stylized, polished look. This is an especially great option if you live in a humid climate and want to keep hair off your neck while still rocking your texture.",
+        "description": "Sometimes you just want a clean, structured shape that lets your curls do the talking. A tapered cut for 3A curls keeps the sides and nape of your neck neatly trimmed while allowing more length and volume on top.\n\nThis creates a striking contrast that looks incredibly sharp and intentional. It is a low-maintenance choice that naturally directs all the focus and volume toward the crown of your head. Your loose ringlets will fan out beautifully on top, giving you a stylized, polished look. This is an especially great option if you live in a humid climate and want to keep hair off your neck while still rocking your texture.",
         "paragraphs": [
-          "Sometimes you just want a clean, structured shape that lets your curls do the talking. A tapered cut for 3a curls keeps the sides and nape of your neck neatly trimmed while allowing more length and volume on top.",
+          "Sometimes you just want a clean, structured shape that lets your curls do the talking. A tapered cut for 3A curls keeps the sides and nape of your neck neatly trimmed while allowing more length and volume on top.",
           "This creates a striking contrast that looks incredibly sharp and intentional. It is a low-maintenance choice that naturally directs all the focus and volume toward the crown of your head. Your loose ringlets will fan out beautifully on top, giving you a stylized, polished look. This is an especially great option if you live in a humid climate and want to keep hair off your neck while still rocking your texture. 20 Best",
           "Root Perm Hairstyles to Elevate Your Look Today"
         ],
@@ -262,10 +262,10 @@ const BLOG_POSTS_DATABASE = [
       {
         "numberTitle": "17. Shoulder Length Blunt Cut",
         "image": "assets/curly_hairstyles_289_6.jpg",
-        "description": "Can you really wear a blunt cut with curls? Absolutely.\n\nA shoulder length blunt cut on 3a curls offers a surprisingly chic and modern aesthetic. Instead of heavy layers, the solid baseline creates a beautiful, heavy perimeter that shows off the density of your hair. Because 3a curls are typically looser and less prone to massive triangular shaping than tighter curl types, this blunt edge helps weigh down the ends just enough to create a gorgeous, polished wave. It rests perfectly on the shoulders, making it easy to style and maintain.\n\nThis minimalist approach highlights the natural shine and health of your ringlets without demanding complicated styling routines.",
+        "description": "Can you really wear a blunt cut with curls? Absolutely.\n\nA shoulder length blunt cut on 3A curls offers a surprisingly chic and modern aesthetic. Instead of heavy layers, the solid baseline creates a beautiful, heavy perimeter that shows off the density of your hair. Because 3A curls are typically looser and less prone to massive triangular shaping than tighter curl types, this blunt edge helps weigh down the ends just enough to create a gorgeous, polished wave. It rests perfectly on the shoulders, making it easy to style and maintain.\n\nThis minimalist approach highlights the natural shine and health of your ringlets without demanding complicated styling routines.",
         "paragraphs": [
           "Can you really wear a blunt cut with curls? Absolutely.",
-          "A shoulder length blunt cut on 3a curls offers a surprisingly chic and modern aesthetic. Instead of heavy layers, the solid baseline creates a beautiful, heavy perimeter that shows off the density of your hair. Because 3a curls are typically looser and less prone to massive triangular shaping than tighter curl types, this blunt edge helps weigh down the ends just enough to create a gorgeous, polished wave. It rests perfectly on the shoulders, making it easy to style and maintain.",
+          "A shoulder length blunt cut on 3A curls offers a surprisingly chic and modern aesthetic. Instead of heavy layers, the solid baseline creates a beautiful, heavy perimeter that shows off the density of your hair. Because 3A curls are typically looser and less prone to massive triangular shaping than tighter curl types, this blunt edge helps weigh down the ends just enough to create a gorgeous, polished wave. It rests perfectly on the shoulders, making it easy to style and maintain.",
           "This minimalist approach highlights the natural shine and health of your ringlets without demanding complicated styling routines."
         ],
         "benefits": "Defines natural ringlets, adds touchable bounce, and illuminates curl dimension.",
@@ -275,11 +275,11 @@ const BLOG_POSTS_DATABASE = [
         "density": "Naturally Curly & Coily Densities"
       },
       {
-        "numberTitle": "18. Layered Lob For 3a Curly Hair",
+        "numberTitle": "18. Layered Lob For 3A Curly Hair",
         "image": "assets/curly_hairstyles_289_1.jpg",
-        "description": "Have you ever struggled with a blunt cut that left your curls looking like a triangle? A layered lob for 3a curly hair completely solves that problem by removing excess weight from the ends while maintaining a versatile length.\n\nThis collarbone-grazing cut allows your natural ringlets to bounce freely and form beautifully without falling flat. The strategically placed layers create movement, giving your hair a lighter and more voluminous appearance. It is an incredibly practical choice for anyone wanting a manageable everyday style that still looks polished. You can wear it sleek or let your spirals run wild for a relaxed weekend vibe.\n\nThis cut makes wash days much simpler.",
+        "description": "Have you ever struggled with a blunt cut that left your curls looking like a triangle? A layered lob for 3A curly hair completely solves that problem by removing excess weight from the ends while maintaining a versatile length.\n\nThis collarbone-grazing cut allows your natural ringlets to bounce freely and form beautifully without falling flat. The strategically placed layers create movement, giving your hair a lighter and more voluminous appearance. It is an incredibly practical choice for anyone wanting a manageable everyday style that still looks polished. You can wear it sleek or let your spirals run wild for a relaxed weekend vibe.\n\nThis cut makes wash days much simpler.",
         "paragraphs": [
-          "Have you ever struggled with a blunt cut that left your curls looking like a triangle? A layered lob for 3a curly hair completely solves that problem by removing excess weight from the ends while maintaining a versatile length.",
+          "Have you ever struggled with a blunt cut that left your curls looking like a triangle? A layered lob for 3A curly hair completely solves that problem by removing excess weight from the ends while maintaining a versatile length.",
           "This collarbone-grazing cut allows your natural ringlets to bounce freely and form beautifully without falling flat. The strategically placed layers create movement, giving your hair a lighter and more voluminous appearance. It is an incredibly practical choice for anyone wanting a manageable everyday style that still looks polished. You can wear it sleek or let your spirals run wild for a relaxed weekend vibe.",
           "This cut makes wash days much simpler."
         ],
