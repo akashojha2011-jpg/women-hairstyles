@@ -74729,7 +74729,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "claw-clip-bun-for-thick",
+    "id": "claw-clip-bun-for-thick-hair",
     "category": "Hairstyles",
     "tag": "HAIR COLOR IDEAS",
     "heroTitle": "17+ Claw Clip Bun for Thick Hair to Inspire You",
