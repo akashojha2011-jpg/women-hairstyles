@@ -89676,12 +89676,14 @@ function renderActiveGalleryPhoto() {
   const photoEl = document.getElementById("galleryPhoto");
   if (photoEl) {
     const newSrc = photo.image || photo.imageUrl;
-    if (photoEl.src !== newSrc) {
+    if (newSrc && !photoEl.src.endsWith(newSrc)) {
       photoEl.style.opacity = "0.5";
       setTimeout(() => {
         photoEl.src = newSrc;
         photoEl.style.opacity = "1";
       }, 50);
+    } else {
+      photoEl.style.opacity = "1";
     }
   }
 
