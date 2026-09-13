@@ -49985,7 +49985,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "light-ash-brown-hair-color-1",
+    "id": "light-ash-brown-hair-copy",
     "category": "Hair Color",
     "tag": "HAIR COLOR IDEAS",
     "heroTitle": "12+ Light Ash Brown Hair Color to Copy",
@@ -50187,7 +50187,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "cool-ash-brown-hair-color-1",
+    "id": "beautiful-cool-ash-brown-hair",
     "category": "Hair Color",
     "tag": "HAIR COLOR IDEAS",
     "heroTitle": "10+ Beautiful Cool Ash Brown Hair Color to Save Now",
@@ -50389,7 +50389,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "dark-ash-brown-hair-color-1",
+    "id": "trendy-dark-ash-brown-hair",
     "category": "Hair Color",
     "tag": "HAIR COLOR IDEAS",
     "heroTitle": "12+ Trendy Dark Ash Brown Hair Color to Try",
@@ -55992,7 +55992,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "ombre-hair-color-24",
+    "id": "chic-ombre-hair-color",
     "category": "Hair Color",
     "tag": "HAIR COLOR IDEAS",
     "heroTitle": "10+ Chic Ombre Hair Color That Turn Heads",
