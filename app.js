@@ -55992,7 +55992,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "ombre-hair-color-24",
+    "id": "ombre-hair-colors",
     "category": "Hair Color",
     "tag": "HAIR COLOR IDEAS",
     "heroTitle": "10+ Chic Ombre Hair Color That Turn Heads",
