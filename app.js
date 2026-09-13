@@ -74082,7 +74082,7 @@ const BLOG_POSTS_DATABASE = [
     "id": "celebrity-inspired-blowout",
     "category": "Hairstyles",
     "tag": "HAIR COLOR IDEAS",
-    "heroTitle": "16+ Celebrity Inspired Blowout",
+    "heroTitle": "16+ Celebrity Inspired Blowout to Try Now",
     "authorName": "Jessica Lee",
     "authorRole": "Senior Colorist",
     "authorAvatar": "assets/silver_highlights.jpg",
