@@ -51202,7 +51202,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "medium-ash-brown-hair-color",
+    "id": "soft-auburn-brown-hair-color",
     "category": "Hair Color",
     "tag": "HAIR COLOR IDEAS",
     "heroTitle": "15+ Soft Auburn Brown Hair Color Ideas That Shine",
@@ -51526,7 +51526,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "golden-ash-brown-hair-color",
+    "id": "cinnamon-auburn-hair-color",
     "category": "Hair Color",
     "tag": "HAIR COLOR IDEAS",
     "heroTitle": "16+ Cinnamon Auburn Hair Color Ideas Worth Trying",
@@ -51850,7 +51850,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "ash-brown-balayage",
+    "id": "beautiful-auburn-hair-color",
     "category": "Hair Color",
     "tag": "HAIR COLOR IDEAS",
     "heroTitle": "17+ Beautiful Auburn Hair Color Ideas That Turn Heads",
@@ -52136,7 +52136,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "smoky-ash-brown-hair-color",
+    "id": "stunning-auburn-hair-color",
     "category": "Hair Color",
     "tag": "HAIR COLOR IDEAS",
     "heroTitle": "13+ Stunning Auburn Hair Color Ideas You'll Obsess Over",
@@ -52367,7 +52367,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "ash-brown-bob-hairstyles",
+    "id": "stylish-auburn-hair-color",
     "category": "Hair Color",
     "tag": "HAIR COLOR IDEAS",
     "heroTitle": "24+ Stylish Auburn Hair Color Ideas for a Fresh Look",
@@ -52793,7 +52793,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "cool-ash-brown-balayage",
+    "id": "auburn-bronde-hair-color",
     "category": "Hair Color",
     "tag": "HAIR COLOR IDEAS",
     "heroTitle": "17+ Auburn Bronde Hair Color Ideas You'll Want Now",
@@ -53115,7 +53115,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "light-ash-brown-balayage",
+    "id": "beautiful-dark-auburn-hair",
     "category": "Hair Color",
     "tag": "HAIR COLOR IDEAS",
     "heroTitle": "11+ Beautiful Dark Auburn Hair Color Ideas That Feel Luxe",
@@ -53320,7 +53320,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "dark-ash-brown-balayage",
+    "id": "deep-auburn-hair-color",
     "category": "Hair Color",
     "tag": "HAIR COLOR IDEAS",
     "heroTitle": "15+ Deep Auburn Hair Color Ideas With Major Dimension",
@@ -53644,7 +53644,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "ash-brown-highlights-guide",
+    "id": "chestnut-auburn-hair-color",
     "category": "Hair Color",
     "tag": "HAIR COLOR IDEAS",
     "heroTitle": "16+ Chestnut Auburn Hair Color Ideas That Glow",
@@ -53936,7 +53936,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "soft-ash-brown-hair-color",
+    "id": "chic-auburn-hair-color",
     "category": "Hair Color",
     "tag": "HAIR COLOR IDEAS",
     "heroTitle": "14+ Chic Auburn Hair Color Ideas With Timeless Appeal",
@@ -54180,7 +54180,7 @@ const BLOG_POSTS_DATABASE = [
     ]
   },
   {
-    "id": "ash-brown-hair-color-collection",
+    "id": "stunning-dark-auburn-hair",
     "category": "Hair Color",
     "tag": "HAIR COLOR IDEAS",
     "heroTitle": "10+ Stunning Dark Auburn Hair Color Ideas That Pop",
