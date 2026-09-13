@@ -49594,8 +49594,7 @@ const BLOG_POSTS_DATABASE = [
     "introParagraphs": [
       "Looking to tone down warmth while maintaining a rich brunette base? Cool ash brown tones combine charcoal and smoky taupe pigments for a velvety, anti-brass finish that radiates sophistication.",
       "Master colorists favor ash undertones for their ability to cancel out unwanted orange reflections, making this shade exceptionally low-maintenance and flattering across all light conditions.",
-      "Below, check out",
-      "11+ curated ash brown hair color ideas to inspire your next color refresh. Be sure to save your favorite dimensional swatches!"
+      "Below, check out 11+ curated ash brown hair color ideas to inspire your next color refresh. Be sure to save your favorite dimensional swatches!"
     ],
     "photos": [
       {
@@ -49798,8 +49797,7 @@ const BLOG_POSTS_DATABASE = [
     "introParagraphs": [
       "Looking to tone down warmth while maintaining a rich brunette base? Cool ash brown tones combine charcoal and smoky taupe pigments for a velvety, anti-brass finish that radiates sophistication.",
       "Master colorists favor ash undertones for their ability to cancel out unwanted orange reflections, making this shade exceptionally low-maintenance and flattering across all light conditions.",
-      "Below, check out",
-      "13+ curated ash brown hair color ideas to inspire your next color refresh. Be sure to save your favorite dimensional swatches!"
+      "Below, check out 13+ curated ash brown hair color ideas to inspire your next color refresh. Be sure to save your favorite dimensional swatches!"
     ],
     "photos": [
       {
@@ -50001,8 +49999,7 @@ const BLOG_POSTS_DATABASE = [
     "introParagraphs": [
       "Looking to tone down warmth while maintaining a rich brunette base? Cool ash brown tones combine charcoal and smoky taupe pigments for a velvety, anti-brass finish that radiates sophistication.",
       "Master colorists favor ash undertones for their ability to cancel out unwanted orange reflections, making this shade exceptionally low-maintenance and flattering across all light conditions.",
-      "Below, check out",
-      "12+ curated ash brown hair color ideas to inspire your next color refresh. Be sure to save your favorite dimensional swatches!"
+      "Below, check out 12+ curated ash brown hair color ideas to inspire your next color refresh. Be sure to save your favorite dimensional swatches!"
     ],
     "photos": [
       {
@@ -50204,8 +50201,7 @@ const BLOG_POSTS_DATABASE = [
     "introParagraphs": [
       "Looking to tone down warmth while maintaining a rich brunette base? Cool ash brown tones combine charcoal and smoky taupe pigments for a velvety, anti-brass finish that radiates sophistication.",
       "Master colorists favor ash undertones for their ability to cancel out unwanted orange reflections, making this shade exceptionally low-maintenance and flattering across all light conditions.",
-      "Below, check out",
-      "10+ curated ash brown hair color ideas to inspire your next color refresh. Be sure to save your favorite dimensional swatches!"
+      "Below, check out 10+ curated ash brown hair color ideas to inspire your next color refresh. Be sure to save your favorite dimensional swatches!"
     ],
     "photos": [
       {
@@ -50407,8 +50403,7 @@ const BLOG_POSTS_DATABASE = [
     "introParagraphs": [
       "Looking to tone down warmth while maintaining a rich brunette base? Cool ash brown tones combine charcoal and smoky taupe pigments for a velvety, anti-brass finish that radiates sophistication.",
       "Master colorists favor ash undertones for their ability to cancel out unwanted orange reflections, making this shade exceptionally low-maintenance and flattering across all light conditions.",
-      "Below, check out",
-      "12+ curated ash brown hair color ideas to inspire your next color refresh. Be sure to save your favorite dimensional swatches!"
+      "Below, check out 12+ curated ash brown hair color ideas to inspire your next color refresh. Be sure to save your favorite dimensional swatches!"
     ],
     "photos": [
       {
@@ -50622,8 +50617,7 @@ const BLOG_POSTS_DATABASE = [
     "introParagraphs": [
       "Looking to tone down warmth while maintaining a rich brunette base? Cool ash brown tones combine charcoal and smoky taupe pigments for a velvety, anti-brass finish that radiates sophistication.",
       "Master colorists favor ash undertones for their ability to cancel out unwanted orange reflections, making this shade exceptionally low-maintenance and flattering across all light conditions.",
-      "Below, check out",
-      "23+ curated ash brown hair color ideas to inspire your next color refresh. Be sure to save your favorite dimensional swatches!"
+      "Below, check out 23+ curated ash brown hair color ideas to inspire your next color refresh. Be sure to save your favorite dimensional swatches!"
     ],
     "photos": [
       {
@@ -51013,8 +51007,7 @@ const BLOG_POSTS_DATABASE = [
     "introParagraphs": [
       "Looking to tone down warmth while maintaining a rich brunette base? Cool ash brown tones combine charcoal and smoky taupe pigments for a velvety, anti-brass finish that radiates sophistication.",
       "Master colorists favor ash undertones for their ability to cancel out unwanted orange reflections, making this shade exceptionally low-maintenance and flattering across all light conditions.",
-      "Below, check out",
-      "11+ curated ash brown hair color ideas to inspire your next color refresh. Be sure to save your favorite dimensional swatches!"
+      "Below, check out 11+ curated ash brown hair color ideas to inspire your next color refresh. Be sure to save your favorite dimensional swatches!"
     ],
     "photos": [
       {
@@ -67302,8 +67295,7 @@ const BLOG_POSTS_DATABASE = [
     "introParagraphs": [
       "Looking to tone down warmth while maintaining a rich brunette base? Cool ash brown tones combine charcoal and smoky taupe pigments for a velvety, anti-brass finish that radiates sophistication.",
       "Master colorists favor ash undertones for their ability to cancel out unwanted orange reflections, making this shade exceptionally low-maintenance and flattering across all light conditions.",
-      "Below, check out",
-      "17+ curated ash brown hair color ideas to inspire your next color refresh. Be sure to save your favorite dimensional swatches!"
+      "Below, check out 17+ curated ash brown hair color ideas to inspire your next color refresh. Be sure to save your favorite dimensional swatches!"
     ],
     "photos": [
       {
@@ -81668,7 +81660,6 @@ const BLOG_POSTS_DATABASE = [
     "introText": "Dark brown hair color isn\u2019t just a classic\u2014it\u2019s the timeless friend who always shows up looking fresh and put together. And let\u2019s be honest, it\u2019s way less high-maintenance than platinum\u2019s dramatic cousin. \ud83d\udc81\u2640\ufe0f AD From silky straight to barely-there waves, dark brown gives every style a rich, polished finish. You\u2019ll find plenty of inspo below, from cuts that whisper \u201cI woke up like this\u201d to waves that scream \u201cI own a blow dryer and I\u2019m not afraid to use it.\u201d Scroll on for dark brown hair color looks that actually do\u00a0work on a Monday morning\u2014and still look great on Friday night.",
     "introParagraphs": [
       "Dark brown hair color isn\u2019t just a classic\u2014it\u2019s the timeless friend who always shows up looking fresh and put together. And let\u2019s be honest, it\u2019s way less high-maintenance than platinum\u2019s dramatic cousin. \ud83d\udc81\u2640\ufe0f",
-      "AD",
       "From silky straight to barely-there waves, dark brown gives every style a rich, polished finish.",
       "You\u2019ll find plenty of inspo below, from cuts that whisper \u201cI woke up like this\u201d to waves that scream \u201cI own a blow dryer and I\u2019m not afraid to use it.\u201d",
       "Scroll on for dark brown hair color looks that actually do\u00a0work on a Monday morning\u2014and still look great on Friday night."
