@@ -89359,7 +89359,7 @@ function initCategoryPage() {
     if (categoryCurrentPage < 1) categoryCurrentPage = 1;
 
     if (badgeEl) {
-      badgeEl.innerHTML = `<i class="fas fa-layer-group"></i> Showing ${matchedPosts.length} article${matchedPosts.length === 1 ? '' : 's'}`;
+      badgeEl.style.display = "none";
     }
 
     if (gridEl) {
