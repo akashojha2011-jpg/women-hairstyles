@@ -70004,7 +70004,7 @@ const BLOG_POSTS_DATABASE = [
     "id": "caramel-bronde-balayage-for-brunettes",
     "category": "Hair Color",
     "tag": "HAIR COLOR IDEAS",
-    "heroTitle": "16+ Caramel Bronde Balayage for Brunettes 2 to Try",
+    "heroTitle": "16+ Caramel Bronde Balayage for Brunettes to Try",
     "authorName": "Jessica Lee",
     "authorRole": "Senior Colorist",
     "authorAvatar": "assets/silver_highlights.jpg",
