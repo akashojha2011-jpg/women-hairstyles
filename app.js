@@ -89263,7 +89263,7 @@ function renderPaginationControls(container, currentPage, totalPages, totalItems
         ${buttonsHTML}
         ${nextBtn}
       </div>
-      <div class="pagination-info">Page ${currentPage} of ${totalPages} (${totalItems} total articles)</div>
+      <div class="pagination-info">Page ${currentPage} of ${totalPages}</div>
     </div>
   `;
 
