@@ -35284,11 +35284,11 @@ const BLOG_POSTS_DATABASE = [
     "updatedDate": "September 12, 2026",
     "readTime": "8 min read",
     "thumbnail": "assets/modern_haircuts_182_11.jpg",
-    "introText": "The butterfly haircut continues to lead modern hair trends, offering multi-dimensional volume and sweeping face-framing curtain layers without sacrificing length.\n\nBy cascading shorter crown layers into longer back tiers, the butterfly cut creates a fluttering, voluminous shape that can be styled into a fake bob or worn in loose 90s waves.\n\nBelow, check out 2+ gorgeous butterfly haircut ideas to save for your next salon visit.",
+    "introText": "The butterfly haircut continues to lead modern hair trends, offering multi-dimensional volume and sweeping face-framing curtain layers without sacrificing length.\n\nBy cascading shorter crown layers into longer back tiers, the butterfly cut creates a fluttering, voluminous shape that can be styled into a fake bob or worn in loose 90s waves.\n\nBelow, check out 24+ gorgeous butterfly haircut ideas to save for your next salon visit.",
     "introParagraphs": [
       "The butterfly haircut continues to lead modern hair trends, offering multi-dimensional volume and sweeping face-framing curtain layers without sacrificing length.",
       "By cascading shorter crown layers into longer back tiers, the butterfly cut creates a fluttering, voluminous shape that can be styled into a fake bob or worn in loose 90s waves.",
-      "Below, check out 2+ gorgeous butterfly haircut ideas to save for your next salon visit."
+      "Below, check out 24+ gorgeous butterfly haircut ideas to save for your next salon visit."
     ],
     "photos": [
       {
