@@ -81667,7 +81667,7 @@ const BLOG_POSTS_DATABASE = [
     "photos": [
       {
         "numberTitle": "1. Silky Straight Layers with Dark Brown Color",
-        "description": "Credit",
+        "description": "Pin-straight dark brown layers fall with fluid movement and brilliant glass-like shine. The dark brunette tone provides rich depth, highlighting the clean lines of multi-length layering.",
         "imageUrl": "assets/chic-dark-brown-hair_1.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -81678,7 +81678,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "2. Medium-Length Angled Cut",
-        "description": "Credit",
+        "description": "A sharp angled cut angled forward towards the collarbone brings crisp modern structure to dark brown hair. The rich tone emphasizes the dramatic slant and smooth texture of the cut.",
         "imageUrl": "assets/chic-dark-brown-hair_2.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -81689,7 +81689,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "3. Classic Blunt Bob on Glossy Dark Brown",
-        "description": "Credit",
+        "description": "A classic blunt bob in glossy dark brown creates a striking, geometric frame for the face. The solid dark tone makes fine ends look noticeably thicker and healthier.",
         "imageUrl": "assets/chic-dark-brown-hair_3.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -81700,7 +81700,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "4. Feathered V-Layer Cut on Long Dark Brown",
-        "description": "Credit",
+        "description": "Long V-shaped layers feather gently towards the back, creating a flattering cascading silhouette. The deep dark brown color gives the feathered ends a rich, cohesive feel.",
         "imageUrl": "assets/chic-dark-brown-hair_4.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -81711,7 +81711,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "5. Pin-Straight Long Cut with Deep Dark Brown Color",
-        "description": "Credit",
+        "description": "Extra-long, pin-straight hair in deep dark brown makes a bold, elegant statement. High-gloss shine treatment maximizes light reflection along the entire length.",
         "imageUrl": "assets/chic-dark-brown-hair_5.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -81722,7 +81722,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "6. Loose Wavy Layers with Curtain Bangs",
-        "description": "Credit",
+        "description": "Soft curtain bangs blend effortlessly into loose wavy layers, framing the face with effortless style. The rich dark brown base accentuates the soft, swooping shape of the fringe.",
         "imageUrl": "assets/chic-dark-brown-hair_6.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -81733,7 +81733,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "7. Voluminous Dark Brown Waves with Face-Framing Layers",
-        "description": "Credit",
+        "description": "Face-framing layers combined with voluminous body waves add fullness around the cheekbones. The dark brown hue adds depth that makes the hair look lush and voluminous.",
         "imageUrl": "assets/chic-dark-brown-hair_7.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -81744,7 +81744,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "8. Glamorous Beach Waves on Long Hair",
-        "description": "Credit",
+        "description": "Glamorous beach waves on long dark brown hair achieve a relaxed yet sophisticated look. Subtle texture throughout mid-lengths breaks up solid color for lived-in dimension.",
         "imageUrl": "assets/chic-dark-brown-hair_8.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -81755,7 +81755,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "9. Sleek Shoulder-Grazing Lob",
-        "description": "Credit",
+        "description": "A shoulder-grazing long bob in sleek dark brown combines low-maintenance length with crisp elegance. The ends rest gently on the shoulders, curling inward or outward with ease.",
         "imageUrl": "assets/chic-dark-brown-hair_9.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -81766,7 +81766,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "10. Soft Boho Curls with Natural-Looking Dark Brown Hair",
-        "description": "Credit",
+        "description": "Organic boho curls bring relaxed texture and natural body to dark brown hair. The soft, defined ringlets catch light across the crown and mid-lengths.",
         "imageUrl": "assets/chic-dark-brown-hair_10.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -81777,7 +81777,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "11. Sun-Kissed Waves with Soft Dark Brown",
-        "description": "Credit",
+        "description": "Soft dark brown hair gets a subtle lift with sun-kissed chocolate tones through the ends. Gentle waves bring out the faint warmth, creating natural-looking dimension.",
         "imageUrl": "assets/chic-dark-brown-hair_11.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -81788,7 +81788,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "12. Rich Glossy Curls",
-        "description": "Credit",
+        "description": "Deeply hydrated, rich glossy curls in dark brown deliver intense bounce and light reflection. The dark base defines each curl pattern with clarity.",
         "imageUrl": "assets/chic-dark-brown-hair_12.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -81799,7 +81799,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "13. Natural Dimension in Long Waves",
-        "description": "Credit",
+        "description": "Long, flowing waves feature subtle natural tone shifts from deep espresso to dark chocolate, giving the hair organic depth and fluid movement.",
         "imageUrl": "assets/chic-dark-brown-hair_13.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -81810,7 +81810,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "14. Hollywood-Inspired Long Waves with Luxurious Dark Brown Hair Color",
-        "description": "Credit",
+        "description": "Red-carpet-worthy Hollywood waves deliver smooth, structured curves in a luxurious dark brown shade. Uniform wave alignment creates continuous high-gloss shine.",
         "imageUrl": "assets/chic-dark-brown-hair_14.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -81821,7 +81821,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "15. Romantic Side-Parted Curls with Deep Dark Brown Color",
-        "description": "Credit",
+        "description": "A dramatic side part directs deep dark brown curls over one shoulder for a romantic, timeless style. The deep brunette shade provides dramatic contrast and elegance.",
         "imageUrl": "assets/chic-dark-brown-hair_15.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82068,7 +82068,7 @@ const BLOG_POSTS_DATABASE = [
     "photos": [
       {
         "numberTitle": "1. Dark Brown Cascade Waves",
-        "description": "Credit",
+        "description": "Flowing dark brown cascade waves provide dramatic volume and classic elegance. The deep brunette base catches the light along smooth wave curves, giving the hair a healthy, liquid-gloss finish.",
         "imageUrl": "assets/chic-dark-brown-hair-style_1.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82079,7 +82079,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "2. Soft Layered Dark Brown Blowout",
-        "description": "Credit",
+        "description": "A full-bodied blowout highlights the subtle dimension of soft dark brown layers. The round-brush technique lifts roots and sweeps ends outward for weightless movement and shape.",
         "imageUrl": "assets/chic-dark-brown-hair-style_2.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82090,7 +82090,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "3. Sleek Dark Brown Glam Waves",
-        "description": "Credit",
+        "description": "Sleek glam waves offer a polished, camera-ready style set in a rich dark brown shade. Uniform S-waves create a seamless surface that reflects a smooth, glassy sheen.",
         "imageUrl": "assets/chic-dark-brown-hair-style_3.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82101,7 +82101,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "4. Glossy Dark Brown Hollywood Waves",
-        "description": "Credit",
+        "description": "Classic Hollywood waves feature sculpted, vintage-inspired ridges enhanced by a glossy dark brown finish. The deep brunette tone accentuates the precise structure of every wave curve.",
         "imageUrl": "assets/chic-dark-brown-hair-style_4.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82112,7 +82112,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "5. Dimensional Dark Brown with Soft Face-Framing Layers",
-        "description": "Credit",
+        "description": "Soft face-framing layers draw attention to facial features while showcasing subtle dimensional tones within a rich dark brown base. The shorter front pieces add softness around the jawline.",
         "imageUrl": "assets/chic-dark-brown-hair-style_5.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82123,7 +82123,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "6. Dark Brown Collarbone Layers",
-        "description": "Credit",
+        "description": "Collarbone-length layers in deep dark brown hit the perfect balance between manageable length and styling versatility. Light texturizing at the ends prevents the hair from sitting heavy.",
         "imageUrl": "assets/chic-dark-brown-hair-style_6.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82134,7 +82134,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "7. Rich Dark Brown Tousled Waves",
-        "description": "Credit",
+        "description": "Relaxed tousled waves add effortless texture to rich dark brown hair. The piecey ends break up uniform color for a lived-in look that feels casual yet refined.",
         "imageUrl": "assets/chic-dark-brown-hair-style_7.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82145,7 +82145,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "8. Ultra-Voluminous Dark Brown Barrel Waves",
-        "description": "Credit",
+        "description": "Large barrel waves create massive body and dramatic movement throughout dark brown hair. High-shine finishing spray amplifies the deep brunette depth under any lighting.",
         "imageUrl": "assets/chic-dark-brown-hair-style_8.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82156,7 +82156,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "9. Natural Dark Brown Loose Texture",
-        "description": "Credit",
+        "description": "Loose, natural texture enhances the effortless charm of deep dark brown hair. Minimalist styling lets the hair's natural body and organic movement shine through.",
         "imageUrl": "assets/chic-dark-brown-hair-style_9.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82167,7 +82167,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "10. Dimensional Dark Brown Deep Waves",
-        "description": "Credit",
+        "description": "Deeply sculpted waves showcase subtle tonal variations from dark espresso to warm mahogany. The deep wave pattern creates shadows and highlights that bring out multi-dimensional richness.",
         "imageUrl": "assets/chic-dark-brown-hair-style_10.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82178,7 +82178,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "11. Soft Dark Brown Texture Waves",
-        "description": "Credit",
+        "description": "Soft, airy texture waves soften dark brown hair, creating a modern, relaxed silhouette. Feathered ends add movement while maintaining full density.",
         "imageUrl": "assets/chic-dark-brown-hair-style_11.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82189,7 +82189,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "12. Dark Brown Loose Ripple Layers",
-        "description": "Credit",
+        "description": "Gentle ripple layers add subtle movement through the lengths of dark brown hair. The fluid wave pattern creates continuous shine without overwhelming natural hair texture.",
         "imageUrl": "assets/chic-dark-brown-hair-style_12.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82221,7 +82221,7 @@ const BLOG_POSTS_DATABASE = [
     "photos": [
       {
         "numberTitle": "1. Soft Wavy Bob in Chocolate Brown",
-        "description": "Credit",
+        "description": "A soft wavy bob in chocolate brown combines playful chin-length texture with a rich, inviting shade. Gentle waves add natural volume around the cheeks.",
         "imageUrl": "assets/trendy-chocolate-brown-hair_1.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82232,7 +82232,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "2. Chocolate Brown Long Layers with Face-Framing Curtain Bangs",
-        "description": "Credit",
+        "description": "Chocolate brown long layers paired with soft curtain bangs frame the cheekbones effortlessly. The warm brown tones complement the sweeping shape of the fringe.",
         "imageUrl": "assets/trendy-chocolate-brown-hair_2.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82243,7 +82243,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "3. Dimensional Chocolate Brown Waves with Subtle Ribbon Highlights",
-        "description": "Credit",
+        "description": "Subtle ribbon highlights in warm caramel accent a chocolate brown base, catching light as waves move. The fine placement adds multi-dimensional warmth.",
         "imageUrl": "assets/trendy-chocolate-brown-hair_3.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82254,7 +82254,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "4. Classic Chocolate Brown Hollywood Waves",
-        "description": "Credit",
+        "description": "Classic Hollywood waves in chocolate brown bring vintage glam to life. Sculpted, uniform wave ridges create a continuous ribbon of high-gloss shine.",
         "imageUrl": "assets/trendy-chocolate-brown-hair_4.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82265,7 +82265,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "5. Glossy Chocolate Brown Mid-Length Curls",
-        "description": "Credit",
+        "description": "Mid-length curls in glossy chocolate brown bounce with vitality. Deep conditioning keeps the rich brown color vibrant and defined.",
         "imageUrl": "assets/trendy-chocolate-brown-hair_5.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82276,7 +82276,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "6. Chocolate Brown Lived-In Waves with Soft Volume",
-        "description": "Credit",
+        "description": "Lived-in chocolate brown waves deliver effortless texture with soft crown volume. Perfect for casual styling that looks polished.",
         "imageUrl": "assets/trendy-chocolate-brown-hair_6.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82287,7 +82287,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "7. Chocolate Brown Textured Lob with Loose Movement",
-        "description": "Credit",
+        "description": "A textured long bob in chocolate brown features undone loose waves and piecey ends, giving classic brunette a modern edge.",
         "imageUrl": "assets/trendy-chocolate-brown-hair_7.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82298,7 +82298,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "8. Deep Chocolate Brown Waves with a High-Gloss Finish",
-        "description": "Credit",
+        "description": "Deep chocolate brown waves finished with high-gloss shine reflect light beautifully, emphasizing healthy hair texture.",
         "imageUrl": "assets/trendy-chocolate-brown-hair_8.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82309,7 +82309,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "9. Chocolate Brown Sculpted S-Waves",
-        "description": "Credit",
+        "description": "Sculpted S-waves in chocolate brown highlight precision styling. Smooth, defined curves show off rich chocolate tones.",
         "imageUrl": "assets/trendy-chocolate-brown-hair_9.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82320,7 +82320,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "10. Chocolate Brown Layers with Feathered Ends and Soft Fringe",
-        "description": "Credit",
+        "description": "Feathered ends and a soft fringe add airy texture to chocolate brown layers, creating a romantic, lightweight look.",
         "imageUrl": "assets/trendy-chocolate-brown-hair_10.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82331,7 +82331,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "11. Chocolate Brown Long Layers with Soft Brushed Curls",
-        "description": "Credit",
+        "description": "Soft, brushed-out curls create romantic volume through long chocolate brown layers, blending ringlets into seamless body waves.",
         "imageUrl": "assets/trendy-chocolate-brown-hair_11.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82342,7 +82342,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "12. Chocolate Brown Shoulder-Length Waves with Natural Dimension",
-        "description": "Credit",
+        "description": "Shoulder-length waves in chocolate brown feature soft natural dimension, catching ambient light for a multi-tonal brunette finish.",
         "imageUrl": "assets/trendy-chocolate-brown-hair_12.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82374,7 +82374,7 @@ const BLOG_POSTS_DATABASE = [
     "photos": [
       {
         "numberTitle": "1. Soft Waves with Classic Chocolate Brown",
-        "description": "Credit",
+        "description": "Classic chocolate brown comes to life when paired with soft, cascading waves. This timeless shade features balanced warm and cool undertones, reflecting light along every bend of the wave for a smooth, high-gloss finish.",
         "imageUrl": "assets/beautiful-chocolate-brown-hair_1.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82385,7 +82385,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "2. Layered Volume with Deep Mocha Brown",
-        "description": "Credit",
+        "description": "Deep mocha brown adds rich depth to long, voluminous layers. The darker undertones create visual density, while face-framing cuts give the hair dynamic movement without looking heavy.",
         "imageUrl": "assets/beautiful-chocolate-brown-hair_2.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82396,7 +82396,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "3. Dimensional Curls with Warm Cocoa Brown",
-        "description": "Credit",
+        "description": "Warm cocoa brown accentuates natural curls by highlighting every curve. The subtle golden and reddish undertones catch sunlight, giving tight and loose curls a rich, multi-dimensional glow.",
         "imageUrl": "assets/beautiful-chocolate-brown-hair_3.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82407,7 +82407,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "4. Beachy Texture with Glossy Chocolate Brown",
-        "description": "Credit",
+        "description": "Combine relaxed beach waves with a high-shine chocolate brown gloss for an effortless, undone aesthetic. The reflective finish keeps casual texture looking healthy, polished, and full of life.",
         "imageUrl": "assets/beautiful-chocolate-brown-hair_4.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82418,7 +82418,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "5. Subtle Waves with Espresso-Toned Chocolate",
-        "description": "Credit",
+        "description": "Espresso-toned chocolate brown blends deep brown-black roots with softer mid-length tones. Gentle waves break up the solid color, adding dimensional interest while keeping the overall hue ultra-rich.",
         "imageUrl": "assets/beautiful-chocolate-brown-hair_5.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82429,7 +82429,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "6. Sleek Layers with Neutral Chocolate Tint",
-        "description": "Credit",
+        "description": "Neutral chocolate brown offers a balanced, sophisticated finish on straight, sleek layers. Free from excess warmth or brassiness, this clean tone showcases precise cutting work with pristine clarity.",
         "imageUrl": "assets/beautiful-chocolate-brown-hair_6.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82440,7 +82440,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "7. Classic Curls with Rich Truffle Brown",
-        "description": "Credit",
+        "description": "Rich truffle brown gives classic bouncy curls a luxurious depth. The deep cocoa tone reflects light beautifully across defined ringlets, enhancing bounce and structural clarity.",
         "imageUrl": "assets/beautiful-chocolate-brown-hair_7.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82451,7 +82451,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "8. Mid-Length Waves with Cool Chocolate Brown",
-        "description": "Credit",
+        "description": "Cool chocolate brown is ideal for those who prefer ash and smoky undertones over golden warmth. Paired with mid-length waves, it creates a modern, understated aesthetic that flatters cool skin tones.",
         "imageUrl": "assets/beautiful-chocolate-brown-hair_8.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82462,7 +82462,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "9. Textured Layers with Chestnut-Infused Chocolate",
-        "description": "Credit",
+        "description": "Chestnut-infused chocolate brown brings subtle reddish-bronze warmth into a dark brown base. Multi-tiered texturized layers showcase the shifting tones as light catches the hair from different angles.",
         "imageUrl": "assets/beautiful-chocolate-brown-hair_9.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82473,7 +82473,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "10. Retro Waves with Glossed Brown Finish",
-        "description": "Credit",
+        "description": "Retro-inspired glamour waves take on a modern touch with an ultra-glossy chocolate brown finish. Smooth, uniform wave patterns highlight the seamless saturation of this rich brunette color.",
         "imageUrl": "assets/beautiful-chocolate-brown-hair_10.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82484,7 +82484,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "11. Mid-Length Waves with Dark Chocolate Shine",
-        "description": "Credit",
+        "description": "Dark chocolate shine brings a rich, velvety feel to shoulder-skimming waves. The subtle contrast between deep roots and reflective mid-lengths adds movement without requiring light highlights.",
         "imageUrl": "assets/beautiful-chocolate-brown-hair_11.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82495,7 +82495,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "12. Feathered Layers with Soft Milk Chocolate Brown",
-        "description": "Credit",
+        "description": "Soft milk chocolate brown delivers a lighter, warmer brunette hue that pairs seamlessly with feathered layers. The sweeping ends create a soft, airy silhouette with a sun-lit touch.",
         "imageUrl": "assets/beautiful-chocolate-brown-hair_12.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82506,7 +82506,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "13. Structured Curls with Cocoa Bean Tones",
-        "description": "Credit",
+        "description": "Cocoa bean tones offer a deep, grounding brunette base for structured ringlets. The rich pigment gives curls definition and weight, ensuring a healthy, full-bodied appearance.",
         "imageUrl": "assets/beautiful-chocolate-brown-hair_13.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82517,7 +82517,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "14. Long Layers with Deep Ash Chocolate",
-        "description": "Credit",
+        "description": "Deep ash chocolate brown keeps long, cascading layers looking sleek and refined. The cool-toned undertones neutralize unwanted warmth, giving long hair a polished, salon-fresh aesthetic.",
         "imageUrl": "assets/beautiful-chocolate-brown-hair_14.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82528,7 +82528,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "15. Blunt Ends with Neutral Cocoa Brown",
-        "description": "Credit",
+        "description": "Neutral cocoa brown highlights the crisp lines of a blunt cut. The solid, glossy color density makes fine or medium hair appear noticeably thicker and healthier.",
         "imageUrl": "assets/beautiful-chocolate-brown-hair_15.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -82539,7 +82539,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "16. Full-Length Waves with Chocolate Raisin Tint",
-        "description": "Credit",
+        "description": "Chocolate raisin brown introduces a hint of deep mahogany and plum to a classic brunette foundation. Full-length waves bring out these subtle dimensional tones with movement and elegance.",
         "imageUrl": "assets/beautiful-chocolate-brown-hair_16.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -83866,7 +83866,7 @@ const BLOG_POSTS_DATABASE = [
     "photos": [
       {
         "numberTitle": "1. Long Soft Waves with Espresso Dark Brown Hair",
-        "description": "Credit",
+        "description": "Espresso dark brown hair styled in long, soft waves exudes sophisticated elegance. The near-black brunette shade absorbs and reflects light for a deep, velvety finish.",
         "imageUrl": "assets/stylish-dark-brown-hair_1.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -83877,7 +83877,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "2. Sleek Long Layers with Inky Dark Brown Hair",
-        "description": "Credit",
+        "description": "Inky dark brown hair with sleek long layers delivers a sharp, dramatic silhouette. The deep midnight tones emphasize the crisp precision of straight layering.",
         "imageUrl": "assets/stylish-dark-brown-hair_2.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -83888,7 +83888,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "3. Glossy Mid-Length Waves with Chocolate Dark Brown Hair",
-        "description": "Credit",
+        "description": "Chocolate dark brown hair cut to mid-length features glossy waves that hit right at the collarbone. The warm cocoa undertones add touchable softness.",
         "imageUrl": "assets/stylish-dark-brown-hair_3.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -83899,7 +83899,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "4. Extra-Long Mermaid Waves with Deep Brunette Hair",
-        "description": "Credit",
+        "description": "Cascading mermaid waves in extra-long deep brunette create a dramatic, flowing look. The continuous wave motion highlights healthy shine from roots to tips.",
         "imageUrl": "assets/stylish-dark-brown-hair_4.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -83910,7 +83910,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "5. Long Face-Framing Layers with Cool Dark Brown Hair",
-        "description": "Credit",
+        "description": "Cool dark brown hair paired with long face-framing layers offers a clean, ash-toned brunette option. The front layers fall softly around the collarbone to frame the face.",
         "imageUrl": "assets/stylish-dark-brown-hair_5.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -83921,7 +83921,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "6. Long Defined Waves with Rich Mocha Brown Hair",
-        "description": "Credit",
+        "description": "Rich mocha brown hair styled in defined waves features structured curves that catch light along every bend, adding visual texture to dark hair.",
         "imageUrl": "assets/stylish-dark-brown-hair_6.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -83932,7 +83932,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "7. Center-Parted Long Waves with Cocoa Brown Hair",
-        "description": "Credit",
+        "description": "A clean center part balances long cocoa brown waves, creating symmetry and effortless framing around the face. The warm brown tone softens overall facial features.",
         "imageUrl": "assets/stylish-dark-brown-hair_7.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -83943,7 +83943,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "8. Silky Long Layers with Deep Chocolate Brown Hair",
-        "description": "Credit",
+        "description": "Deep chocolate brown hair cut into silky long layers glides smoothly over the shoulders. The multi-tiered length creates weightless fluidity.",
         "imageUrl": "assets/stylish-dark-brown-hair_8.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -83954,7 +83954,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "9. Glossy Long Waves with Black-Brown Hair",
-        "description": "Credit",
+        "description": "Black-brown hair styled in glossy waves combines the depth of soft black with the warmth of rich dark brown, delivering maximum color depth.",
         "imageUrl": "assets/stylish-dark-brown-hair_9.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -83965,7 +83965,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "10. Shoulder-Length Layers with Neutral Dark Brown Hair",
-        "description": "Credit",
+        "description": "Neutral dark brown hair cut into shoulder-length layers provides a versatile, everyday style. Light texturizing at the ends adds bouncy movement.",
         "imageUrl": "assets/stylish-dark-brown-hair_10.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -83976,7 +83976,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "11. Ultra-Sleek Long Hair with Espresso Brown Color",
-        "description": "Credit",
+        "description": "Ultra-sleek, glass-like long hair in espresso brown highlights straight precision and intense shine. A flat-ironed finish keeps every strand aligned.",
         "imageUrl": "assets/stylish-dark-brown-hair_11.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -83987,7 +83987,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "12. Long Loose Waves with Soft Black-Brown Hair",
-        "description": "Credit",
+        "description": "Soft black-brown hair in long loose waves offers subtle texture without losing its deep, rich color identity. The relaxed wave pattern adds soft body.",
         "imageUrl": "assets/stylish-dark-brown-hair_12.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
@@ -83998,7 +83998,7 @@ const BLOG_POSTS_DATABASE = [
       },
       {
         "numberTitle": "13. Long Tousled Waves with Deep Coffee Brown Hair",
-        "description": "Credit",
+        "description": "Deep coffee brown hair styled in long tousled waves creates a modern, textured look with a lived-in feel. Piecey ends enhance natural movement.",
         "imageUrl": "assets/stylish-dark-brown-hair_13.jpg",
         "benefits": "Creates weightless height, quick morning styling time, and high visual volume.",
         "downsides": "Requires regular maintenance trims every 6-8 weeks to keep shape sharp.",
