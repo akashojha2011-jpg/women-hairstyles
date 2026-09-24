@@ -170,51 +170,95 @@
 
           <div class="item-actions-row">
             <button class="item-action-btn" onclick="pinToPinterest(event)"><i class="fab fa-pinterest-p"></i> SAVE TO PINTEREST</button>
-            <button class="item-action-btn" onclick="shareArticle()"><i class="fas fa-share-alt"></i> SHARE LOOK</button>
+            <button class="item-action-btn" onclick="shareLook(event)"><i class="fas fa-share-alt"></i> SHARE LOOK</button>
           </div>
         </div>
       </div>
+      <section class="related-feed-section">
+        <h3 class="font-serif" style="font-size: 1.65rem; font-weight: 700; margin-bottom: 1.5rem;">More Hair Guides</h3>
+        <div id="relatedFeedList">
+          <!-- JS Dynamic Injection -->
+        </div>
+      </section>
     </article>
   </main>
 
-  <footer class="footer">
-    <div class="container footer-inner">
-      <div class="footer-col brand-col">
-        <a href="./" class="logo-text footer-logo">Women<span class="logo-script">Hairstyles</span></a>
-        <p class="footer-desc">Your ultimate destination for salon-tested haircut inspiration, modern hair color trends, and professional styling advice.</p>
-        <div class="footer-social-links">
-          <a href="#" aria-label="Pinterest"><i class="fab fa-pinterest-p"></i></a>
-          <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+  <div class="mobile-sticky-pin-bar" onclick="pinToPinterest(event)">
+    <i class="fab fa-pinterest-p"></i> SAVE THIS LOOKBOOK IDEA
+  </div>
+
+  <footer class="byrdie-footer">
+    <div class="container">
+      <div class="byrdie-footer-grid">
+        <div class="byrdie-brand-col" id="aboutUs">
+          <a href="./" class="logo-text" style="color: #FFFFFF; font-size: 2.2rem; display: inline-block; margin-bottom: 0.8rem;">
+            Women<span class="logo-script" style="font-size: 2.5rem; color: #E879F9;">Hairstyles</span>
+          </a>
+
+          <p class="byrdie-tagline">
+            Our purpose is to help you find your next haircut, hairstyle, color or product that you'll love.
+          </p>
+
+          <form class="byrdie-newsletter-form" onsubmit="event.preventDefault(); alert('Subscribed to WomenHairstyles Newsletter!');">
+            <div class="byrdie-input-wrapper">
+              <i class="far fa-envelope"></i>
+              <input type="email" placeholder="you@example.com" required>
+            </div>
+            <button type="submit" class="byrdie-subscribe-btn">SUBSCRIBE</button>
+          </form>
+
+          <div class="byrdie-social-row">
+            <a href="#" aria-label="Pinterest" title="Pinterest"><i class="fab fa-pinterest-p"></i></a>
+            <a href="#" aria-label="Instagram" title="Instagram"><i class="fab fa-instagram"></i></a>
+          </div>
+        </div>
+
+        <div class="byrdie-links-group">
+          <div class="byrdie-link-col">
+            <h4 class="byrdie-col-heading">CATEGORIES</h4>
+            <a href="haircuts.html">HAIRCUTS</a>
+            <a href="hairstyles.html">HAIRSTYLES</a>
+            <a href="hair-color.html">HAIR COLOR</a>
+            <a href="guides.html">GUIDES</a>
+          </div>
+
+          <div class="byrdie-link-col">
+            <h4 class="byrdie-col-heading">COMPANY</h4>
+            <a href="about.html">ABOUT US</a>
+            <a href="editorial-policy.html">EDITORIAL STANDARDS</a>
+            <a href="contact.html">CONTACT US</a>
+          </div>
+
+          <div class="byrdie-link-col">
+            <h4 class="byrdie-col-heading">LEGAL</h4>
+            <a href="editorial-policy.html">EDITORIAL POLICY</a>
+            <a href="privacy.html">PRIVACY POLICY</a>
+            <a href="privacy.html#cookies">COOKIE POLICY</a>
+            <a href="terms.html">TERMS OF SERVICE</a>
+          </div>
         </div>
       </div>
 
-      <div class="footer-col">
-        <h4 class="footer-heading">Categories</h4>
-        <ul class="footer-links">
-          <li><a href="haircuts.html">Haircuts</a></li>
-          <li><a href="hairstyles.html">Hairstyles</a></li>
-          <li><a href="hair-color.html">Hair Color</a></li>
-          <li><a href="guides.html">Guides</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col">
-        <h4 class="footer-heading">Company</h4>
-        <ul class="footer-links">
-          <li><a href="about.html">About Us</a></li>
-          <li><a href="contact.html">Contact Us</a></li>
-          <li><a href="editorial-policy.html">Editorial Policy</a></li>
-          <li><a href="privacy.html">Privacy Policy</a></li>
-          <li><a href="terms.html">Terms of Service</a></li>
-        </ul>
-      </div>
-    </div>
-    <div class="footer-bottom">
-      <div class="container">
-        <p>&copy; 2026 Women Hairstyles. All rights reserved.</p>
+      <div class="byrdie-bottom-bar">
+        <span>WomenHairstyles.com &copy; 2013–2026. All rights reserved.</span>
+        <span class="authority-badge-dark" style="font-size: 0.72rem; padding: 0.2rem 0.65rem;">
+          <i class="fas fa-certificate"></i> INSPIRING HAIR TRENDS SINCE 2013
+        </span>
       </div>
     </div>
   </footer>
+
+  <div class="global-search-modal" id="globalSearchModal">
+    <div class="search-modal-content">
+      <button class="search-modal-close" id="closeSearchModal" title="Close Search">&times;</button>
+      <div class="search-modal-input-wrapper">
+        <i class="fas fa-search"></i>
+        <input type="text" id="globalSearchInput" class="search-modal-input" placeholder="Search haircuts, bobs, layers, color guides...">
+      </div>
+      <div class="search-modal-results" id="globalSearchResults">
+      </div>
+    </div>
+  </div>
 
   <script src="app.js?v=1.0.5"></script>
 </body>
