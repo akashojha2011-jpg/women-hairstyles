@@ -89693,11 +89693,11 @@ function renderActiveGalleryPhoto() {
   
   if (descriptionEl) {
     if (photo.paragraphs && Array.isArray(photo.paragraphs)) {
-      descriptionEl.innerHTML = photo.paragraphs.map(p => `<p class="item-desc-para">${p}</p>`).join("");
+      descriptionEl.innerHTML = photo.paragraphs.join("<br><br>");
     } else if (photo.description && photo.description.includes("\n\n")) {
-      descriptionEl.innerHTML = photo.description.split("\n\n").map(p => `<p class="item-desc-para">${p}</p>`).join("");
+      descriptionEl.innerHTML = photo.description.split("\n\n").join("<br><br>");
     } else {
-      descriptionEl.innerHTML = `<p class="item-desc-para">${photo.description}</p>`;
+      descriptionEl.innerHTML = photo.description || "";
     }
   }
 
