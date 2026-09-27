@@ -83199,7 +83199,8 @@ const BLOG_POSTS_DATABASE = [
             "density": "Fine to Thick Density",
             "image": "assets/glossy-espresso-brunette_18.jpg"
       }
-],
+    ]
+  },
   {
     "id": "chocolate-caramel-hair-color",
     "category": "Hair Color",
