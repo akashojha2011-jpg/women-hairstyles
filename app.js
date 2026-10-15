@@ -89206,7 +89206,7 @@ const BLOG_POSTS_DATABASE = [
         "image": "assets/black-hair-silver-money-piece_18.jpg"
       }
     ]
-  },,,
+  },
   {
     "id": "blonde-balayage-curtain-bangs",
     "category": "Hair Color",
@@ -93364,7 +93364,7 @@ function initArticlePage() {
     articleId = articleId.toLowerCase().trim();
   }
 
-  currentArticle = BLOG_POSTS_DATABASE.find(a => a.id.toLowerCase() === articleId);
+  currentArticle = BLOG_POSTS_DATABASE.find(a => a && a.id && a.id.toLowerCase() === articleId);
 
   if (!currentArticle) {
     // If not found in JS database, preserve pre-rendered static HTML content!
