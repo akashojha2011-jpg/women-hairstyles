@@ -367,6 +367,26 @@
   }
 
   /**
+   * Helper to resolve asset and article URLs properly regardless of whether
+   * the page is hosted at /bangs-style-finder/, /bangs-style-finder.html, or local file://
+   */
+  function resolveUrl(relativeUrl) {
+    if (!relativeUrl) return '';
+    if (relativeUrl.startsWith('http://') || relativeUrl.startsWith('https://')) {
+      return relativeUrl;
+    }
+    const clean = relativeUrl.replace(/^\.?\//, '');
+    if (window.location.protocol === 'file:') {
+      if (window.location.pathname.includes('/bangs-style-finder/')) {
+        return '../' + clean;
+      }
+      return clean;
+    }
+    // On web servers (http / https), root-relative path guarantees it loads from domain root
+    return '/' + clean;
+  }
+
+  /**
    * Render Personalized Results Section
    */
   function renderResults(results) {
@@ -377,6 +397,9 @@
     // 1. Render Top Recommendation
     const topImg = imgConfig[topMatch.id] || { src: topMatch.image, alt: topMatch.name };
     const topArticle = articles[topMatch.id] || { url: "haircuts.html", title: "Explore Hairstyle Guides" };
+    const topImgSrc = resolveUrl(topImg.src);
+    const topImgFallback = resolveUrl("assets/curtain-bangs-with-layers_1.jpg");
+    const topArticleUrl = resolveUrl(topArticle.url);
 
     if (elements.topResultCard) {
       elements.topResultCard.innerHTML = `
@@ -388,7 +411,7 @@
         <div class="result-hero-grid">
           <div class="result-image-column">
             <div class="result-img-wrapper">
-              <img src="${topImg.src}" alt="${topImg.alt}" class="result-hair-img" loading="eager" onerror="this.onerror=null; this.src='assets/curtain-bangs-with-layers_1.jpg';">
+              <img src="${topImgSrc}" alt="${topImg.alt}" class="result-hair-img" loading="eager" onerror="this.onerror=null; this.src='${topImgFallback}';">
               <span class="photo-credit-pill"><i class="fas fa-camera"></i> Editorial Style Reference</span>
             </div>
           </div>
@@ -433,7 +456,7 @@
             </div>
 
             <div class="result-action-row">
-              <a href="${topArticle.url}" class="explore-article-btn">
+              <a href="${topArticleUrl}" class="explore-article-btn">
                 <i class="fas fa-book-open"></i> Read Full ${topMatch.name} Guide <i class="fas fa-arrow-right"></i>
               </a>
             </div>
@@ -447,6 +470,9 @@
       elements.altResultsList.innerHTML = alternatives.map((alt) => {
         const altImg = imgConfig[alt.id] || { src: alt.image, alt: alt.name };
         const altArticle = articles[alt.id] || { url: "haircuts.html", title: "Explore Guides" };
+        const altImgSrc = resolveUrl(altImg.src);
+        const altImgFallback = resolveUrl("assets/long-wispy-curtain-bangs_1.jpg");
+        const altArticleUrl = resolveUrl(altArticle.url);
 
         return `
           <div class="alt-result-card">
@@ -456,7 +482,7 @@
             </div>
 
             <div class="alt-img-frame">
-              <img src="${altImg.src}" alt="${altImg.alt}" class="alt-hair-img" loading="lazy" onerror="this.onerror=null; this.src='assets/long-wispy-curtain-bangs_1.jpg';">
+              <img src="${altImgSrc}" alt="${altImg.alt}" class="alt-hair-img" loading="lazy" onerror="this.onerror=null; this.src='${altImgFallback}';">
             </div>
 
             <div class="alt-body">
@@ -470,7 +496,7 @@
               </div>
 
               <div class="alt-action">
-                <a href="${altArticle.url}" class="alt-link-btn">
+                <a href="${altArticleUrl}" class="alt-link-btn">
                   Explore ${alt.name} Guide <i class="fas fa-chevron-right"></i>
                 </a>
               </div>
